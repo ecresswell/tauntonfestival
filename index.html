@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="news">
+    <div>
+        <h1>The News</h1>
+    </div>
+    {% assign sorted_pages = site.pages | sort: "date" %}
+    {% for page in sorted_pages %}
+        {% if page.special == "news" %}
+            <div>
+                <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+            </div>
+            <div>
+                {{ page.content }}
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
