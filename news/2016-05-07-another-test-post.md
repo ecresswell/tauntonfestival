@@ -7,4 +7,4 @@ permalink: "/news/2016/05/another-test-post"
 redirect_from: "/2016/05/another-test-post"
 ---
 
-Bimibmbip
+Second Post
