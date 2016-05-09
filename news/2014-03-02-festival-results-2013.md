@@ -6,7 +6,7 @@ date: 2014-03-02 09:00:00
 permalink: "/news/2014/03/festival-results-2013/"
 redirect_from: "/2014/03/festival-results-2013/"
 ---
-
+<section>
 
                     
                     <p><b><span style="text-decoration: underline;">Piano classes</span>: </b>solo beginners, 8 years and under,  Ella Hague (Medal Award), solo beginners, 9 years and over, Amalie Ridley, (Medal Award), solo, 8 years and under, Julia Louw, (Medal Award), solo 10 years and under, Tom Hopwood, (Medal Award).solo 12 years and under, Daniel Seow (Blackdown Cup), solo 14 years and under, Frankie Summerfield (Kingsfield Cup), solo 16years and under, Alexandra Seow (Portman Cup), solo 18 years and under, Mickey Li (W L Reed Cup), solo 13 years and under, any piece by Bach, Alexandra Seow (Bach Shield), solo18 years and under, any piece by Bach, Mickey Li, (Bach Cup),  solo 13 years and under, a piece by a Baroque composer, other than J S Bach, Ben Shattock (Medal Award),  solo 18 years and under, a piece by a Baroque composer other than J S Bach, Steven Li,  solo Jazz 10 years and under, Michael Warrick, (Medal Award),  solo Jazz 14 years and under, Ben Shattock (Medal Award), Open Piano Solo, Raymond Hung (Tim Harrison Trophy),<span style="text-decoration: underline;">Piano</span> <span style="text-decoration: underline;">Duet</span> 10 years and under, Tommy Hill &amp; Jamie Hill (Junior Piano Duet Cup),  duet, 14 years and under, Jess Hughes &amp; Frankie Summerfield (Alison Gibson Trophy),  Piano<span style="text-decoration: underline;"> Trio</span> 10 years and under, Felicity Cauchois, Sophie Richards &amp; Neeve Waylet (Medal Award),  <span style="text-decoration: underline;">Music composition</span>, 11 years and under, Julia Louw (Voucher Award)</p>
@@ -35,3 +35,4 @@ redirect_from: "/2014/03/festival-results-2013/"
 <p><b><span style="text-decoration: underline;">Senior Vocal Classes</span>: </b>solo, excluding opera, operetta, musicals, oratorio and Lieder, Margaret Johnson, (Kenneth Ellis Cup), British Art Song, Veronica Lee, French Melodie, in the original language, Veronica Lee,  German Lieder, Simon Copp &amp; Keith Jones (Diana Rees Lieder Trophy),  Light Opera, Irene Sharratt, Song from a Musical Show, composed up to 1949, Irene Sharratt, Song from a Musical Show, composed from 1950, Jasmine Bowden,  Opera, excluding light opera, Margaret Johnson (Somerset Motors Cup), Oratorio, Cantata or Similar Sacred Solo, Veronica Lee (Bach Cup), Recital, Veronica Lee (Rosa Ewing Trophy)</p>
 
                 
+</section>

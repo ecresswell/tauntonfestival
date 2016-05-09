@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2011-12/"
 redirect_from: "/2014/02/taunton-young-musician-report-2011-12/"
 ---
-
+<section>
 
                     
                     <h2>6th Taunton Young Musician of the Year Competition</h2>
@@ -20,3 +20,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2011-12/"
 <p>The competition was again hosted by Queen’s College and supported by the Taunton &#038; Somerset Music &#038; Drama Festival and the Rotary Clubs of Taunton and Taunton Vale.  </p>
 
                 
+</section>

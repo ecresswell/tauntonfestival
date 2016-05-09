@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-results-2010/"
 redirect_from: "/2014/02/festival-results-2010/"
 ---
-
+<section>
 
                     
                     <p>MUSIC FESTIVAL WINNERS</p>
@@ -159,3 +159,4 @@ Shakespeare Open &#8211; Alistair Kirby &#8211; Medal Award</p>
 <p>The prestigious Margaret Way Memorial Cup &#8211; Adjudicator’s Award, was won by TAUNTON PREP SCHOOL (Festival Blues &#8211; Stella Pyne, Laurie Dawkins, Phoebe Brice and Lucy Badcock) and was presented at the 97th Festival Concert at the Temple Methodist Church on Sunday 28 November 2010. </p>
 
                 
+</section>

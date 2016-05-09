@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2012-13/"
 redirect_from: "/2014/02/taunton-young-musician-report-2012-13/"
 ---
-
+<section>
 
                     
                     <h2>7th Taunton Young Musician of the Year Competition 2012</h2>
@@ -24,3 +24,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2012-13/"
 <p>L-R Junior winner Nazariy Alexandriants; Edward Creed (pianist) winner Taunton Young Musician of the Year; adjudicator Graeme Humphrey; Lucy Bray (soprano) 2nd; Natalie Too (cellist) 3rd; adjudicators Colin Touchin (Chairman) and Melanie Armitstead.</p>
 
                 
+</section>

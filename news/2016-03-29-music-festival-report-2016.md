@@ -6,7 +6,7 @@ date: 2016-03-29 09:00:00
 permalink: "/news/2016/03/music-festival-report-2016/"
 redirect_from: "/2016/03/music-festival-report-2016/"
 ---
-
+<section>
 
                     
                     <h2>102nd  Taunton Festival of the Arts</h2>
@@ -55,3 +55,4 @@ redirect_from: "/2016/03/music-festival-report-2016/"
 <u>Parent &#038; Child Duet</u> Alana &#038; Jackie Cottey (Medal Award) </p>
 
                 
+</section>

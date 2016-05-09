@@ -6,7 +6,7 @@ date: 2014-02-23 09:00:00
 permalink: "/news/2014/02/alice-song-cycle/"
 redirect_from: "/2014/02/alice-song-cycle/"
 ---
-
+<section>
 
                     
                     <h3>A song cycle composed by Julian Breeze<br />
@@ -34,3 +34,4 @@ There will be two concerts – </p>
 <p><a href="http://www.tauntonfestival.org.uk/wp-content/uploads/2014/02/Centenary-Festival-Alice-in-Wonderland-Leaflet.pdf" onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2014/02/Centenary-Festival-Alice-in-Wonderland-Leaflet.pdf']);" >Centenary Festival &#8211; Alice in Wonderland Leaflet</a></p>
 
                 
+</section>

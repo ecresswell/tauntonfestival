@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Reminder: Four Grand Finals at the end of February
+title: Reminder- Four Grand Finals at the end of February
 special: news
 date: 2016-01-10 09:00:00
 permalink: "/news/2016/01/reminder-four-grand-finals-at-the-end-of-february/"
 redirect_from: "/2016/01/reminder-four-grand-finals-at-the-end-of-february/"
 ---
-
+<section>
 
                     
                     <p>Don&#8217;t forget that there are four Grand Finals at the end of February!</p>
@@ -37,3 +37,4 @@ Queen&#8217;s College, Taunton<br />
 Audience entry: £10.00</p>
 
                 
+</section>

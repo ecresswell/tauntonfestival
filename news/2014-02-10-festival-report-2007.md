@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-report-2007/"
 redirect_from: "/2014/02/festival-report-2007/"
 ---
-
+<section>
 
                     
                     <p>The 94th Taunton &#038; Somerset Music &#038; Drama Festival, was held during the week 12th &#8211; 17th November 2007.</p>
@@ -14,3 +14,4 @@ redirect_from: "/2014/02/festival-report-2007/"
 <p>In the Speech and Drama Classes, Mrs Anne Harris-Norman, adjudicator, expressed her delight at the standard of the work presented and said that she had had a very enjoyable and exciting week. She had found it extremely hard choosing the winners in each class, as the work had been so well prepared. The fluent delivery of verse and prepared reading, from both the very young to the 16 year olds was to be commended. To hear Shakespeare spoken so well had been a delight, as was the solo and duo acting. Mrs Harris-Norman was pleased to award the Miriam Chapman Award to Charlotte Hamilton who, in her opinion, showed the most endeavour and promise. She thanked the drama committee for inviting her this year. </p>
 
                 
+</section>

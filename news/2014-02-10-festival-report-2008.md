@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-report-2008/"
 redirect_from: "/2014/02/festival-report-2008/"
 ---
-
+<section>
 
                     
                     <p><strong>Music</strong><br />
@@ -17,3 +17,4 @@ The word applause is written all over him.’ </p>
 <p>Carol Ann Duffy’s poem ‘Talent’, from which the above is taken perfectly sums up the greatest part of the Speech and Drama section of our Festival.We have some enormously talented individuals who ooze confidence and panache as they perform their carefully rehearsed pieces during our week, but we also have hundreds of other entrants.They don’t necessarily win their sections, things sometimes don’t go to plan, but they don’t ever lose, they overcome their own fears and trepidations to give ‘their performance of a lifetime’. The joy we as organisers, parents and teachers receive from these entrants is enormous, but, more importantly, the experience and confidence they gain will stay with them for the rest of their lives.So as we end our week, I salute the winners:I enjoyed your performances, but I also salute those who win in their own way.I enjoyed every one of the 500 or so children I watched perform at the Temple Methodist Hall last week:thank you all for taking part.Thank you to your teachers and parents and, of course, thank you to Michael Stone our incredible adjudicator.He gave his enormous experience and enthusiasm freely and generously to each one of you.As we all were, he was enormously impressed with the range and quality of work displayed.I must also mention John Carrington, who adjudicated for the first time our 8-year Prepared Reading section, we hope to have you back again next year.Finally a huge thank you to the drama section committee.As a new secretary I really appreciated all your help, enthusiasm, experience and commitment to this fantastic Festival.I can’t wait until next year! </p>
 
                 
+</section>

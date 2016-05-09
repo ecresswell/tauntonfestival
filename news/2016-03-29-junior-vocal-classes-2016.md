@@ -6,7 +6,7 @@ date: 2016-03-29 09:00:00
 permalink: "/news/2016/03/junior-vocal-classes-2016/"
 redirect_from: "/2016/03/junior-vocal-classes-2016/"
 ---
-
+<section>
 
                     
                     <p>The Junior Vocal classes of the Music festival go from strength to strength: three and a half days of young people between the ages of eight to eighteen singing mostly solos, some duets and finally a morning of choirs, when 450 performers filled the hall, creating a great atmosphere of commitment and wholehearted enjoyment. Gaynor Keeble, the adjudicator for all the classes, never failed to deliver praise, positive strokes and constructive comment.  (Vocal secretary Linda Marshall Cole)</p>
@@ -21,3 +21,4 @@ redirect_from: "/2016/03/junior-vocal-classes-2016/"
 <u>Senior Choirs</u>: Years 7-11, Crispin School Choir (Bishop Fox Cup)</p>
 
                 
+</section>

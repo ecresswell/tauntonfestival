@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-results-2012/"
 redirect_from: "/2014/02/festival-results-2012/"
 ---
-
+<section>
 
                     
                     <p>The 99th Festival, held in Temple Methodist Church and Queen’s College Taunton, saw yet another wonderful week of Drama and Music, with performances of every variety from hundreds of young people.<br />
@@ -43,3 +43,4 @@ This was a day, which started with the gentle and subtle sound of recorders, mov
 <p>This year&#8217;s unsuccessful students who without exception played or sang very well, are warmly congratulated on their performances and strongly encouraged to try again next year.  </p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-report-2011/"
 redirect_from: "/2014/02/festival-report-2011/"
 ---
-
+<section>
 
                     
                     <p>The 2011 Festival, held in Temple Methodist Church and Queen’s College Taunton, saw yet another successful year of Drama and Music, with performances from hundreds of young people.</p>
@@ -16,3 +16,4 @@ redirect_from: "/2014/02/festival-report-2011/"
 <p>Vocal classes. The key word for the two days of vocal classes was variety, with singing of a high standard from all ages. The range of voice qualities and styles covered everything from Bach to Sister Act. The Junior and Senior Choir classes created a real ‘buzz’ among performers and hugely supportive audience alike; parents clearly felt that the young singers were privileged to be taking part in such rewarding music making. </p>
 
                 
+</section>

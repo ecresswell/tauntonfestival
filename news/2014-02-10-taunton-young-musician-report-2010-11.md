@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2010-11/"
 redirect_from: "/2014/02/taunton-young-musician-report-2010-11/"
 ---
-
+<section>
 
                     
                     <h2>5th Taunton Young Musician of the Year Competition</h2>
@@ -16,3 +16,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2010-11/"
 <p>The photo above shows the winner Kirsty Chaplin receiving the prize from the Mayor of Taunton Deane, Councillor Jefferson Horsley. The other photo below is of all finalists with the adjudicators and Mayor. </p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2014-03-29 09:00:00
 permalink: "/news/2014/03/annual-general-meeting-26th-march-2014/"
 redirect_from: "/2014/03/annual-general-meeting-26th-march-2014/"
 ---
-
+<section>
 
                     
                     <p>The AGM of the Taunton Festival of the Arts took place on Wednesday, 26th March 2014 at the Taunton Catholic Centre in a lively and appreciative atmosphere.</p>
@@ -17,3 +17,4 @@ redirect_from: "/2014/03/annual-general-meeting-26th-march-2014/"
 <p>It can also be mentioned that the British International Federation of Festivals is a valuable source of information and advice when needed.</p>
 
                 
+</section>

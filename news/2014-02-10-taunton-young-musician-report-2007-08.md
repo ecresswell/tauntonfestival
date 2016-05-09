@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2007-08/"
 redirect_from: "/2014/02/taunton-young-musician-report-2007-08/"
 ---
-
+<section>
 
                     
                     <h2>Taunton Young Musician &#8211; Winners 2007-8 </h2>
@@ -19,3 +19,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2007-08/"
 <p>The Mayor &#038; Mayoress congratulated all those who took part in the competition and wished them every success in their future careers.  </p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-results-2008/"
 redirect_from: "/2014/02/festival-results-2008/"
 ---
-
+<section>
 
                     
                     <p>MUSIC FESTIVAL WINNERS<br />
@@ -163,3 +163,4 @@ Open &#8211; Laura Fitzpatrick and Charly Andrews</p>
 <p>The Miriam Chapman Award for the entrant who, in the adjudicator’s opinion, shows the most promise, was awarded to Millie Smyth.</p>
 
                 
+</section>

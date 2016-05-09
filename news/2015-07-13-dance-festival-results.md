@@ -6,7 +6,7 @@ date: 2015-07-13 09:00:00
 permalink: "/news/2015/07/dance-festival-results/"
 redirect_from: "/2015/07/dance-festival-results/"
 ---
-
+<section>
 
                     
                     <p>The dance section of Taunton Festival of the Arts enjoyed seeing dancers from all over the South West compete in a friendly dance competition at the Brewhouse Theatre, Taunton.</p>
@@ -48,3 +48,4 @@ redirect_from: "/2015/07/dance-festival-results/"
 <p><a href="http://www.tauntonfestival.org.uk/events/dance-festival/">Please view our Dance Festival page for more details.</a></p>
 
                 
+</section>

@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Reminder: Festival Handbook launches this Friday!
+title: Reminder- Festival Handbook launches this Friday!
 special: news
 date: 2014-09-22 09:00:00
 permalink: "/news/2014/09/reminder-festival-handbook-launches-this-friday/"
 redirect_from: "/2014/09/reminder-festival-handbook-launches-this-friday/"
 ---
-
+<section>
 
                     
                     <p>Our Festival Handbook for 2015 will be launching this Friday, and will be available to download on the website from Saturday!</p>
 
                 
+</section>

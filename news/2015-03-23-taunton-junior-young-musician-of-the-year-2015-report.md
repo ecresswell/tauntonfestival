@@ -6,7 +6,7 @@ date: 2015-03-23 09:00:00
 permalink: "/news/2015/03/taunton-junior-young-musician-of-the-year-2015-report/"
 redirect_from: "/2015/03/taunton-junior-young-musician-of-the-year-2015-report/"
 ---
-
+<section>
 
                     
                     <p>When you open the entries for Taunton Junior Young Musician, you hope for variety, and this year’s competition in Temple Methodist Church did not disappoint. We heard Ellen Steward on clarinet, Kate Jackson , recorder; Heidi Blades , piano ; Ella Leonard, oboe ; Alex Christopher, trumpet ; Ben Shattock, piano and Poppy McGhee, recorder . The pieces chosen were challenging, and one had to remind oneself that these students were aged between 9 and 14 yrs, and all were of Grade V standard or higher.</p>
@@ -17,3 +17,4 @@ redirect_from: "/2015/03/taunton-junior-young-musician-of-the-year-2015-report/"
 Having won the Taunton Junior Young Musician Competition, Ella Leonard was selected to take part in the Rotary District Music Competition at the Kings of Wessex School in Cheddar on Sunday 1st March as the Taunton Rotary Club entrant. Not only was she the winner of that competition but was also awarded the cup for the best performance of the afternoon pitted against the singers who were taking part in the Vocal section of the competition. She will now go forward to the Rotary Regional Competition to take place in Plymouth on April 19th. Congratulations Ella!</p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2014-03-02 09:00:00
 permalink: "/news/2014/03/festival-report-2013/"
 redirect_from: "/2014/03/festival-report-2013/"
 ---
-
+<section>
 
                     
                     <p>The 100th Festival, held in Taunton School, Temple Methodist Church, Queen’s College Junior School and Queen’s College Taunton, saw yet another wonderful week of Music, with performances of every variety from hundreds of young people. </p>
@@ -17,3 +17,4 @@ The high level of endeavour &#038; dedication were rewarded by the sheer quality
 <p><strong>Vocal Day</strong>. Large numbers of bright and interested young people singing and receiving considered and helpful adjudications from excellent adjudicators. Several Junior and Senior choirs took part in the afternoon, filling the Hall to bursting and delighting the audience with their confidence and verve. There was probably a record number of entrants for our 100th anniversary. (Linda Marshall Cole)</p>
 
                 
+</section>

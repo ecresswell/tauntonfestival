@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2008-09/"
 redirect_from: "/2014/02/taunton-young-musician-report-2008-09/"
 ---
-
+<section>
 
                     
                     <h2>Taunton Young Musician Results 2008-9</h2>
@@ -21,3 +21,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2008-09/"
 (originally for the Somerset County Gazette, link to <a href="http://www.somersetcountygazette.co.uk/search/4088585.Taunton_musician_of_the_year_winners/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.somersetcountygazette.co.uk/search/4088585.Taunton_musician_of_the_year_winners/', 'news article']);" >news article</a>) </p>
 
                 
+</section>

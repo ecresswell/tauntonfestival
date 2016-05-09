@@ -6,7 +6,7 @@ date: 2014-02-23 09:00:00
 permalink: "/news/2014/02/church-day-2013-junior-course/"
 redirect_from: "/2014/02/church-day-2013-junior-course/"
 ---
-
+<section>
 
                     
                     <p><strong>A report from Josie Cresswell, Head Chorister at St Mary Magdalene</strong></p>
@@ -17,3 +17,4 @@ redirect_from: "/2014/02/church-day-2013-junior-course/"
 <p>Tea time, there were homemade cakes and cups of tea which was really lovely and for us to join everyone again for some socialising. After tea had finished everybody sat in their seats ready for the service to start. It was a really lovely service with everybody following the lead of Lindsay Gray really well, creating a feel of a more professional choir! All of the junior solo&#8217;s went really well and was done with conviction. The whole service felt really special with the different genres of choral music with the more light-hearted Bob Chilcott to the beautiful tune of the adult piece &#8216;O Taste and Come and See&#8217; to the glorious &#8216;Zadok the Priest&#8217;.</p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-report-2012/"
 redirect_from: "/2014/02/festival-report-2012/"
 ---
-
+<section>
 
                     
                     <p><strong>99th Taunton and Somerset Music, Drama and Dance Festival</strong></p>
@@ -30,3 +30,4 @@ This had been a joy this year, with both ‘Outstanding’ and ‘Distinction’
 <p>Both adjudicators expressed pleasure with the talent and commitment of all the competitors, and praised the teachers for their hard work and the parents for their continued support given to the children.  The attendances of parents, grandparents and other members of the family in the Church had been impressive.  They had both had an enjoyable week and wished the Festival great success in its Centenary Year 2013.</p>
 
                 
+</section>

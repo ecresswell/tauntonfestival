@@ -6,7 +6,7 @@ date: 2014-02-23 09:00:00
 permalink: "/news/2014/02/thanksgiving-service-2013/"
 redirect_from: "/2014/02/thanksgiving-service-2013/"
 ---
-
+<section>
 
                     
                     <p>Through gates of pearl streams in the countless host – singing&#8221;: fitting words at the start of the Service of Thanksgiving on 19th May, part of the centenary celebrations for the Taunton Festival.  A large congregation had gathered in St Mary Magdalene church and a choir of about 40 processed in through the wonderful angel doors, singing the hymn &#8216;For all the saints&#8217; (from which come the words above), to join another 20 or so singers already in place in the chancel.</p>
@@ -18,3 +18,4 @@ redirect_from: "/2014/02/thanksgiving-service-2013/"
 22 May 2013</em></p>
 
                 
+</section>

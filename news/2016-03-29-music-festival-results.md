@@ -6,7 +6,7 @@ date: 2016-03-29 09:00:00
 permalink: "/news/2016/03/music-festival-results/"
 redirect_from: "/2016/03/music-festival-results/"
 ---
-
+<section>
 
                     
                     <p>Results from the Music Festivals are now available! Competition results can be found below, and please <a href="http://www.tauntonfestival.org.uk/2016/03/music-festival-report-2016/">see our festival reports for the winners of each individual class.</a></p>
@@ -35,3 +35,4 @@ redirect_from: "/2016/03/music-festival-results/"
 <p>Congratulations and thanks to all those involved!</p>
 
                 
+</section>

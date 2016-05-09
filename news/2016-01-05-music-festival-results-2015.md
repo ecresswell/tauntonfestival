@@ -6,7 +6,7 @@ date: 2016-01-05 09:00:00
 permalink: "/news/2016/01/music-festival-results-2015/"
 redirect_from: "/2016/01/music-festival-results-2015/"
 ---
-
+<section>
 
                     
                     <p><strong>Piano classes</strong>: Beginners, 7 years and under, Isla Ridley (Medal Award), Beginners 8 years and under, Eleanor Renville (Medal Award),  Beginners, 9 years and over, Jocelyn Chappell, (Medal Award), solo piano 8 years and under, Charlotte Ambler, (Medal Award), solo piano 10 years and under, Julia Louw, (Medal Award), solo piano 12 years and under, Ben Shattock (Blackdown Cup), solo piano 11 years and under, a piece by a Baroque composer other than JS Bach, Ben Shattock (Medal Award), solo piano 13 years and under, a piece by a Baroque composer other than Bach, Ben Shattock (Medal Award),  solo piano 13 years and under, Ben Shattock (Medal Award), solo piano 14 years and under, Michael Qureshi (Kingsfield Cup), solo piano 16 years and under, Isobel Olivey (Portman Cup), solo piano 18 years and under, Mandy Cheong (W L Reed Cup), Open  Piano Solo, Valerie Tsoi (Tim Harrison Trophy),  solo Jazz 10 years and under, Alice Herbert, (Medal Award),  solo Jazz 12 years and under, Ben Shattock (Medal Award), solo Jazz 14 years and under Ben Shattock (Medal Award), solo Jazz 16 years and under, Ben Shattock (Medal Award), ,Piano Duet 10 years and under, Georgina Ambler and Charlotte Ambler (Junior Piano Duet Cup),  duet, 14 years and under, Jess Hughes &#038; Frankie Summerfield (Alison Gibson Trophy). Piano Sight Reading, 18 years and over, Emily Price (David Horwood Cup),  Music composition, 11 years and under, JJ Dayus-Jones (Voucher Award)</p>
@@ -41,3 +41,4 @@ Vocal Duet:12 years and under, Morwenna Crook &#038; Lottie Michaels, (Medal Awa
 <strong>Senior Vocal Classes</strong>: solo, excluding opera, operetta, musicals, oratorio and Lieder, Irene Sharratt, (Kenneth Ellis Cup), French Melodie, in the original language, Irene Sherratt,  Italian song, in the original language, Margaret Johnson. Light Opera, Sarah Jane Cross. Song from a Musical Show composed up to 1949, Theodora Poole.  Song from a Musical Show, composed from 1950, Sarah Jane Cross.  Oratorio, Cantata or Similar Sacred Solo, Margaret Johnson (Bach Cup), Recital, Margaret Johnson (Rosa Ewing Trophy)</p>
 
                 
+</section>

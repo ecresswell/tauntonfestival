@@ -6,7 +6,7 @@ date: 2014-11-29 09:00:00
 permalink: "/news/2014/11/taunton-young-musician-competition-201415-preliminary-round/"
 redirect_from: "/2014/11/taunton-young-musician-competition-201415-preliminary-round/"
 ---
-
+<section>
 
                     
                     <p>The preliminary round of the Taunton Young Musician Competition took place at Taunton School on Sunday, 23rd November 2014.</p>
@@ -17,3 +17,4 @@ redirect_from: "/2014/11/taunton-young-musician-competition-201415-preliminary-r
 <p>The distinguished adjudicator, Ian Smith, who had travelled all the way from Bedfordshire for the event, was effusive in his praise of the standard of musicianship on offer, and the varied choice of works being played.</p>
 
                 
+</section>

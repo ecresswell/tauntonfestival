@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-results-2011/"
 redirect_from: "/2014/02/festival-results-2011/"
 ---
-
+<section>
 
                     
                     <p>The 2011 Festival, held in Temple Methodist Church and Queen’s College Taunton, saw yet another successful year of Drama and Music, with performances from hundreds of young people. </p>
@@ -118,3 +118,4 @@ Mixed Voice Choirs, Urban Voice,<br />
 Male Voice Choirs, Bois Coetre-Hen a’r Cylch Male Voice Choir. </p>
 
                 
+</section>

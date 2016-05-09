@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-report-2010/"
 redirect_from: "/2014/02/festival-report-2010/"
 ---
-
+<section>
 
                     
                     <p><strong>Music</strong><br />
@@ -17,3 +17,4 @@ Six nationally, and internationally, experienced adjudicators dealing with hundr
 Again this year the drama section of the Festival, which ran from 15 &#8211; 19 November at the Temple Methodist Church, Taunton was a great success and goes from strength to strength. Over 500 children took part in classes ranging from spoken verse, due acting, choral verse, Shakespeare and Bible Reading. The adjudicators, John Carrington MA and Michael Stone LLAM expressed their delight at the high standard of work and praised the teachers for their dedication in helping to keep the &#8216;arts&#8217; alive and to making the drama side of the Festival so very interesting.&#8217;</p>
 
                 
+</section>

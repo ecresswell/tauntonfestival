@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-report-2009/"
 redirect_from: "/2014/02/festival-report-2009/"
 ---
-
+<section>
 
                     
                     <p>One of the longest established Festivals in this country, the 96th Taunton &#038; Somerset Music &#038; Drama Festival, began in style on Monday, 16th November.</p>
@@ -20,3 +20,4 @@ redirect_from: "/2014/02/festival-report-2009/"
 <p>Music is well and truly alive in Taunton and Somerset! </p>
 
                 
+</section>

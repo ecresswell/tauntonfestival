@@ -6,7 +6,7 @@ date: 2015-10-06 09:00:00
 permalink: "/news/2015/10/entries-now-open-for-many-competitions/"
 redirect_from: "/2015/10/entries-now-open-for-many-competitions/"
 ---
-
+<section>
 
                     
                     <p>Entries are now open for the below 4 Music Festival competitions, as well as for the Film Festival!</p>
@@ -17,3 +17,4 @@ redirect_from: "/2015/10/entries-now-open-for-many-competitions/"
 &#8211; <a href="http://www.tauntonfestival.org.uk/events/film-festival/">The Film Festival</a></p>
 
                 
+</section>

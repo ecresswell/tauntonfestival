@@ -6,7 +6,7 @@ date: 2014-02-23 09:00:00
 permalink: "/news/2014/02/church-day-2013-adult-course/"
 redirect_from: "/2014/02/church-day-2013-adult-course/"
 ---
-
+<section>
 
                     
                     <p><strong>A reflection from Rosemary Berry, member of the Adult Course</strong></p>
@@ -25,3 +25,4 @@ We met first at St James where a wonderfully sunny morning was reflected in the 
 <p>My thanks go to all the organisers, conductor and accompanists for brilliant organisation, a congenial relaxed atmosphere and a very happy day. It was good to be part of it. THANK YOU!</p>
 
                 
+</section>

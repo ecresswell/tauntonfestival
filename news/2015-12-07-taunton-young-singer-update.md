@@ -6,7 +6,7 @@ date: 2015-12-07 09:00:00
 permalink: "/news/2015/12/taunton-young-singer-update/"
 redirect_from: "/2015/12/taunton-young-singer-update/"
 ---
-
+<section>
 
                     
                     <p>The first round of this competition was held in the Gwyn Williams Room at Taunton School on Sunday 22nd, November, 2015.   Four excellent singers were put through to the Final, namely:</p>
@@ -21,3 +21,4 @@ redirect_from: "/2015/12/taunton-young-singer-update/"
 <p><a href="http://www.tauntonfestival.org.uk/events/music-festival/taunton-young-singer/">For more information on the competition please see our TYS page.</a></p>
 
                 
+</section>

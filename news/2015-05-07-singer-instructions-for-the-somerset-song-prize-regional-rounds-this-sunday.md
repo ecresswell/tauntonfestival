@@ -6,7 +6,7 @@ date: 2015-05-07 09:00:00
 permalink: "/news/2015/05/singer-instructions-for-the-somerset-song-prize-regional-rounds-this-sunday/"
 redirect_from: "/2015/05/singer-instructions-for-the-somerset-song-prize-regional-rounds-this-sunday/"
 ---
-
+<section>
 
                     
                     <p>The regional rounds of <a href="/events/music-festival/somerset-song-prize/">the Somerset Song Prize</a> will be held this Sunday, 10th May.</p>
@@ -25,3 +25,4 @@ There will be an SSP rep at each venue to help.</p>
 <p>Toi toi toi!</p>
 
                 
+</section>

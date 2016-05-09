@@ -6,7 +6,7 @@ date: 2016-04-05 09:00:00
 permalink: "/news/2016/04/drama-festival-results-2016/"
 redirect_from: "/2016/04/drama-festival-results-2016/"
 ---
-
+<section>
 
                     
                     <p>Verse Speaking Year 6 &#038; Under<br />
@@ -127,3 +127,4 @@ Senior Winner – Billy Hemmings</p>
 <p><strong>OVERALL WINNER</strong> – Nyah Davies</p>
 
                 
+</section>

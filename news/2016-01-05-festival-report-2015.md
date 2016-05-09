@@ -6,7 +6,7 @@ date: 2016-01-05 09:00:00
 permalink: "/news/2016/01/festival-report-2015/"
 redirect_from: "/2016/01/festival-report-2015/"
 ---
-
+<section>
 
                     
                     <p>The 101st Music Festival, held in Taunton School, Temple Methodist Church, and Queen’s College Taunton, saw yet another wonderful packed week of music making &#8211;  the move from November to February has proved an encouraging one, with more entrants than ever before. </p>
@@ -16,3 +16,4 @@ redirect_from: "/2016/01/festival-report-2015/"
 <p>The <strong>Vocal Day</strong> experienced 2 stunning days of vocal competition, with young people from ages of 8 to 18, in unprecedented numbers.  Singing is alive and well in this corner of Somerset!  The two excellent adjudicators, Sarah Jefferies and Alison Sutton were very impressed by the high standard of the young singers, and frequently complimented them on the quality of their performances. (Linda Marshall Cole)</p>
 
                 
+</section>

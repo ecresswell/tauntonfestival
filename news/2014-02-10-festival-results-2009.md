@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/festival-results-2009/"
 redirect_from: "/2014/02/festival-results-2009/"
 ---
-
+<section>
 
                     
                     <p>One of the longest established Festivals in this country, the 96th Taunton &#038; Somerset Music &#038; Drama Festival began in style on Monday 16th November.Pianists ranging in age from under eight to 18 performed a huge variety of pieces throughout the day, some dazzling with dance and jazz rhythms, some tender and thoughtful.Ruth Harte was an outstanding adjudicator:she developed a good rapport with the performers and adapted her comments perfectly according to the standards of playing, whether to beginners or to the more sophisticated older pianists.It was a privilege to hear her inspiring adjudications, laced with humour and wisdom.Only three Outstanding grades were awarded:to Chris Ma and Stephanie Cheung in the 18 years and under solo classes and to 13-year old Christopher Hedges, who won the Blackdown Cup and the Portman Cup, as well as the Chapman Cup for the most promising pianist. </p>
@@ -108,3 +108,4 @@ Open &#8211; Laura Fitzpatrick and Charly Andrews </p>
 12 years and under &#8211; Emma Stacey, Georgie Blackwell and Emily Payne &#8211; Riggs Award </p>
 
                 
+</section>

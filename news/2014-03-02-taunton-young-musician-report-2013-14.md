@@ -6,7 +6,7 @@ date: 2014-03-02 09:00:00
 permalink: "/news/2014/03/taunton-young-musician-report-2013-14/"
 redirect_from: "/2014/03/taunton-young-musician-report-2013-14/"
 ---
-
+<section>
 
                     
                     <p>This year the Preliminary Round was held at Taunton School and, for the first time did not include singers.  This is because singers will now have their own competition, Taunton Young Singer of the Year, which will be held on Sunday, 9th March in 2014 in the Temple Methodist church. </p>
@@ -14,3 +14,4 @@ redirect_from: "/2014/03/taunton-young-musician-report-2013-14/"
 13 year old Gregory Steward, trumpeter, won the Taunton Junior Musician of the Year prize, plus the Jefferson Horsley Trophy.</p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2015-11-23 09:00:00
 permalink: "/news/2015/11/taunton-young-musician-update/"
 redirect_from: "/2015/11/taunton-young-musician-update/"
 ---
-
+<section>
 
                     
                     <p>The preliminary round of the Taunton Young Musician of the year competition which was held at the Gwyn Williams Room Taunton School on Sunday 15th November 2015 is pleased to announce the five competitors who have been selected by Richard Chester MBE to go through to the finals on 28th February (venue to be announced).</p>
@@ -29,3 +29,4 @@ redirect_from: "/2015/11/taunton-young-musician-update/"
 <p><a href="http://www.tauntonfestival.org.uk/events/music-festival/taunton-young-musician/">Please see our TYM page for more information on the competition.</a></p>
 
                 
+</section>

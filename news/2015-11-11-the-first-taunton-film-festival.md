@@ -6,7 +6,7 @@ date: 2015-11-11 09:00:00
 permalink: "/news/2015/11/the-first-taunton-film-festival/"
 redirect_from: "/2015/11/the-first-taunton-film-festival/"
 ---
-
+<section>
 
                     
                     <p>The Taunton Festival of the Arts Film Festival 2015 will be held at The SPACE (Tacchi-Morris location) on Sunday, 22nd November at 1.30pm for 2.00pm start.</p>
@@ -16,3 +16,4 @@ redirect_from: "/2015/11/the-first-taunton-film-festival/"
 <p><a href="http://www.tauntonfestival.org.uk/events/film-festival/">More information can be found on our Film Festival page here.</a></p>
 
                 
+</section>

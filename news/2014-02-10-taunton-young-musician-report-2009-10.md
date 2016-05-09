@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2009-10/"
 redirect_from: "/2014/02/taunton-young-musician-report-2009-10/"
 ---
-
+<section>
 
                     
                     <h2>4th Taunton Young Musician of the Year Competition</h2>
@@ -23,3 +23,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2009-10/"
 <p>A wonderful afternoon!We heard how well previous winners have done and we are already looking forward to next year. </p>
 
                 
+</section>

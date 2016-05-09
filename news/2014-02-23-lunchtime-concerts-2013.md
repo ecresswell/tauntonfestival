@@ -6,7 +6,7 @@ date: 2014-02-23 09:00:00
 permalink: "/news/2014/02/lunchtime-concerts-2013/"
 redirect_from: "/2014/02/lunchtime-concerts-2013/"
 ---
-
+<section>
 
                     
                     <p>An exciting series of lunchtime concerts were held by the Festival. The concerts, mainly using young performers, took place at both St Mary Magdalene and St John&#8217;s.</p>
@@ -32,3 +32,4 @@ Helen Stanley (Mezzo) accompanied by Elizabeth Hayley</p>
 Stephen Bell (Organ)</p>
 
                 
+</section>

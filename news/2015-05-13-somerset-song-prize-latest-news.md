@@ -6,7 +6,7 @@ date: 2015-05-13 09:00:00
 permalink: "/news/2015/05/somerset-song-prize-latest-news/"
 redirect_from: "/2015/05/somerset-song-prize-latest-news/"
 ---
-
+<section>
 
                     
                     <p>The regional rounds of <a href="http://www.tauntonfestival.org.uk/events/music-festival/somerset-song-prize/">the Somerset Song Prize</a> have taken place, giving adjudicators and SSP representatives a real treat &#8211; and some challenging decisions. The decisions have now been made, and the following singers have been put through to the semi-finals, which will take place at Temple Methodist Church, Taunton, Somerset on 16th May: <strong><a href="/wp-content/uploads/2015/05/SSP-singers-for-semi-final-2015.pdf">please click here to view</a></strong>. The semi-final will begin with a welcome and introductions at 11:30am.</p>
@@ -18,3 +18,4 @@ BY CAR: leave M5 at Junction 25. Head for Taunton town centre along dual carriag
 <p><u>The Grand Final on Sunday 17th will take place in the music room of the prestigious Castle Hotel: <a href="http://www.the-castle-hotel.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.the-castle-hotel.com', 'http://www.the-castle-hotel.com']);" target="_blank">http://www.the-castle-hotel.com</a></u></p>
 
                 
+</section>

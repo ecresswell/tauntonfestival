@@ -6,7 +6,7 @@ date: 2014-11-29 09:00:00
 permalink: "/news/2014/11/preliminary-round-reports-for-tys-and-tym/"
 redirect_from: "/2014/11/preliminary-round-reports-for-tys-and-tym/"
 ---
-
+<section>
 
                     
                     <p>The preliminary round for the Taunton Young Singer and Taunton Young Musician competitions took place at Taunton School on Sunday, 23rd November 2014.</p>
@@ -16,3 +16,4 @@ redirect_from: "/2014/11/preliminary-round-reports-for-tys-and-tym/"
 <a href="/events/music-festival/taunton-young-musician/" title="Taunton Young Musician">Taunton Young Musician</a></p>
 
                 
+</section>

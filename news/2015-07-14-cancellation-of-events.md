@@ -6,7 +6,7 @@ date: 2015-07-14 09:00:00
 permalink: "/news/2015/07/cancellation-of-events/"
 redirect_from: "/2015/07/cancellation-of-events/"
 ---
-
+<section>
 
                     
                     <p>Unfortunately the below events have been cancelled. If you have any queries <a href="http://www.tauntonfestival.org.uk/contact-us/">please contact us</a>.</p>
@@ -29,3 +29,4 @@ redirect_from: "/2015/07/cancellation-of-events/"
 </tbody></table></div>
 
                 
+</section>

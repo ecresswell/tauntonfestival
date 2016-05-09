@@ -6,7 +6,7 @@ date: 2014-02-10 09:00:00
 permalink: "/news/2014/02/taunton-young-musician-report-2006-07/"
 redirect_from: "/2014/02/taunton-young-musician-report-2006-07/"
 ---
-
+<section>
 
                     
                     <h2>Taunton Young Musician &#8211; Winner 2006-7</h2>
@@ -20,3 +20,4 @@ redirect_from: "/2014/02/taunton-young-musician-report-2006-07/"
 TYM 2006 was sponsored by the Rotary Clubs of Taunton and Taunton Vale </p>
 
                 
+</section>

@@ -6,7 +6,7 @@ date: 2015-05-19 09:00:00
 permalink: "/news/2015/05/somerset-song-prize-results/"
 redirect_from: "/2015/05/somerset-song-prize-results/"
 ---
-
+<section>
 
                     
                     <p><strong>SOMERSET SONG PRIZE WINNERS ARE ANNOUNCED</strong></p>
@@ -44,3 +44,4 @@ Official Accompanist was Siobhain O’Higgins</p>
 <p>A full report will be available soon!</p>
 
                 
+</section>

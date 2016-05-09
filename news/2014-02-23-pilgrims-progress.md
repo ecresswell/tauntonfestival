@@ -6,7 +6,7 @@ date: 2014-02-23 09:00:00
 permalink: "/news/2014/02/pilgrims-progress/"
 redirect_from: "/2014/02/pilgrims-progress/"
 ---
-
+<section>
 
                     
                     <p>The Vaughan Williams Charitable Trust has awarded a grant of £1500 towards the &#8220;Pilgrim&#8217;s Progress&#8221; project on 25/26 October, 2013. The chairman of the Trust is Michael Kennedy whose book on the music of VW is still unsurpassed.</p>
@@ -24,3 +24,4 @@ Stephen Bell (Conductor of Taunton Choral Society)<br />
 David Hedges  (Conductor of Somerset County Orchestra)</p>
 
                 
+</section>
