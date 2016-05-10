@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+<h3>News</h3>
+{% assign sorted_pages = site.news | sort: "date" | reverse %}
+{% for page in sorted_pages %}
+    <div>
+        <h3><a href="{{ page.url | prepend: site.github.url }}">{{ page.title }}</a></h3>
+    </div>
+{% endfor %}

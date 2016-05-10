@@ -7,6 +7,10 @@ baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
 
+collections:
+    news:
+        output: true
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account

@@ -1,9 +1,7 @@
             <h3>News</h3>
-            {% assign sorted_pages = site.pages | sort: "date" %}
-            {% for page in sorted_pages %}
-                {% if page.special == "news" %}
-                    <div>
-                        <h3><a href="{{ page.url | prepend: site.github.url }}">{{ page.title }}</a></h3>
-                    </div>
-                {% endif %}
+            {% assign sorted_pages = site.news | sort: "date" | reverse %}
+            {% for page in sorted_pages limit: 5%}
+                <div>
+                    <h3><a href="{{ page.url | prepend: site.github.url }}">{{ page.title }}</a></h3>
+                </div>
             {% endfor %}
