@@ -1,0 +1,14 @@
+a, #navigation ul ul li a:hover, ul.Featured-list li span.title, .meta a:hover, .meta-line b, #footer a:hover, h3.result-heading { 
+	color:#009CA0;
+}
+a.location:hover, #navigation, .pagination a, .widget .button, .widget input[type="submit"], #respond .button, span.more a {
+	background-color:#009CA0;
+}
+#navigation {
+	border-bottom-color:#d47316;
+}
+.theme-default .nivo-controlNav a.active {
+	background-color:#009CA0;
+	border-color:#d47316;
+}
+
