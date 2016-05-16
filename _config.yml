@@ -8,6 +8,8 @@ url:         ""
 date_format: "%b %-d, %Y"
 
 collections:
+    events:
+        output: true
     news:
         output: true
         

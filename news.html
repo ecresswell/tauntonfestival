@@ -14,7 +14,7 @@ redirect_from: "/category/news/"
     </section>
     <section class="meta">
         <ul>
-            <li class="date">{{ page.date }}</li>
+            <li class="date">{{ page.date | date: '%B %d, %Y' }}</li>
         </ul>
         <div class="clear"></div>
     </section>

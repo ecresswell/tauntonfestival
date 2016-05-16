@@ -1,8 +1,0 @@
-            <h3>News</h3>
-            {% assign sorted_pages = site.news | sort: "date" | reverse %}
-            {% for page in sorted_pages limit: 5%}
-                <div>
-                    <h3><a href="{{ page.url | prepend: site.github.url }}">{{ page.title }}</a></h3>
-                </div>
-            {% endfor %}
-            <small><a href="{{ '/news/' | prepend: site.github.url }}">View all</a></small>

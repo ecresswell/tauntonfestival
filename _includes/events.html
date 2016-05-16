@@ -1,9 +1,0 @@
-            <h3>Events</h3>
-            {% assign sorted_pages = site.pages | sort: "date" %}
-            {% for page in sorted_pages %}
-                {% if page.special == "event" %}
-                    <div>
-                        <h3><a href="{{ page.url | prepend: site.github.url }}">{{ page.title }}</a></h3>
-                    </div>
-                {% endif %}
-            {% endfor %}
