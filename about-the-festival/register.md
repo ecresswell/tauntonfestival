@@ -16,9 +16,8 @@ All Friends and Benefactors will be acknowledged on the web site and in the prog
 
 Paying your subscription:
 
-- Cheque payable to Taunton Festival of the Arts and send to:-
-  TFA, Cranford, Bishops Hull, Taunton, TA1 5EW
-- If you would prefer to pay by bank transfer please contact us tfafandb@gmail.com and we will send you details.
+- Cheque payable to Taunton Festival of the Arts and send to:- TFA, Cranford, Bishops Hull, Taunton, TA1 5EW
+- If you would prefer to pay by bank transfer please contact us <tfafandb@gmail.com> and we will send you details.
 
 ## Friends and Benefactors of the Festival
 
