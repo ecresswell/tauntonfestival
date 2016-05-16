@@ -5,14 +5,12 @@ import datetime
 import os
 
 input_xml = 'http://www.tauntonfestival.org.uk/sitemap-posttype-post.xml'
-output_dir = r'C:/myprojects/tauntonfestival/news'
+output_dir = r'C:/myprojects/tauntonfestival/_news'
 
 template = """---
 layout: page
 title: $TITLE
-special: news
 date: $DATE
-permalink: "/news/$URL"
 redirect_from: "/$URL"
 ---
 <section>
