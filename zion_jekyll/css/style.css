@@ -303,11 +303,6 @@ html, body {
 
 }
 
-#footer, .push {
-
-	height: 20px;
-
-}
 
 /* header */
 
@@ -764,33 +759,29 @@ span.black {
 
 }
 
-
+#footer, .push {
+    height: 60px;
+}
 
 #footer {
-
-	background:#d9d7d7;
-
-	width:100%;
-
-	height:auto;
-	
-	min-height:20px;
-
-	font-size:14px;
-
-	color:#191919;
-
-	padding:20px 0 15px 0;
-
+    background:#d9d7d7;
+    width:100%;
+    font-size:14px;
+    color:#191919;
+    clear: both;
+    position: relative;
+    margin-top: -60px;
 }
 
 #footer span.gray {
-
-	float:left;
-
+    float: left;
+    padding-top: 20px;
 }
 
-#footer ul { float:right; }
+#footer ul { 
+    float:right; 
+    padding-top: 20px;
+}
 
 #footer li {
 
