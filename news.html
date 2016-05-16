@@ -1,11 +1,36 @@
 ---
-layout: page
+layout: default
+title : News
+permalink: "/news/"
+redirect_from: "/category/news/"
 ---
+<h3 class="result-heading">News</h3>
 
-<h3>News</h3>
 {% assign sorted_pages = site.news | sort: "date" | reverse %}
 {% for page in sorted_pages %}
-    <div>
-        <h3><a href="{{ page.url | prepend: site.github.url }}">{{ page.title }}</a></h3>
-    </div>
+<article class="post listing">
+    <section class="title">
+        <h2 class="post-title"><a href={{ page.url | prepend: site.github.url }}>{{ page.title }}</a></h2>
+    </section>
+    <section class="meta">
+        <ul>
+            <li class="date">{{ page.date }}</li>
+        </ul>
+        <div class="clear"></div>
+    </section>
+    <div class="clear"></div>
+    <section class="entry">
+        <p>Please view our Drama Festival page for a report on the Drama Festival and the Taunton Young Theatre Performer of the Year Competition.</p>
+        <span class="more"><a href={{ '/2016/04/drama-festival-report-now-in/' | prepend: site.github.url }} title="Read More">Read More</a></span>
+    </section>
+</article>
 {% endfor %}
+
+<div class="pagination">
+    <span class="current">1</span>
+    <a href={{ '/category/news/page/2/' | prepend: site.github.url }} class="inactive">2</a>
+    <a href={{ '/category/news/page/3/' | prepend: site.github.url }} class="inactive">3</a>
+    <a href={{ '/category/news/page/2/' | prepend: site.github.url }}>&gt;&gt;</a>
+    <a href={{ '/category/news/page/6/' | prepend: site.github.url }}>Last &gt;</a>
+    <span class="numbers">Page 1 of 6</span>
+</div>

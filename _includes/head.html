@@ -1,64 +1,56 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
-    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-    <link rel="dns-prefetch" href="//cdn.mathjax.org">
-    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | xml_escape }}{% elsif page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
-    {% if page.meta_robots %}<meta name="robots" content="{{ page.meta_robots }}">
-    {% else %}<meta name="robots" content="all">{% endif %}
-    <meta name="author" content="{{ site.author }}">
-    {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.github.url }}">
+    <title>Taunton Festival of the Arts&nbsp;|&nbsp;{{ page.title }}</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" href="{{ '/css/ie7.css' | prepend: site.github.url }}" media="screen">
+    <![endif]-->
+    <!--[if lte IE 6]>
+        <script type="text/javascript" src="{{ '/js/pngfix.js' | prepend: site.github.url }}></script>
+        <script type="text/javascript" src="{{ '/js/ie6.js' | prepend: site.github.url }}></script>
+        <link rel="stylesheet" href="{{ '/css/ie6.css' | prepend: site.github.url }} type="text/css">
+    <![endif]-->
+    <link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.4.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashicons-css'  href='{{ '/css/dashicons.min.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css'  href='{{ '/css/contact-form/style.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='{{ '/css/swipebox/swipebox.min.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='easy_table_style-css'  href='{{ '/css/easy-table/style.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='event-list-css'  href='{{ '/css/event-list/event-list.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='stylesheet-css'  href='{{ '/css/style.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='nivo-style-css'  href='{{ '/css/slider/nivo-slider.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='nivo-default-css'  href='{{ '/css/slider/default/default.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='medialelemets-css'  href='{{ '/mediaelement/mediaelementplayer.css' | prepend: site.github.url }}' type='text/css' media='all' />
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.github.url }}" type="text/css">
+      ga('create', 'UA-47882533-1', 'auto');
+      ga('send', 'pageview');
 
-    <!-- Fonts -->
-    {% if site.extended_fonts %}
-    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    {% else %}
-    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
-    {% endif %}
-    {% if site.show_social_icons or site.show_sharing_icons %}
-      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-    {% endif %}
-
-    <!-- MathJax -->
-    {% if site.enable_mathjax %}
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
-    {% endif %}
-
-    <!-- Verifications -->
-    {% if site.google_verification %}
-      <meta name="google-site-verification" content="{{ site.google_verification }}" />
-    {% endif %}
-    {% if site.bing_verification %}
-      <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
-    {% endif %}
-
-    <!-- Open Graph -->
-    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
-    <meta property="og:locale" content="{{ site.text.og_locale }}">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
-    <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
-    <meta property="og:url" content="{{ site.github.url }}{{ page.url }}">
-    <meta property="og:site_name" content="{{ site.title | xml_escape }}">
-
-    {% if site.google_analytics %}
-    <script type="text/javascript">
-       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-       ga('create', '{{ site.google_analytics }}', 'auto');
-       ga('send', 'pageview');
+    <script type='text/javascript' src='{{ '/js/jquery.js' | prepend: site.github.url }}'></script>
+    <script type='text/javascript' src='{{ '/js/jquery-migrate.min.js' | prepend: site.github.url }}'></script>
+    <script type='text/javascript' src='{{ '/js/swipebox/jquery.swipebox.min.js' | prepend: site.github.url }}'></script>
+    <script type='text/javascript'>
+    /* <![CDATA[ */
+    var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
+    /* ]]> */
     </script>
-    {% endif %}
+    <script type='text/javascript' src='{{ '/js/swipebox/front.js' | prepend: site.github.url }}'></script>
+    <script type='text/javascript' src='{{ '/js/jquery.nivo.slider.pack.js' | prepend: site.github.url }}'></script>
+    <script type='text/javascript' src='{{ '/js/main.js' | prepend: site.github.url }}'></script>
+    <script type='text/javascript' src='{{ '/mediaelement/mediaelement-and-player.min.js' | prepend: site.github.url }}'></script>
+    <link rel="canonical" href="http://www.tauntonfestival.org.uk/" />
+    <link rel='shortlink' href='http://www.tauntonfestival.org.uk/' />
+    <link href="{{ '/css/styles/orange.css' | prepend: site.github.url }}" rel="stylesheet" />
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | prepend: site.github.url }}"/>
 </head>
