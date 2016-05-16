@@ -303,12 +303,6 @@ html, body {
 
 }
 
-#footer, .push {
-
-	height: 20px;
-
-}
-
 /* header */
 
 #header {
@@ -764,33 +758,30 @@ span.black {
 
 }
 
-
+#footer, .push {
+    height: 60px;
+}
 
 #footer {
-
 	background:#d9d7d7;
-
 	width:100%;
-
-	height:auto;
-	
-	min-height:20px;
-
 	font-size:14px;
-
 	color:#191919;
-
-	padding:20px 0 15px 0;
+    clear:both;
+    position: relative;
+    margin-top: -60px;
 
 }
 
 #footer span.gray {
-
-	float:left;
-
+    padding-top: 20px;
+    float:left;
 }
 
-#footer ul { float:right; }
+#footer ul { 
+    padding-top: 20px;
+    float:right; 
+}
 
 #footer li {
 
