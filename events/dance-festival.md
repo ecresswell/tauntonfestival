@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: dance
 title: Dance Festival
 ---

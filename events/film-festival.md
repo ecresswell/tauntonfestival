@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: film
 title: Film Festival
 ---
