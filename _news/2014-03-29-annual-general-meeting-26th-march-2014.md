@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Annual General Meeting &#8211; 26th March, 2014
-special: news
 date: 2014-03-29 09:00:00
-permalink: "/news/2014/03/annual-general-meeting-26th-march-2014/"
 redirect_from: "/2014/03/annual-general-meeting-26th-march-2014/"
 ---
 <section>

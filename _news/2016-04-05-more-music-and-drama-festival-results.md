@@ -1,9 +1,7 @@
 ---
 layout: page
 title: More Music and Drama Festival results!
-special: news
 date: 2016-04-05 09:00:00
-permalink: "/news/2016/04/more-music-and-drama-festival-results/"
 redirect_from: "/2016/04/more-music-and-drama-festival-results/"
 ---
 <section>

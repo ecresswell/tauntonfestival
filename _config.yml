@@ -12,6 +12,7 @@ collections:
         output: true
     news:
         output: true
+        permalink: /news/:year/:month/:title
         
 text:
   pagination:

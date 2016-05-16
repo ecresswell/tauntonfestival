@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Welcome to our new Website!
-special: news
 date: 2014-01-26 09:00:00
-permalink: "/news/2014/01/welcome-to-our-new-website/"
-redirect_from: "/2014/01/welcome-to-our-new-website/"
 ---
 <section>
 

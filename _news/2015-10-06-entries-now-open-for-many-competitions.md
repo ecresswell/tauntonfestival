@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Entries now open for many competitions!
-special: news
 date: 2015-10-06 09:00:00
-permalink: "/news/2015/10/entries-now-open-for-many-competitions/"
 redirect_from: "/2015/10/entries-now-open-for-many-competitions/"
 ---
 <section>

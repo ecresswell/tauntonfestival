@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Somerset Song Prize Update
-special: news
 date: 2014-10-17 09:00:00
-permalink: "/news/2014/10/somerset-song-prize-update/"
 redirect_from: "/2014/10/somerset-song-prize-update/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Festival Results 2010
-special: news
 date: 2014-02-10 09:00:00
-permalink: "/news/2014/02/festival-results-2010/"
 redirect_from: "/2014/02/festival-results-2010/"
 ---
 <section>

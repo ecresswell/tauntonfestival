@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Somerset Song Prize submission deadline extended to 22nd April
-special: news
 date: 2015-04-09 09:00:00
-permalink: "/news/2015/04/somerset-song-prize-submission-deadline-extended-to-22nd-april/"
 redirect_from: "/2015/04/somerset-song-prize-submission-deadline-extended-to-22nd-april/"
 ---
 <section>

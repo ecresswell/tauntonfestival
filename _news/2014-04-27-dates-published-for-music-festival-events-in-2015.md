@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Dates published for Music Festival events in 2015
-special: news
 date: 2014-04-27 09:00:00
-permalink: "/news/2014/04/dates-published-for-music-festival-events-in-2015/"
 redirect_from: "/2014/04/dates-published-for-music-festival-events-in-2015/"
 ---
 <section>

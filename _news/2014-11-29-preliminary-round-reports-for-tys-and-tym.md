@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Preliminary Round Reports for TYS and TYM
-special: news
 date: 2014-11-29 09:00:00
-permalink: "/news/2014/11/preliminary-round-reports-for-tys-and-tym/"
 redirect_from: "/2014/11/preliminary-round-reports-for-tys-and-tym/"
 ---
 <section>

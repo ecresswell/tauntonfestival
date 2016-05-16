@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Showground for Soloists
-special: news
 date: 2015-10-25 09:00:00
-permalink: "/news/2015/10/upcoming-event-showground-for-soloists/"
 redirect_from: "/2015/10/upcoming-event-showground-for-soloists/"
 ---
 <section>

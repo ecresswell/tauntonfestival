@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Church Day 2013 &#8211; Adult Course
-special: news
 date: 2014-02-23 09:00:00
-permalink: "/news/2014/02/church-day-2013-adult-course/"
 redirect_from: "/2014/02/church-day-2013-adult-course/"
 ---
 <section>

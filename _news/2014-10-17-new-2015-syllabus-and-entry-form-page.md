@@ -1,9 +1,7 @@
 ---
 layout: page
 title: New 2015 Syllabus and Entry Form page
-special: news
 date: 2014-10-17 09:00:00
-permalink: "/news/2014/10/new-2015-syllabus-and-entry-form-page/"
 redirect_from: "/2014/10/new-2015-syllabus-and-entry-form-page/"
 ---
 <section>

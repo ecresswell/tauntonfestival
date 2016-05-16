@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Alice (Through the Century)
-special: news
 date: 2014-02-23 09:00:00
-permalink: "/news/2014/02/alice-song-cycle/"
 redirect_from: "/2014/02/alice-song-cycle/"
 ---
 <section>

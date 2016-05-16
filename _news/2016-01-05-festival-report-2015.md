@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Music Festival Report 2015
-special: news
 date: 2016-01-05 09:00:00
-permalink: "/news/2016/01/festival-report-2015/"
 redirect_from: "/2016/01/festival-report-2015/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: New competition announced for this year!
-special: news
 date: 2015-10-08 09:00:00
-permalink: "/news/2015/10/new-competition-announced-for-this-year/"
 redirect_from: "/2015/10/new-competition-announced-for-this-year/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Violin Master Class&#8217; application forms available now
-special: news
 date: 2014-10-13 09:00:00
-permalink: "/news/2014/10/violin-master-class-application-forms-available-now/"
 redirect_from: "/2014/10/violin-master-class-application-forms-available-now/"
 ---
 <section>

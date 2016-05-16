@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Singer Instructions for the Somerset Song Prize Regional Rounds, this Sunday
-special: news
 date: 2015-05-07 09:00:00
-permalink: "/news/2015/05/singer-instructions-for-the-somerset-song-prize-regional-rounds-this-sunday/"
 redirect_from: "/2015/05/singer-instructions-for-the-somerset-song-prize-regional-rounds-this-sunday/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Percussion Workshop (D2) will now be held on Monday, 20th July
-special: news
 date: 2015-07-16 09:00:00
-permalink: "/news/2015/07/percussion-workshop-d2-will-now-be-held-on-monday-20th-july/"
 redirect_from: "/2015/07/percussion-workshop-d2-will-now-be-held-on-monday-20th-july/"
 ---
 <section>

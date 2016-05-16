@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Lunchtime Concerts 2013
-special: news
 date: 2014-02-23 09:00:00
-permalink: "/news/2014/02/lunchtime-concerts-2013/"
 redirect_from: "/2014/02/lunchtime-concerts-2013/"
 ---
 <section>

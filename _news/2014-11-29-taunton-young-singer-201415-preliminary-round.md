@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Young Singer 2014/15 &#8211; Preliminary Round
-special: news
 date: 2014-11-29 09:00:00
-permalink: "/news/2014/11/taunton-young-singer-201415-preliminary-round/"
 redirect_from: "/2014/11/taunton-young-singer-201415-preliminary-round/"
 ---
 <section>

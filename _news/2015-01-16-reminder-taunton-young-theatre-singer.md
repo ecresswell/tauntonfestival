@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Reminder &#8211; Taunton Young Theatre Singer!
-special: news
 date: 2015-01-16 09:00:00
-permalink: "/news/2015/01/reminder-taunton-young-theatre-singer/"
 redirect_from: "/2015/01/reminder-taunton-young-theatre-singer/"
 ---
 <section>

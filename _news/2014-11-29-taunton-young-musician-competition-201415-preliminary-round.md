@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Young Musician Competition 2014/15 &#8211; Preliminary Round
-special: news
 date: 2014-11-29 09:00:00
-permalink: "/news/2014/11/taunton-young-musician-competition-201415-preliminary-round/"
 redirect_from: "/2014/11/taunton-young-musician-competition-201415-preliminary-round/"
 ---
 <section>

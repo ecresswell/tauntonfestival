@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Report of the Annual General Meeting for 2014
-special: news
 date: 2014-03-29 09:00:00
-permalink: "/news/2014/03/report-of-the-annual-general-meeting-for-2014/"
 redirect_from: "/2014/03/report-of-the-annual-general-meeting-for-2014/"
 ---
 <section>

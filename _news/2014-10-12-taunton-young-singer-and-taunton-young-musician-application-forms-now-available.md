@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Young Singer and Taunton Young Musician application forms now available
-special: news
 date: 2014-10-12 09:00:00
-permalink: "/news/2014/10/taunton-young-singer-and-taunton-young-musician-application-forms-now-available/"
 redirect_from: "/2014/10/taunton-young-singer-and-taunton-young-musician-application-forms-now-available/"
 ---
 <section>

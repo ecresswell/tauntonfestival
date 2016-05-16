@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Additional Award for Somerset Song Prize 2015
-special: news
 date: 2014-11-29 09:00:00
-permalink: "/news/2014/11/additional-award-for-somerset-song-prize-2015/"
 redirect_from: "/2014/11/additional-award-for-somerset-song-prize-2015/"
 ---
 <section>

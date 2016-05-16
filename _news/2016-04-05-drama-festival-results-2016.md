@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Drama Festival Results 2016
-special: news
 date: 2016-04-05 09:00:00
-permalink: "/news/2016/04/drama-festival-results-2016/"
 redirect_from: "/2016/04/drama-festival-results-2016/"
 ---
 <section>

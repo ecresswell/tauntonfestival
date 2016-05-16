@@ -1,9 +1,7 @@
 ---
 layout: page
 title: National Competition for Young Bassists page now live
-special: news
 date: 2014-05-31 09:00:00
-permalink: "/news/2014/05/national-competition-for-young-bassists-page-now-live/"
 redirect_from: "/2014/05/national-competition-for-young-bassists-page-now-live/"
 ---
 <section>

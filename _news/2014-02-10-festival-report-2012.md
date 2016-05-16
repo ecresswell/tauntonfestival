@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Festival Report 2012
-special: news
 date: 2014-02-10 09:00:00
-permalink: "/news/2014/02/festival-report-2012/"
 redirect_from: "/2014/02/festival-report-2012/"
 ---
 <section>

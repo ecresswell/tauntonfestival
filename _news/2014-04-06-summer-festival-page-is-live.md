@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Summer Festival Page is live
-special: news
 date: 2014-04-06 09:00:00
-permalink: "/news/2014/04/summer-festival-page-is-live/"
 redirect_from: "/2014/04/summer-festival-page-is-live/"
 ---
 <section>

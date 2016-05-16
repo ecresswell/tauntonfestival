@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Breaking News! New Drama Adjudicator
-special: news
 date: 2014-03-19 09:00:00
-permalink: "/news/2014/03/breaking-news-new-drama-adjudicator/"
 redirect_from: "/2014/03/breaking-news-new-drama-adjudicator/"
 ---
 <section>

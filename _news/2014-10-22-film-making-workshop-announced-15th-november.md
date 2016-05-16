@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Film Making Workshop Announced &#8211; 15th November
-special: news
 date: 2014-10-22 09:00:00
-permalink: "/news/2014/10/film-making-workshop-announced-15th-november/"
 redirect_from: "/2014/10/film-making-workshop-announced-15th-november/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Dance Festival Results!
-special: news
 date: 2015-07-13 09:00:00
-permalink: "/news/2015/07/dance-festival-results/"
 redirect_from: "/2015/07/dance-festival-results/"
 ---
 <section>

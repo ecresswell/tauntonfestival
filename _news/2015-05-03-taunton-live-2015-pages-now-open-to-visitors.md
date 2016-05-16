@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Live 2015 pages now open to visitors!
-special: news
 date: 2015-05-03 09:00:00
-permalink: "/news/2015/05/taunton-live-2015-pages-now-open-to-visitors/"
 redirect_from: "/2015/05/taunton-live-2015-pages-now-open-to-visitors/"
 ---
 <section>

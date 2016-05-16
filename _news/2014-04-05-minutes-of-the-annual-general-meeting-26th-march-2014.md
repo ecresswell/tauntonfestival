@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Minutes of the Annual General Meeting &#8211; 26th March, 2014
-special: news
 date: 2014-04-05 09:00:00
-permalink: "/news/2014/04/minutes-of-the-annual-general-meeting-26th-march-2014/"
 redirect_from: "/2014/04/minutes-of-the-annual-general-meeting-26th-march-2014/"
 ---
 <section>

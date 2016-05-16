@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Junior Young Musician of the Year 2015 Report
-special: news
 date: 2015-03-23 09:00:00
-permalink: "/news/2015/03/taunton-junior-young-musician-of-the-year-2015-report/"
 redirect_from: "/2015/03/taunton-junior-young-musician-of-the-year-2015-report/"
 ---
 <section>

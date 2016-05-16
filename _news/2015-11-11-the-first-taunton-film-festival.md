@@ -1,9 +1,7 @@
 ---
 layout: page
 title: The First Taunton Film Festival
-special: news
 date: 2015-11-11 09:00:00
-permalink: "/news/2015/11/the-first-taunton-film-festival/"
 redirect_from: "/2015/11/the-first-taunton-film-festival/"
 ---
 <section>

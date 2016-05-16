@@ -1,9 +1,7 @@
 ---
 layout: page
 title: The Syllabus for 2015 is now available!
-special: news
 date: 2014-09-17 09:00:00
-permalink: "/news/2014/09/the-syllabus-for-2015-is-now-available/"
 redirect_from: "/2014/09/the-syllabus-for-2015-is-now-available/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Festival Results 2013
-special: news
 date: 2014-03-02 09:00:00
-permalink: "/news/2014/03/festival-results-2013/"
 redirect_from: "/2014/03/festival-results-2013/"
 ---
 <section>

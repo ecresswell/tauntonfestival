@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Pilgrim&#8217;s Progress
-special: news
 date: 2014-02-23 09:00:00
-permalink: "/news/2014/02/pilgrims-progress/"
 redirect_from: "/2014/02/pilgrims-progress/"
 ---
 <section>

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Young Musician Update
-special: news
 date: 2015-11-23 09:00:00
-permalink: "/news/2015/11/taunton-young-musician-update/"
 redirect_from: "/2015/11/taunton-young-musician-update/"
 ---
 <section>

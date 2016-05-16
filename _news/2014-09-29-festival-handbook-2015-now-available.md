@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Festival Handbook 2015 now available!
-special: news
 date: 2014-09-29 09:00:00
-permalink: "/news/2014/09/festival-handbook-2015-now-available/"
 redirect_from: "/2014/09/festival-handbook-2015-now-available/"
 ---
 <section>

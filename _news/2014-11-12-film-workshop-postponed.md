@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Film Workshop postponed
-special: news
 date: 2014-11-12 09:00:00
-permalink: "/news/2014/11/film-workshop-postponed/"
 redirect_from: "/2014/11/film-workshop-postponed/"
 ---
 <section>

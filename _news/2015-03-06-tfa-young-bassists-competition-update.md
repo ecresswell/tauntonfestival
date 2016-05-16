@@ -1,9 +1,7 @@
 ---
 layout: page
 title: TFA Young Bassists Competition Update
-special: news
 date: 2015-03-06 09:00:00
-permalink: "/news/2015/03/tfa-young-bassists-competition-update/"
 redirect_from: "/2015/03/tfa-young-bassists-competition-update/"
 ---
 <section>

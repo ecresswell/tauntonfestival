@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Taunton Young Musician Report 2010-11
-special: news
 date: 2014-02-10 09:00:00
-permalink: "/news/2014/02/taunton-young-musician-report-2010-11/"
 redirect_from: "/2014/02/taunton-young-musician-report-2010-11/"
 ---
 <section>

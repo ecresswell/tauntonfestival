@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Information and booking for Taunton Live 2015 will be available soon
-special: news
 date: 2015-05-01 09:00:00
-permalink: "/news/2015/05/information-and-booking-for-taunton-live-2015-will-be-available-soon/"
 redirect_from: "/2015/05/information-and-booking-for-taunton-live-2015-will-be-available-soon/"
 ---
 <section>
