@@ -20,8 +20,8 @@ redirect_from: "/category/news/"
     </section>
     <div class="clear"></div>
     <section class="entry">
-        <p>Please view our Drama Festival page for a report on the Drama Festival and the Taunton Young Theatre Performer of the Year Competition.</p>
-        <span class="more"><a href={{ '/2016/04/drama-festival-report-now-in/' | prepend: site.github.url }} title="Read More">Read More</a></span>
+        <p>{{ page.content | strip_html | truncatewords: 50 }}</p>
+        <span class="more"><a href={{ page.url | prepend: site.github.url }} title="Read More">Read More</a></span>
     </section>
 </article>
 {% endfor %}
