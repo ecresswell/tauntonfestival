@@ -1,0 +1,14 @@
+---
+layout: drama
+title: Drama Adjudicators
+---
+
+<p><strong>Rebecca Vines</strong><br />
+BA (Hons), FVCM, LLAM, LALAM, GSMD, ATCL, ANEA, STSD</p>
+<p>Rebecca is Head of Speech and Drama at Dean Close School, <img src="{{ '/wp-content/uploads/2014/04/REBECCA-VINES-PIC-169x300.jpg' | prepend: site.github.url }}" alt="Rebecca Vines" class="alignleft size-medium wp-image-1637" />Cheltenham. Rebecca trained initially as a journalist, and was a weekly columnist for The Guardian newspaper; she is currently the South West theatre critic for Theatreworld and a freelance features and creative writer. </p>
+<p>She trained as an actress with the Actors Company in London, and professional roles include Beverly (Abigail&#8217;s Party), Maggie (Dancing at Lughnasa), Olga (Three Sisters), Elizabeth Proctor (The Crucible).  She has directed over one hundred productions, and is the founder of No Prophet Theatre Company, Eleventh Hour Theatre Company, and the award-winning Close Up Theatre Company. </p>
+<p>Her pupils have been offered training places at RADA, LAMDA, Royal Central, Guildhall, Bristol Old Vic, Mountview, Rose Bruford, ALRA, Birmingham, NYT, YMT; former pupils have worked for the National Theatre, RSC, BBC, E4, C4, Working Title, Told by an Idiot, Trafalgar Studios.  Rebecca participated in her local Festival for twelve years whilst she was at school, and is a huge fan of the Festival movement and all that it can bring to performers.</p>
+<p><strong>Thalia Squire </strong><br />
+MA(Performance Practice) BA(Hons) &#038; PG(Dip) Ed.&#038; Training,  LGSM(Speech &#038; Drama)</p>
+<p><img src="{{ '/wp-content/uploads/2014/04/Thalia-Squire-Photo-300x224.jpg' | prepend: site.github.url }}" alt="Thalia Squire" class="alignright size-medium wp-image-1638" />Thalia trained at The Guildhall School of Music &#038; Drama and is a member of The Society of Teachers of Speech &#038; Drama. She has a wide range of experience of teaching all age groups in schools, colleges and university. She also examines for Vanguard Examinations in Poetry, Prose, Acting and Spoken English. She has travelled widely both in Ireland and the UK as an examiner for The Guildhall School, Associated Board and as an adjudicator of Festivals.  Recently she gained her MA in Performance Practice, which she believes enriches her continuing professional development.</p>
+<p>She began lessons in speech and drama at the age of five and has been involved in theatre ever since. Therefore, she has experience as a performer and director. She knows the importance of effective speaking and nurturing a love of literature and believes that this can be achieved through taking part in performing arts festivals. She is looking forward to adjudicating at Taunton Drama Festival.</p>

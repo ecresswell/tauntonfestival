@@ -1,0 +1,8 @@
+---
+layout: drama
+title: Acting Audition Workshop with Jeremy James Taylor OBE
+---
+
+<p>After the success of last year's Audition Workshop, we have decided to run another in 2016. It will take place on Tuesday 8th March 2015 from 5pm until 7.30pm (at the Temple Methodist Church). </p>
+<p><a href="{{ '/events/drama-festival/jeremy-james-taylor-obe/' | prepend: site.github.url }}">This workshop is being run by Jeremy James Taylor OBE. Jeremy is the Former Artistic Director of the NYMT.</a> (Alumni include: Jude Law, Matt Lucas, Eddie Redmayne, Sheridan Smith, Toby Jones, Lara Pulver, Laura Michelle-Kelly, Stephen Graham, and Tom Hollander). He has directed countless productions in the UK including Glyndebourne, The English National Opera, National Theatre, The Royal Opera House and London's West End. He has also directed in Australia, New Zealand, Greece, Mexico, Canada, Hong Kong, Spain, Mongolia, Norway, North America, South America, Asia, Canada and USA. In 2010 he was awarded an OBE (Order of the British Empire) in the Queen's Honours' List, for services to Young People and the Musical Theatre. </p>
+<p>The workshop is for any students who are 12+. It is £15.00 for the 2.5 hours. Students will need to prepare an acting monologue (approx 2 mins), which they will perform. If the students would also like to prepare a song (preferably musical theatre) they can do this as well. Students will need to provide their own CD/CD player/IPod IPod dock for their accompaniment. </p>
