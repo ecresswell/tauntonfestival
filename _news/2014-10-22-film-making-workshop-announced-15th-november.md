@@ -8,7 +8,7 @@ redirect_from: "/2014/10/film-making-workshop-announced-15th-november/"
 
                     
                     <p>A Film Making workshop has been announced, to be held on Saturday 15th November, 2014, at Temple Methodist Church!</p>
-<p>Please visit the <a href="http://www.tauntonfestival.org.uk/events/film-festival/" title="Film Festival">Film Festival page</a> to download and fill in the application form, which must be received by 12th November, 2014.</p>
+<p>Please visit the <a href="{{ "/events/film-festival/" | prepend: site.github.url }}" title="Film Festival">Film Festival page</a> to download and fill in the application form, which must be received by 12th November, 2014.</p>
 
                 
 </section>

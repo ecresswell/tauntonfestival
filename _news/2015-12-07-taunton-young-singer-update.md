@@ -16,7 +16,7 @@ redirect_from: "/2015/12/taunton-young-singer-update/"
 </ul>
 <p>Our thanks go to Louise Innes for her adjudication, which was highly professional, and all competitors benefited from her helpful assessments.</p>
 <p>The final of both Taunton Young Singer and Taunton Young Musician will be held at Queen’s Hall, Queen’s College, Taunton, on Sunday, 28th February, 2016.</p>
-<p><a href="http://www.tauntonfestival.org.uk/events/music-festival/taunton-young-singer/">For more information on the competition please see our TYS page.</a></p>
+<p><a href="{{ "/events/music-festival/taunton-young-singer/" | prepend: site.github.url }}">For more information on the competition please see our TYS page.</a></p>
 
                 
 </section>

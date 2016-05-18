@@ -43,7 +43,7 @@ redirect_from: "/2015/07/dance-festival-results/"
 <td >Carly Watts, Castle School of Dancing</td>
 </tr>
 </tbody></table></div>
-<p><a href="http://www.tauntonfestival.org.uk/events/dance-festival/">Please view our Dance Festival page for more details.</a></p>
+<p><a href="{{ "/events/dance-festival/" | prepend: site.github.url }}">Please view our Dance Festival page for more details.</a></p>
 
                 
 </section>

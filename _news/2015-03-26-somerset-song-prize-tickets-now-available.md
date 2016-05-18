@@ -7,7 +7,7 @@ redirect_from: "/2015/03/somerset-song-prize-tickets-now-available/"
 <section>
 
                     
-                    <p>Tickets are now available for the Grand Final. For more information about the event and how to buy tickets, <a href="http://www.tauntonfestival.org.uk/events/music-festival/somerset-song-prize/" title="Somerset Song Prize">please click here</a>.</p>
+                    <p>Tickets are now available for the Grand Final. For more information about the event and how to buy tickets, <a href="{{ "/events/music-festival/somerset-song-prize/" | prepend: site.github.url }}" title="Somerset Song Prize">please click here</a>.</p>
 
                 
 </section>

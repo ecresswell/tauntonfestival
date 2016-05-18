@@ -7,7 +7,7 @@ redirect_from: "/2014/10/taunton-young-singer-and-taunton-young-musician-applica
 <section>
 
                     
-                    <p>The application forms for <a href="/events/music-festival/taunton-young-singer/" title="Taunton Young Singer">Taunton Young Singer</a> and <a href="/events/music-festival/taunton-young-musician/" title="Taunton Young Musician">Taunton Young Musician</a> are now available, along with the competition rules for 2014/15. Please follow the purple links for more information!</p>
+                    <p>The application forms for <a href="{{ "/events/music-festival/taunton-young-singer/" | prepend: site.github.url }}" title="Taunton Young Singer">Taunton Young Singer</a> and <a href="{{ "/events/music-festival/taunton-young-musician/" | prepend: site.github.url }}" title="Taunton Young Musician">Taunton Young Musician</a> are now available, along with the competition rules for 2014/15. Please follow the purple links for more information!</p>
 
                 
 </section>

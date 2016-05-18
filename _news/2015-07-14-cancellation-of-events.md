@@ -7,7 +7,7 @@ redirect_from: "/2015/07/cancellation-of-events/"
 <section>
 
                     
-                    <p>Unfortunately the below events have been cancelled. If you have any queries <a href="http://www.tauntonfestival.org.uk/contact-us/">please contact us</a>.</p>
+                    <p>Unfortunately the below events have been cancelled. If you have any queries <a href="{{ "/contact-us/" | prepend: site.github.url }}">please contact us</a>.</p>
 <div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
 <tbody>
 <tr><td >C1</td>

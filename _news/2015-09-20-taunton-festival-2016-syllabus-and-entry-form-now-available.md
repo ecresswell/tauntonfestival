@@ -7,7 +7,7 @@ redirect_from: "/2015/09/taunton-festival-2016-syllabus-and-entry-form-now-avail
 <section>
 
                     
-                    <p>The Syllabus and Entry Form for Taunton Festival 2016 are now available! <a href="http://www.tauntonfestival.org.uk/about-the-festival/syllabus/"><strong>Click here to view.</strong></a></p>
+                    <p>The Syllabus and Entry Form for Taunton Festival 2016 are now available! <a href="{{ "/about-the-festival/syllabus/" | prepend: site.github.url }}"><strong>Click here to view.</strong></a></p>
 
                 
 </section>

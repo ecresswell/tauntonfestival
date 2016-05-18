@@ -24,7 +24,7 @@ redirect_from: "/2015/11/taunton-young-musician-update/"
 <td ></td>
 </tr>
 </tbody></table></div>
-<p><a href="http://www.tauntonfestival.org.uk/events/music-festival/taunton-young-musician/">Please see our TYM page for more information on the competition.</a></p>
+<p><a href="{{ "/events/music-festival/taunton-young-musician/" | prepend: site.github.url }}">Please see our TYM page for more information on the competition.</a></p>
 
                 
 </section>

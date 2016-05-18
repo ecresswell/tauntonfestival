@@ -1,7 +1,9 @@
 ---
 layout: tauntonlive
 title: Taunton Live 2015
-redirect_from: "/taunton-live-2015/"
+redirect_from: 
+  - "/taunton-live-2015/"
+  - "/events/summer-festival/"
 ---
 
 <p>Welcome to our Taunton Live 2015 home page. The festival will run from 18th to 26th July, 2015.</p>

@@ -7,7 +7,7 @@ redirect_from: "/2015/05/singer-instructions-for-the-somerset-song-prize-regiona
 <section>
 
                     
-                    <p>The regional rounds of <a href="/events/music-festival/somerset-song-prize/">the Somerset Song Prize</a> will be held this Sunday, 10th May.</p>
+                    <p>The regional rounds of <a href="{{ "/events/music-festival/somerset-song-prize/" | prepend: site.github.url }}">the Somerset Song Prize</a> will be held this Sunday, 10th May.</p>
 <p><strong>Singers: instructions on arrival</strong></p>
 <p><u>LONDON</u><br />
 Please report to staff at reception on arrival, who should be able to direct you. You will be singing in Opera Room 2, and the warm up rooms Opera Rooms 3 and 4.<br />

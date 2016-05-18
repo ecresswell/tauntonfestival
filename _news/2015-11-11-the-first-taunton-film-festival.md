@@ -11,7 +11,7 @@ redirect_from: "/2015/11/the-first-taunton-film-festival/"
 <p>Students ranging from Preparatory level through to Sixth Form have submitted entries, these will be screened at the festival and awards presented.  In addition, some films produced by other students, recognised and awarded at other film festival events, will be screened.   Combined with the additional screenings will be an interactive seminar style presentation covering basic film design and production, but emphasising the requirements being sought by the adjudicators.  The event should prove invaluable to creative filmmakers and is anticipated to run through until 4.00-4.30pm.</p>
 <p>There is an entry charge of £7 to cover costs of the venue and the production of programme and notes for everyone.  Refreshments will be available.</p>
 <p>The Film Festival looks forward to welcoming filmmakers and film viewers alike.</p>
-<p><a href="http://www.tauntonfestival.org.uk/events/film-festival/">More information can be found on our Film Festival page here.</a></p>
+<p><a href="{{ "/events/film-festival/" | prepend: site.github.url }}">More information can be found on our Film Festival page here.</a></p>
 
                 
 </section>
