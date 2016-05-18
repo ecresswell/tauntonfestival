@@ -8,7 +8,7 @@ redirect_from: "/2016/01/reminder-four-grand-finals-at-the-end-of-february/"
 
                     
                     <p>Don&#8217;t forget that there are four Grand Finals at the end of February!</p>
-<p><a href="{{ "/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals.pdf" | prepend: site.github.url }}" rel=""><img src="http://www.tauntonfestival.org.uk/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized.png" alt="Grand Finals!" class="size-full wp-image-1673" srcset="http://www.tauntonfestival.org.uk/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized-212x300.png 212w, http://www.tauntonfestival.org.uk/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized.png 508w" sizes="(max-width: 508px) 100vw, 508px" /></a></p>
+<p><a href="{{ "/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals.pdf" | prepend: site.github.url }}" rel=""><img src="{{ "/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized.png" | prepend: site.github.url }}" alt="Grand Finals!" class="size-full wp-image-1673" /></a></p>
 <p><strong>Saturday, 27th February</strong><br />
 <div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
 <tbody>
