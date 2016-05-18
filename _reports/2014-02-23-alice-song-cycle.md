@@ -31,7 +31,7 @@ There will be two concerts – </p>
 <p>3)  At the start of the summer term you will be told if you have been successful with your application and will be sent a pack consisting of a vocal score and backing tracks CD.  Lyrics for projection will be e-mailed to your school so you can start rehearsing with your group.</p>
 <p>You can put on your own show! </p>
 <p>Your school will also have the option of putting on your own performance of the music as part of your own concert, providing that it takes place between January and July 2014 and that you have informed the composer.  All materials must be returned by the end of the school year for copyright reasons.</p>
-<p><a href="{{ "/wp-content/uploads/2014/02/Centenary-Festival-Alice-in-Wonderland-Leaflet.pdf" | prepend: site.github.url }}" onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2014/02/Centenary-Festival-Alice-in-Wonderland-Leaflet.pdf']);" >Centenary Festival &#8211; Alice in Wonderland Leaflet</a></p>
+<p><a href="{{ "/wp-content/uploads/2014/02/Centenary-Festival-Alice-in-Wonderland-Leaflet.pdf" | prepend: site.github.url }}" >Centenary Festival &#8211; Alice in Wonderland Leaflet</a></p>
 
                 
 </section>

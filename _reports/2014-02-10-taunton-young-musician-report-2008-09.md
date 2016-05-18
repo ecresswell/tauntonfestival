@@ -18,7 +18,7 @@ redirect_from: "/2014/02/taunton-young-musician-report-2008-09/"
 <p>The concert had begun with a presentation of flowers to Miss Margaret Way, Vice President of the Taunton &#038; Music &#038; Drama Festival, to congratulate her on the award of M.B.E for ‘voluntary service to speech and drama in the county town’.</p>
 <p>The Mayor Tim Slattery brought the afternoon to a close, pointing out that there is so much criticism of young people for negative behaviour but here was an event, which gave all the evidence to the contrary. He hoped the sponsors would continue to support such an excellent competition. The sponsors are Taunton Deane Borough Council; AH Gadd Ltd; Energy Solutions; Taunton &#038; Somerset Music &#038; Drama Festival; Queens College; Taunton School; Shakspeare Glass and the Rotary Clubs of Taunton and Taunton Vale.</p>
 <p>By Laurian Cooper<br />
-(originally for the Somerset County Gazette, link to <a href="http://www.somersetcountygazette.co.uk/search/4088585.Taunton_musician_of_the_year_winners/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.somersetcountygazette.co.uk/search/4088585.Taunton_musician_of_the_year_winners/', 'news article']);" >news article</a>) </p>
+(originally for the Somerset County Gazette, link to <a href="http://www.somersetcountygazette.co.uk/search/4088585.Taunton_musician_of_the_year_winners/" >news article</a>) </p>
 
                 
 </section>
