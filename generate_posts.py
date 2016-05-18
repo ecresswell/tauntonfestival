@@ -58,10 +58,16 @@ def generate_report_page(rel_url, title, date, content, tags):
 def fix_links_in_content(content):
     # href="/2014/03/annual-general-meeting-26th-march-2014/"
     # href="http://www.tauntonfestival.org.uk/wp-content/uploads/2014/09/TauntonFestival_2015_Syllabus.pdf"
+    # href='http://www.tauntonfestival.org.uk/wp-content/uploads/2014/02/organ_event_2013_011.jpg'
     # onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2014/09/TauntonFestival_2015_Syllabus.pdf']);"
+    # src="http://www.tauntonfestival.org.uk/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized.png"
+    # srcset="http://www.tauntonfestival.org.uk/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized-212x300.png 212w, http://www.tauntonfestival.org.uk/wp-content/uploads/2016/01/TYS_TYM_Grand_Finals_resized.png 508w" sizes="(max-width: 508px) 100vw, 508px"
     content = re.sub(r'href="/(.*?)"', r'href="{{ "/\1" | prepend: site.github.url }}"', content)
     content = re.sub(r'href="http://www.tauntonfestival.org.uk(.*?)"', r'href="{{ "\1" | prepend: site.github.url }}"', content)
+    content = re.sub(r'href=\'http://www.tauntonfestival.org.uk(.*?)\'', r'href="{{ "\1" | prepend: site.github.url }}"', content)
     content = re.sub(r' onclick="_gaq.*?;"', r'', content)
+    content = re.sub(r'src="http://www.tauntonfestival.org.uk(.*?)"', r'src="{{ "\1" | prepend: site.github.url }}"', content)
+    content = re.sub(r' srcset=".*?" sizes=".*?"', r'', content)
     return content
     
 def relative_url(url):
