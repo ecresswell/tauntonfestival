@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Somerset Song Prize Update
 date: 2014-10-17 09:00:00
 redirect_from: "/2014/10/somerset-song-prize-update/"

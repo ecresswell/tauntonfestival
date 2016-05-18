@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Church Day 2013 &#8211; Adult Course
 tags: 
  - All Yearly Reports

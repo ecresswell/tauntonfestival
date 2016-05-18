@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Welcome to our new Website!
 date: 2014-01-26 09:00:00
 redirect_from: "/2014/01/welcome-to-our-new-website/"

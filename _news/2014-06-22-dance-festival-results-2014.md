@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Dance Festival Results 2014
 date: 2014-06-22 09:00:00
 redirect_from: "/2014/06/dance-festival-results-2014/"

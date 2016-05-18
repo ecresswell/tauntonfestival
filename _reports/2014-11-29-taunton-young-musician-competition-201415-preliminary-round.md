@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Taunton Young Musician Competition 2014/15 &#8211; Preliminary Round
 tags: 
  - Taunton Young Musician Reports

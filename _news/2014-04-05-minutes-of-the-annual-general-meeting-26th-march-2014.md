@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Minutes of the Annual General Meeting &#8211; 26th March, 2014
 date: 2014-04-05 09:00:00
 redirect_from: "/2014/04/minutes-of-the-annual-general-meeting-26th-march-2014/"

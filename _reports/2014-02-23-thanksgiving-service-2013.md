@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Thanksgiving Service 2013
 tags: 
  - All Yearly Reports

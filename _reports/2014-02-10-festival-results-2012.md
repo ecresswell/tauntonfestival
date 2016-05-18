@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Festival Results 2012
 tags: 
  - Festival Results

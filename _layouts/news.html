@@ -1,0 +1,13 @@
+---
+layout: default
+---
+                    <article class="post page">
+                        <section class="title">
+                            <h2 class="page-title">{{ page.title }}</h2>
+                            <section class="metaline">Published {{ page.date | date: '%B %d, %Y' }} by Webmaster in <a href="{{ '/news/' | prepend: site.github.url }}">News</a>
+                            </section>
+                        </section>
+                        <section class="entry single">
+                            {{ content }}
+                        </section>
+                    </article>

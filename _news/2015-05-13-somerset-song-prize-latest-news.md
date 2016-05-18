@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Somerset Song Prize &#8211; Latest News!
 date: 2015-05-13 09:00:00
 redirect_from: "/2015/05/somerset-song-prize-latest-news/"

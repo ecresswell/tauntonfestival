@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Taunton Young Singer 2014
 tags: 
  - All Yearly Reports

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Festival 2016 Syllabus and Entry Form now available!
 date: 2015-09-20 09:00:00
 redirect_from: "/2015/09/taunton-festival-2016-syllabus-and-entry-form-now-available/"

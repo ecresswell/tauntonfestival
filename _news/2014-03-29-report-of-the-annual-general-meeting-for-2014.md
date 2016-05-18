@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Report of the Annual General Meeting for 2014
 date: 2014-03-29 09:00:00
 redirect_from: "/2014/03/report-of-the-annual-general-meeting-for-2014/"

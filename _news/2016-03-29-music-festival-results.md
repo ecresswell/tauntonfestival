@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Music Festival Results!
 date: 2016-03-29 09:00:00
 redirect_from: "/2016/03/music-festival-results/"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Entry form now available for the Taunton Junior Young Musician Competition
 date: 2014-09-20 09:00:00
 redirect_from: "/2014/09/entry-form-now-available-for-the-taunton-junior-young-musician-competition/"

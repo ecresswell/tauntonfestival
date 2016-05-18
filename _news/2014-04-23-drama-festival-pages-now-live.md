@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Drama Festival pages now live
 date: 2014-04-23 09:00:00
 redirect_from: "/2014/04/drama-festival-pages-now-live/"

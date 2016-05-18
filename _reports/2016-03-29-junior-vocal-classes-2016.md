@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Junior Vocal Classes 2016
 tags: 
  - Festival Reports

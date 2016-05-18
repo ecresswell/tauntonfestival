@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Music Festival Results 2015
 tags: 
  - Festival Results

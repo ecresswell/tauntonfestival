@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Entries now open for many competitions!
 date: 2015-10-06 09:00:00
 redirect_from: "/2015/10/entries-now-open-for-many-competitions/"

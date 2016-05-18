@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Pilgrim&#8217;s Progress
 tags: 
  - All Yearly Reports

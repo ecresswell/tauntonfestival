@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Launch of Somerset Song Prize 2015!
 date: 2015-02-04 09:00:00
 redirect_from: "/2015/02/launch-of-somerset-song-prize-2015/"

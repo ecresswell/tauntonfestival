@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Showground for Soloists
 date: 2015-10-25 09:00:00
 redirect_from: "/2015/10/upcoming-event-showground-for-soloists/"

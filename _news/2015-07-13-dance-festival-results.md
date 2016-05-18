@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Dance Festival Results!
 date: 2015-07-13 09:00:00
 redirect_from: "/2015/07/dance-festival-results/"

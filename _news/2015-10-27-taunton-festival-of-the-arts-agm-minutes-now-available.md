@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Festival of the Arts &#8211; AGM minutes now available
 date: 2015-10-27 09:00:00
 redirect_from: "/2015/10/taunton-festival-of-the-arts-agm-minutes-now-available/"

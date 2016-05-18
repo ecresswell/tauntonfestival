@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Junior Young Singer competition time changed
 date: 2016-02-11 09:00:00
 redirect_from: "/2016/02/taunton-junior-young-singer-competition-time-changed/"

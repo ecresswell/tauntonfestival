@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Drama Festival Results 2016
 tags: 
  - All Yearly Reports

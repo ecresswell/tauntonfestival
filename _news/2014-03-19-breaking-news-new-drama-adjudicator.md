@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Breaking News! New Drama Adjudicator
 date: 2014-03-19 09:00:00
 redirect_from: "/2014/03/breaking-news-new-drama-adjudicator/"

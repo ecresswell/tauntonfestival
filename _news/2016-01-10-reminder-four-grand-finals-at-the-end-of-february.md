@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Reminder- Four Grand Finals at the end of February
 date: 2016-01-10 09:00:00
 redirect_from: "/2016/01/reminder-four-grand-finals-at-the-end-of-february/"

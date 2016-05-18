@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Live 2015 pages now open to visitors!
 date: 2015-05-03 09:00:00
 redirect_from: "/2015/05/taunton-live-2015-pages-now-open-to-visitors/"

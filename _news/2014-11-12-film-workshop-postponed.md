@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Film Workshop postponed
 date: 2014-11-12 09:00:00
 redirect_from: "/2014/11/film-workshop-postponed/"

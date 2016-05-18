@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Reminder- Festival Handbook launches this Friday!
 date: 2014-09-22 09:00:00
 redirect_from: "/2014/09/reminder-festival-handbook-launches-this-friday/"

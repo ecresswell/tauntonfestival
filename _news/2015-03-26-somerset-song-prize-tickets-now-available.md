@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Somerset Song Prize Tickets now available!
 date: 2015-03-26 09:00:00
 redirect_from: "/2015/03/somerset-song-prize-tickets-now-available/"

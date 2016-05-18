@@ -13,6 +13,9 @@ collections:
     news:
         output: true
         permalink: /news/:year/:month/:title
+    reports:
+        output: true
+        permalink: /reports/:year/:month/:title
         
 text:
   pagination:

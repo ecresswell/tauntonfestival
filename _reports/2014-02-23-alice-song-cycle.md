@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Alice (Through the Century)
 tags: 
  - All Yearly Reports

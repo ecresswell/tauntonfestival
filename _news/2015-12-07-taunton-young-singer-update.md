@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Young Singer Update
 date: 2015-12-07 09:00:00
 redirect_from: "/2015/12/taunton-young-singer-update/"

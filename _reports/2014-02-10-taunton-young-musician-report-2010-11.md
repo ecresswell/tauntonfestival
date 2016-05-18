@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Taunton Young Musician Report 2010-11
 tags: 
  - Taunton Young Musician Reports

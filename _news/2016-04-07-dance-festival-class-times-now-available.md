@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Dance Festival class times now available
 date: 2016-04-07 09:00:00
 redirect_from: "/2016/04/dance-festival-class-times-now-available/"

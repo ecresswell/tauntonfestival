@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Festival Report 2011
 tags: 
  - Festival Reports

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: More Music and Drama Festival results!
 date: 2016-04-05 09:00:00
 redirect_from: "/2016/04/more-music-and-drama-festival-results/"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Taunton Junior Young Musician of the Year 2015 Report
 tags: 
  - Taunton Young Musician Reports

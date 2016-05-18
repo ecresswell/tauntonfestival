@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Festival Planning for 2015
 date: 2014-02-22 09:00:00
 redirect_from: "/2014/02/festival-planning-for-2015/"

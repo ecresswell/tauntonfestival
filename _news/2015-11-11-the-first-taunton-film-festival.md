@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: The First Taunton Film Festival
 date: 2015-11-11 09:00:00
 redirect_from: "/2015/11/the-first-taunton-film-festival/"

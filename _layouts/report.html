@@ -1,0 +1,16 @@
+---
+layout: default
+---
+                    <article class="post page">
+                        <section class="title">
+                            <h2 class="page-title">{{ page.title }}</h2>
+                            <section class="metaline">Published {{ page.date | date: '%B %d, %Y' }} by Webmaster in 
+                            {% for tag in page.tags %}
+                                <a href="{{ '/reports/#' | prepend: site.github.url }}{{ tag | slugify }}">{{ tag }}</a>
+                            {% endfor %}
+                            </section>
+                        </section>
+                        <section class="entry single">
+                            {{ content }}
+                        </section>
+                    </article>

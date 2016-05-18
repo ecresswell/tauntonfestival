@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Dance Festival pages now live
 date: 2014-03-23 09:00:00
 redirect_from: "/2014/03/dance-festival-pages-now-live/"

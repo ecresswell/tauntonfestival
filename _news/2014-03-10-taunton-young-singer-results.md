@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Young Singer Results!
 date: 2014-03-10 09:00:00
 redirect_from: "/2014/03/taunton-young-singer-results/"

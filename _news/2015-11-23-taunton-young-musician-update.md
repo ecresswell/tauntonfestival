@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: Taunton Young Musician Update
 date: 2015-11-23 09:00:00
 redirect_from: "/2015/11/taunton-young-musician-update/"

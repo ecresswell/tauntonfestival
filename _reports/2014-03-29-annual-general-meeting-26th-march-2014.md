@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: report
 title: Annual General Meeting &#8211; 26th March, 2014
 tags: 
  - All Yearly Reports
