@@ -8,14 +8,14 @@ input_xml = 'C:/myprojects/tauntonfestival-master/events.txt'
 events_output_dir = r'C:/myprojects/tauntonfestival/_events'
 
 events_template = """---
-layout: event
-title: $TITLE
+layout: page
+title: "$TITLE"
 date: $DATE
 publish_date: $PUBLISH_DATE
 start_date: $START_DATE
 end_date: $END_DATE
-time: $TIME
-location: $LOCATION
+time: "$TIME"
+location: "$LOCATION"
 ---
 $DETAILS
 """
