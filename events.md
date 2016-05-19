@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: Events
+title: Events
 ---
 
 The Festival hosts a number of events throughout the year. Please click on any event below for more information, or [click here to see the event calendar]({{ '/events/event-calendar/' | prepend: site.github.url }}.
