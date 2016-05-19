@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Young Theatre Performer of the Year
 date: 2016-01-08
 publish_date: 2016-01-10 09:00:00

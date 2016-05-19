@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Piano Classes, Day 2
 date: 2016-01-02
 publish_date: 2015-01-30 09:00:00

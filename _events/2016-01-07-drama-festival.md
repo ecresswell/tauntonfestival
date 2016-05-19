@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Drama Festival
 date: 2016-01-07
 publish_date: 2016-01-10 09:00:00

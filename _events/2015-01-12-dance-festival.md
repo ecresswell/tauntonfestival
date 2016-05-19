@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Dance Festival
 date: 2015-01-12
 publish_date: 2014-01-09 09:00:00

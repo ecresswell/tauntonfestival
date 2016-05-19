@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Film Festival
 date: 2015-01-22
 publish_date: 2015-01-11 09:00:00

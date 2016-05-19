@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Showground for Soloists
 date: 2015-01-29
 publish_date: 2015-01-25 09:00:00

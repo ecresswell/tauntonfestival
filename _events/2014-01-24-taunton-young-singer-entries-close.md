@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Young Singer Entries Close
 date: 2014-01-24
 publish_date: 2014-01-09 09:00:00

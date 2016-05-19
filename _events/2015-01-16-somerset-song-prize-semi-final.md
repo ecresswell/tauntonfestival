@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Somerset Song Prize Semi-Final
 date: 2015-01-16
 publish_date: 2014-01-09 09:00:00

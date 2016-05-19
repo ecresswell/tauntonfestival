@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Junior Young Musician
 date: 2016-01-27
 publish_date: 2015-01-11 09:00:00

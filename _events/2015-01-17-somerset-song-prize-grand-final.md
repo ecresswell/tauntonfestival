@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Somerset Song Prize Grand Final
 date: 2015-01-17
 publish_date: 2015-01-26 09:00:00

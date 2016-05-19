@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Summer Festival
 date: 2015-01-18
 publish_date: 2014-01-22 09:00:00

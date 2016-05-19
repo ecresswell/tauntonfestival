@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Young Musician - Preliminary Round
 date: 2015-01-15
 publish_date: 2015-01-11 09:00:00

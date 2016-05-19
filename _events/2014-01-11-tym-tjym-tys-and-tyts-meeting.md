@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: TYM/TJYM/TYS and TYTS Meeting
 date: 2014-01-11
 publish_date: 2014-01-14 09:00:00

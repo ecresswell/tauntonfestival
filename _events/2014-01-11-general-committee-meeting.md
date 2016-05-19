@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: General Committee Meeting
 date: 2014-01-11
 publish_date: 2014-01-14 09:00:00

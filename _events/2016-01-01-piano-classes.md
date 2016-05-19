@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Piano Classes
 date: 2016-01-01
 publish_date: 2015-01-30 09:00:00

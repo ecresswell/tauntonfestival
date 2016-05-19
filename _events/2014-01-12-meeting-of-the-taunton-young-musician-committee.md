@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Meeting of the Taunton Young Musician Committee
 date: 2014-01-12
 publish_date: 2014-01-10 09:00:00

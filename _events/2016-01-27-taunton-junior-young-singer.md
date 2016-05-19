@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Junior Young Singer
 date: 2016-01-27
 publish_date: 2016-01-25 09:00:00

@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Taunton Young Musician
 date: 2016-01-28
 publish_date: 2016-01-25 09:00:00

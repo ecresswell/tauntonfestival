@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: page
 title: Festival A.G.M.
 date: 2014-01-26
 publish_date: 2014-01-22 09:00:00
