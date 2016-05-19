@@ -1,0 +1,128 @@
+---
+layout: page
+title: Event Calendar
+---
+
+<p>Please see below for information on events in 2016. For an overview of the different events hosted by the Festival, please <a href="{{ '/events/' | prepend: site.github.url }}">visit our Events page</a>.</p>
+
+<h2>Upcoming Events in 2016</h2>
+<div class="event-list">
+    <ul class="event-list-view">
+{% assign sorted_events = site.events | sort: "date" | reverse %}
+{% assign counter = 0 %}
+{% for page in sorted_events %}
+    {% capture year_2016 %}{{ site.time | date: '%Y' }}{% endcapture %}
+    {% capture event_year %}{{ page.date | date: '%Y' }}{% endcapture %}
+    {% if event_year == year_2016 %}
+        {% capture now_unix %}{{ 'now' | date: '%s' }}{% endcapture %}
+        {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
+        {% if event_time > now_unix %}
+            {% assign counter = counter | plus: 1 %}
+            {% if page.end_date %}
+        <li class="event ">
+            <div class="event-date multi-date">
+                <div class="start-date">
+                    <div class="event-weekday">{{ page.date | date: '%a' }}</div>
+                    <div class="event-day">{{ page.date | date: '%d' }}</div>
+                    <div class="event-month">{{ page.date | date: '%b' }}</div>
+                    <div class="event-year">{{ page.date | date: '%Y' }}</div>
+                </div>
+                <div class="end-date">
+                    <div class="event-weekday">{{ page.end_date | date: '%a' }}</div>
+                    <div class="event-day">{{ page.end_date | date: '%d' }}</div>
+                    <div class="event-month">{{ page.end_date | date: '%b' }}</div>
+                    <div class="event-year">{{ page.end_date | date: '%Y' }}</div>
+                </div>
+            </div>
+            <div class="event-info multi-day">
+                <div class="event-title"><h3>{{ page.title }}</h3></div>
+                <span class="event-time">{{ page.time }}</span>
+                <span class="event-location">{{ page.location }}</span>
+                <div class="event-details"><p>{{ page.content }}</p></div>
+            </div>
+        </li>
+            {% else %}
+        <li class="event ">
+            <div class="event-date">
+                <div class="start-date">
+                    <div class="event-weekday">{{ page.date | date: '%a' }}</div>
+                    <div class="event-day">{{ page.date | date: '%d' }}</div>
+                    <div class="event-month">{{ page.date | date: '%b' }}</div>
+                    <div class="event-year">{{ page.date | date: '%Y' }}</div>
+                </div>
+            </div>
+            <div class="event-info single-day">
+                <div class="event-title"><h3>{{ page.title }}</h3></div>
+                <span class="event-time">{{ page.time }}</span>
+                <span class="event-location">{{ page.location }}</span>
+                <div class="event-details"><p>{{ page.content }}</p></div>
+            </div>
+        </li>
+            {% endif %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+    </ul>
+{% if counter == 0 %}
+    <p>No events are currently scheduled</p>
+{% endif %}
+</div>
+<br />
+<br />
+<h2>Past Events in 2016</h2>
+<div class="event-list">
+    <ul class="event-list-view">
+{% assign sorted_events = site.events | sort: "date" | reverse %}
+{% for page in sorted_events %}
+    {% capture year_2016 %}{{ site.time | date: '%Y' }}{% endcapture %}
+    {% capture event_year %}{{ page.date | date: '%Y' }}{% endcapture %}
+    {% if event_year == year_2016 %}
+        {% capture now_unix %}{{ 'now' | date: '%s' }}{% endcapture %}
+        {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
+        {% if event_time < now_unix %}
+            {% if page.end_date %}
+        <li class="event ">
+            <div class="event-date multi-date">
+                <div class="start-date">
+                    <div class="event-weekday">{{ page.date | date: '%a' }}</div>
+                    <div class="event-day">{{ page.date | date: '%d' }}</div>
+                    <div class="event-month">{{ page.date | date: '%b' }}</div>
+                    <div class="event-year">{{ page.date | date: '%Y' }}</div>
+                </div>
+                <div class="end-date">
+                    <div class="event-weekday">{{ page.end_date | date: '%a' }}</div>
+                    <div class="event-day">{{ page.end_date | date: '%d' }}</div>
+                    <div class="event-month">{{ page.end_date | date: '%b' }}</div>
+                    <div class="event-year">{{ page.end_date | date: '%Y' }}</div>
+                </div>
+            </div>
+            <div class="event-info multi-day">
+                <div class="event-title"><h3>{{ page.title }}</h3></div>
+                <span class="event-time">{{ page.time }}</span>
+                <span class="event-location">{{ page.location }}</span>
+                <div class="event-details"><p>{{ page.content }}</p></div>
+            </div>
+        </li>
+            {% else %}
+        <li class="event ">
+            <div class="event-date">
+                <div class="start-date">
+                    <div class="event-weekday">{{ page.date | date: '%a' }}</div>
+                    <div class="event-day">{{ page.date | date: '%d' }}</div>
+                    <div class="event-month">{{ page.date | date: '%b' }}</div>
+                    <div class="event-year">{{ page.date | date: '%Y' }}</div>
+                </div>
+            </div>
+            <div class="event-info single-day">
+                <div class="event-title"><h3>{{ page.title }}</h3></div>
+                <span class="event-time">{{ page.time }}</span>
+                <span class="event-location">{{ page.location }}</span>
+                <div class="event-details"><p>{{ page.content }}</p></div>
+            </div>
+        </li>
+            {% endif %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+    </ul>
+</div>
