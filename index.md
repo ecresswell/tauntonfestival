@@ -5,7 +5,7 @@ layout: page
 
 **(formerly Taunton & Somerset Music, Drama & Dance Festival)**
 
-Formed in 1913, the Taunton & Somerset Music, Drama & Dance Festival has undergone a name change – Taunton Festival of the Arts – to reflect more closely its activities and to allow for additional events. The festival is affiliated to the British and International Federation of Festivals (www.federationoffestivals.org.uk) and the Taunton Association of Performing Arts (www.tapa.org.uk).
+Formed in 1913, the Taunton & Somerset Music, Drama & Dance Festival has undergone a name change – Taunton Festival of the Arts – to reflect more closely its activities and to allow for additional events. The festival is affiliated to the British and International Federation of Festivals (<http://www.federationoffestivals.org.uk>) and the Taunton Association of Performing Arts (<http://www.tapa.org.uk>).
 
 Click here if you wish to see information about registering as a Friend or Benefactor of the Festival.
 
