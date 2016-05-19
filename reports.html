@@ -1,0 +1,40 @@
+---
+layout: page
+title: Reports
+redirect_from:
+  - /category/all-yearly-reports/
+  - /category/festival-reports/
+  - /category/festival-results/
+  - /category/all-yearly-reports/organ-event-reports/
+  - /category/all-yearly-reports/tym-reports/
+  - /category/tys-reports/
+---
+
+
+<p>From this page you’ll be able to find archived reports, results and more from previous years and/or the previous website.</p>
+
+{% assign all_tags = "" | split: "" %}
+{% assign sorted_pages = site.reports | sort: "date" %}
+{% for page in sorted_pages %}
+    {% for tag in page.tags %}
+        {% assign all_tags = all_tags | push: tag %}
+    {% endfor %}
+{% endfor %}
+{% assign uniq_tags = all_tags | sort | uniq %}
+
+{% for tag in uniq_tags %}
+    <h3 class="result-heading"><a href="#{{ tag | slugify }}">{{ tag }}</a></h3>
+{% endfor %}
+
+{% for tag in uniq_tags %}
+    <section class="title"></section>
+    <h3 class="result-heading"><a name="{{ tag | slugify }}">Reports tagged as '{{ tag }}'</a></h3>
+    {% assign tagged_sorted_pages = site.reports | sort: "date" %}
+    {% for page in tagged_sorted_pages %}
+        {% for page_tag in page.tags %}
+            {% if page_tag == tag %}
+            <p><a href={{ page.url | prepend: site.github.url }}>{{ page.title }}</a>, published on {{ page.date | date: '%B %d, %Y' }}</p>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
