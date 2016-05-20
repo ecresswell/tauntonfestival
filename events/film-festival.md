@@ -9,7 +9,7 @@ title: Film Festival
 <p>There is an entry charge of £7 to cover costs of the venue and the production of programme and notes for everyone.  Refreshments will be available.</p>
 <p>The Film Festival looks forward to welcoming filmmakers and film viewers alike.</p>
 <h2><strong>Entries are now closed</strong></h2>
-<p><a href="{{ '/wp-content/uploads/2014/03/Film-Festival-Application-Form.pdf' | prepend: site.github.url }}" onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2014/03/Film-Festival-Application-Form.pdf']);" >To enter, please download this application form and send it, along with payment, to the address given.</a></p>
+<p><a href="{{ '/wp-content/uploads/2014/03/Film-Festival-Application-Form.pdf' | prepend: site.github.url }}" >To enter, please download this application form and send it, along with payment, to the address given.</a></p>
 <h3>Festival Entries</h3>
 <p>There are five basic categories of entry with each having separate awards.</p>
 <div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
@@ -55,15 +55,15 @@ Taunton<br />
 TA4 2XY</p>
 <h3>Guidelines</h3>
 <p>Entries must fall within the stated classifications as listed for the classes.  This is so divided as to enable the maximum viewing audience to enjoy the entries.  </p>
-<p>All valid entries will be screened.  Please refer to the guidelines issued by the British Board of Film Classification (BBFC) for a straightforward understanding of what is and what is not required for the creation of a project within a ‘PG’ or a ‘15’ classification.  If there are any uncertainties, then please email Taunton Festival for clarification.  Useful Link: <a href="http://www.bbfc.co.uk/what-classification/guidelines" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bbfc.co.uk/what-classification/guidelines', 'BBFC Guidelines (download guide)']);" >BBFC Guidelines (download guide)</a></p>
+<p>All valid entries will be screened.  Please refer to the guidelines issued by the British Board of Film Classification (BBFC) for a straightforward understanding of what is and what is not required for the creation of a project within a ‘PG’ or a ‘15’ classification.  If there are any uncertainties, then please email Taunton Festival for clarification.  Useful Link: <a href="http://www.bbfc.co.uk/what-classification/guidelines" >BBFC Guidelines (download guide)</a></p>
 <p>All entries must be supplied in one of the following formats, which will provide scope for HD and non-HD productions, edited on PC or Apple systems:</p>
 <p>.mov .mp4 .avi</p>
 <p>Your entry should be sent on a memory stick or SDHC card.  Please ensure that your production runs properly from the memory stick/card before submitting.  Memory sticks/cards will not be returned.  Therefore, be certain that you retain a safe copy of your production, yourself.  Whilst Taunton Festival will make every effort, no responsibility can be accepted for the loss of memory sticks/cards and related media.</p>
 <p>There is a DVD about the Film Festival, including tips and links about making films.  This is available free.  Please email Taunton Festival requesting a copy and providing your name and address.</p>
 <p>Here are some useful ‘Make a Movie’ sites to explore (there are more on the DVD).  This is not exclusive (just a start), and you will find that browsing via Google will reveal a wealth of helpful information, also You Tube.  Good luck.</p>
-<p><a href="http://www.youtube.com/watch?v=C2YeFs0Vn6c" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.youtube.com/watch?v=C2YeFs0Vn6c', 'http://www.youtube.com/watch?v=C2YeFs0Vn6c']);" data-rel="lightbox-video-0">http://www.youtube.com/watch?v=C2YeFs0Vn6c</a><br />
-<a href="http://www.youtube.com/watch?v=O151d7JekJ4" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.youtube.com/watch?v=O151d7JekJ4', 'http://www.youtube.com/watch?v=O151d7JekJ4']);" data-rel="lightbox-video-1">http://www.youtube.com/watch?v=O151d7JekJ4</a><br />
-<a href="http://www.apple.com/ios/imovies/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.apple.com/ios/imovies/', 'http://www.apple.com/ios/imovies/']);" >http://www.apple.com/ios/imovies/</a><br />
-<a href="http://www.wikihow.com/Create-a-Low-Budget-Movie" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wikihow.com/Create-a-Low-Budget-Movie', 'http://www.wikihow.com/Create-a-Low-Budget-Movie']);" >http://www.wikihow.com/Create-a-Low-Budget-Movie</a><br />
-<a href="http://www.raindance.org/10-zero-budget-filmmaking-tips/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.raindance.org/10-zero-budget-filmmaking-tips/', 'http://www.raindance.org/10-zero-budget-filmmaking-tips/']);" >http://www.raindance.org/10-zero-budget-filmmaking-tips/</a></p>
+<p><a href="http://www.youtube.com/watch?v=C2YeFs0Vn6c" data-rel="lightbox-video-0">http://www.youtube.com/watch?v=C2YeFs0Vn6c</a><br />
+<a href="http://www.youtube.com/watch?v=O151d7JekJ4" data-rel="lightbox-video-1">http://www.youtube.com/watch?v=O151d7JekJ4</a><br />
+<a href="http://www.apple.com/ios/imovies/" >http://www.apple.com/ios/imovies/</a><br />
+<a href="http://www.wikihow.com/Create-a-Low-Budget-Movie" >http://www.wikihow.com/Create-a-Low-Budget-Movie</a><br />
+<a href="http://www.raindance.org/10-zero-budget-filmmaking-tips/" >http://www.raindance.org/10-zero-budget-filmmaking-tips/</a></p>
 <p><em>Nigel Cousins, Secretary to the Film Festival</em></p>

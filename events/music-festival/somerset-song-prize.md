@@ -73,12 +73,12 @@ The Most Promising Young Singer Award is supported by the Friends of the Somerse
 <li>Festival Office, 15 Peile Drive, Taunton, TA2 7SZ (please enclose Self Addressed Envelope)</li>
 </ul>
 <p>Cheques payable to &#8220;Taunton Festival of the Arts&#8221;</p>
-<p>For more information and for an itinerary of the Final, <a href="{{ '/wp-content/uploads/2014/02/Song-Prize-Promotional-Leaflet.pdf' | prepend: site.github.url }}" onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2014/02/Song-Prize-Promotional-Leaflet.pdf']);" >please view our latest leaflet (click to download).</a></p>
+<p>For more information and for an itinerary of the Final, <a href="{{ '/wp-content/uploads/2014/02/Song-Prize-Promotional-Leaflet.pdf' | prepend: site.github.url }}" >please view our latest leaflet (click to download).</a></p>
 <h4>Somerset Song Prize 2013</h4>
 <p>We&#8217;re pleased to announce the results of the Somerset Song Prize!<br />
 1st Prize &#8211; James Hall<br />
 2nd Prize &#8211; Helen Stanley<br />
 3rd Prize &#8211; Claire Lees<br />
 Accompanists Prize &#8211; Juliane Gallant</p>
-<p>Please <a href="{{ '/wp-content/uploads/2014/02/Somerset_Song_Prize_2013_report.pdf' | prepend: site.github.url }}" onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2014/02/Somerset_Song_Prize_2013_report.pdf']);" >click here for a full review</a> of the weekend from Harold Mead.  </p>
+<p>Please <a href="{{ '/wp-content/uploads/2014/02/Somerset_Song_Prize_2013_report.pdf' | prepend: site.github.url }}" >click here for a full review</a> of the weekend from Harold Mead.  </p>
 <p>The preliminary round was on Saturday, 25 May 2013, and the final on 26 May.</p>

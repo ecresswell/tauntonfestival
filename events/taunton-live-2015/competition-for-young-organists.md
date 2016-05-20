@@ -27,6 +27,6 @@ In the intermediate section, the winner will be awarded £75 and a recital oppor
 <p><strong>Master Class</strong></p>
 <p>This will provide a valuable opportunity for players of any age to perform and receive help and advice from Margaret Phillips. This is a non-competitive class and players are urged to take advantage of this occasion and enjoy the chance to enhance their skills for the good of all! Any organ piece by Bach may be played (lasting not more than 6 minutes).</p>
 <h4>Applications</h4>
-<p>To apply, <a href="{{ '/wp-content/uploads/2015/05/Competition-for-Young-Organists-Application-Form1.pdf' | prepend: site.github.url }}" onclick="_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2015/05/Competition-for-Young-Organists-Application-Form1.pdf']);" >please download and complete this form, sending it to the address specified</a>. Completed applications must be received by Monday 13th July. Participants will then be informed of their practice and performance times.</p>
+<p>To apply, <a href="{{ '/wp-content/uploads/2015/05/Competition-for-Young-Organists-Application-Form1.pdf' | prepend: site.github.url }}" >please download and complete this form, sending it to the address specified</a>. Completed applications must be received by Monday 13th July. Participants will then be informed of their practice and performance times.</p>
 <h4>Audience</h4>
 <p>Audience entrance fee £5.00 </p>

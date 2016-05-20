@@ -49,8 +49,7 @@ event-specific page.</p>
             <tr>
                 <td>A4</td>
                 <td>
-                    <a href="http://www.somersetopera.org.uk" onclick=
-                    "_gaq.push(['_trackEvent', 'outbound-article', 'http://www.somersetopera.org.uk', 'www.somersetopera.org.uk']);"
+                    <a href="http://www.somersetopera.org.uk" 
                     target="_blank">www.somersetopera.org.uk</a>
                 </td>
             </tr>
@@ -61,8 +60,7 @@ event-specific page.</p>
             <tr>
                 <td>F5</td>
                 <td>
-                    <a href="http://www.museumofsomerset.org.uk" onclick=
-                    "_gaq.push(['_trackEvent', 'outbound-article', 'http://www.museumofsomerset.org.uk', 'www.museumofsomerset.org.uk']);"
+                    <a href="http://www.museumofsomerset.org.uk" 
                     target="_blank">www.museumofsomerset.org.uk</a>
                 </td>
             </tr>
@@ -93,8 +91,7 @@ all concerts.<br>
                 <td>
                     <img alt="logo_clarion" class="alignright size-full wp-image-1405" src=
                     "{{ '/wp-content/uploads/2015/04/logo_clarion.png' | prepend: site.github.url }}"><a href="{{ '/wp-content/uploads/2015/04/Multiple_Organ_Choral-Clarion1.pdf' | prepend: site.github.url }}"
-                    onclick=
-                    "_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2015/04/Multiple_Organ_Choral-Clarion1.pdf']);">CLARION<br>
+                    >CLARION<br>
 
                     Entrance to all Organ and Choral Events</a>
                 </td>
@@ -140,8 +137,7 @@ all concerts.<br>
                 <td>
                     <a href=
                     "http://www.johnpacker.co.uk/Catalogue/Events/4-Super-Brass-Day-with-Roger-Argente-from-Superbrass"
-                    onclick=
-                    "_gaq.push(['_trackEvent', 'outbound-article', 'http://www.johnpacker.co.uk/Catalogue/Events/4-Super-Brass-Day-with-Roger-Argente-from-Superbrass', '10:00 a.m. &#8211; 1:00 p.m. Super Brass Day with Roger Argente Richard Huish College, Taunton £12.00 per session £20.00 for both']);"
+                    
                     target="_blank">10:00 a.m. &#8211; 1:00 p.m.<br>
                     <strong>Super Brass Day with Roger Argente</strong><br>
                     Richard Huish College, Taunton<br>
@@ -151,8 +147,7 @@ all concerts.<br>
                 <td>
                     <a href=
                     "http://www.johnpacker.co.uk/Catalogue/Events/4-Super-Brass-Day-with-Roger-Argente-from-Superbrass"
-                    onclick=
-                    "_gaq.push(['_trackEvent', 'outbound-article', 'http://www.johnpacker.co.uk/Catalogue/Events/4-Super-Brass-Day-with-Roger-Argente-from-Superbrass', '2:00 p.m. &#8211; 5:00 p.m.']);"
+                    
                     target="_blank">2:00 p.m. &#8211; 5:00 p.m.</a>
                 </td>
             </tr>
@@ -214,8 +209,7 @@ all concerts.<br>
                 <td>
                     <a href=
                     "{{ '/wp-content/uploads/2015/04/Miss_Austen_P08.pdf' | prepend: site.github.url }}"
-                    onclick=
-                    "_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2015/04/Miss_Austen_P08.pdf']);">
+                    >
                     7:00 p.m.<br>
                     <strong>“Miss Austen Invites”</strong><br>
                     Crowcombe Court, Crowcombe, TA4 4AD<br>
@@ -262,8 +256,7 @@ all concerts.<br>
                     "{{ '/wp-content/uploads/2015/04/logo_clarion.png' | prepend: site.github.url }}"><img alt="logo_finzifest"
                     class="alignright size-full wp-image-1406" src=
                     "{{ '/wp-content/uploads/2015/04/logo_finzifest.png' | prepend: site.github.url }}"><a href="{{ '/wp-content/uploads/2015/04/Organ_Concert_P12.pdf' | prepend: site.github.url }}"
-                    onclick=
-                    "_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2015/04/Organ_Concert_P12.pdf']);">8:00
+                    >8:00
                     p.m.<br>
                     <strong>“The Organ In Concert”</strong><br>
                     Margaret Phillips, Joseph Mason, Miles Quick, Stephen Bell (organ), Lynn Carter (oboe), Sara
@@ -279,8 +272,7 @@ all concerts.<br>
                 <td>
                     <a href=
                     "{{ '/wp-content/uploads/2015/04/Percussion-Workshop-Application-Form.pdf' | prepend: site.github.url }}"
-                    onclick=
-                    "_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2015/04/Percussion-Workshop-Application-Form.pdf']);">
+                    >
                     12:00 noon &#8211; 2:00 p.m.<br>
                     <strong>Percussion workshops – Giles Harrison</strong><br>
                     By Taunton Music Trust with funding provided by WPA Benevolent Foundation<br>
@@ -329,8 +321,7 @@ all concerts.<br>
                     "{{ '/wp-content/uploads/2015/04/logo_clarion.png' | prepend: site.github.url }}"><img alt="logo_finzifest"
                     class="alignright size-full wp-image-1406" src=
                     "{{ '/wp-content/uploads/2015/04/logo_finzifest.png' | prepend: site.github.url }}"><a href="{{ '/wp-content/uploads/2015/04/Finzi_Concert_P16.pdf' | prepend: site.github.url }}"
-                    onclick=
-                    "_gaq.push(['_trackEvent','download','http://www.tauntonfestival.org.uk/wp-content/uploads/2015/04/Finzi_Concert_P16.pdf']);">8:00
+                    >8:00
                     p.m.<br>
                     <strong>“The Music of Gerald Finzi”</strong> – a Concert<br>
                     Elizabeth Watts, Peter Sparks, Marion Bettsworth – OrchestraWest, conducted by Oliver Gooch<br>
@@ -522,8 +513,4 @@ all concerts.<br>
 </div>
 <p><img alt="Taunton Live 2015" class="alignleft size-full wp-image-1152" src=
 "/wp-content/uploads/2015/05/Taunton-Live-Logo_2C_web_sized.png"></p>
-<p><!--
-<a href="/wp-content/uploads/2015/04/Finzi_Flyer_Inside.pdf">Finzi_Flyer_Inside</a>
-<a href="/wp-content/uploads/2015/04/Finzi_Flyer_Outside.pdf">Finzi_Flyer_Outside</a>
-<a href="/wp-content/uploads/2015/04/Multiple_Organ_Choral-Clarion.pdf">Multiple_Organ_Choral-Clarion</a>
---></p>
+<p>
