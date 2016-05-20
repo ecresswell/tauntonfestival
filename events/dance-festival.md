@@ -1,6 +1,9 @@
 ---
 layout: dance
 title: Dance Festival
+redirect_from: 
+  - "/events/dance-festival/dance-sections/"
+  - "/events/dance-festival/dance-regulations/"
 ---
 
 <p><strong>We are pleased to announce the dates and venue for the 2016 Dance Festival.</strong></p>

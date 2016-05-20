@@ -1,0 +1,16 @@
+---
+layout: music
+title: Piano Classes
+---
+<p>Piano and Keyboard classes will take place at Taunton School in the Gwyn Williams Room on Monday 1st February 2016, and on Tuesday 2nd February. Bearing in mind the demands of school work, we try to avoid asking students to attend on both days, especially if they live some distance from Taunton.</p>
+<p>Our adjudicator will be Alan Maclean.</p>
+<p>Our syllabus has broadened over the years as we have listened to teachers and students, so if there is something you would like to see included please let us know and we will add it for 2017.<br />
+The whole point of a music festival is to share the joys of making and listening to music. Come and be part of our audience. Pop in for an hour or stay all day! You will be very welcome.</p>
+<h3>Alan Maclean</h3>
+<p>Alan MacLean is a graduate of the Royal Scottish Academy of Music and Drama, receiving the award for the most outstanding student in his final year. Further study followed with internationally renowned pianists, including Karl Schnabel. Although principally a pianist Alan also studied violoncello and singing, and trained as a conductor under the tutelage of David Lumsden. </p>
+<p>
+<a href="{{ '/wp-content/uploads/2014/08/alanmay2015.jpg' | prepend: site.github.url }}" data-rel="lightbox-0" title=""><img src="{{ '/wp-content/uploads/2014/08/alanmay2015-300x225.jpg' | prepend: site.github.url }}" alt="Alan Maclean" class="alignleft size-medium wp-image-1592" /></a>
+Alan is much in demand as a chamber musician, having played with many of the UK&#8217;s leading instrumentalists. In 2010 he and the violist Carol Hubel-Allen formed the Duo Karadys, the pair enjoying a busy concert schedule that included the world premiere of David Earl&#8217;s Sonata for Viola and Piano at Cheltenham International Music Festival. This was followed by a recording of the ‘Earl and Schubert’s “Arpeggione” sonata.</p>
+<p>In the mid-nineties, Albany Records approached Alan MacLean and Peter Lawson with the idea of exploring the wealth of twentieth century music written for piano duet. Their first recording, English Music for Piano Duet, received critical acclaim and was named Disc of the Year by the American music journal Fanfare, moving one critic to write, “I cannot recall ever hearing a piano duo with such perfect unanimity before. Peter Lawson and Alan MacLean appear to be in total sympathy not just with one another, but with all the music they play.” (International Record Review) Similar accolades followed on release of their second album, British Music for Piano Duet. </p>
+<p>After twenty years as Head of Keyboard Studies at The Cheltenham Ladies’ College Alan left to explore a number of musical projects. He gives master classes for young pianists and chamber music players, and his students have won many accolades and awards. Alan travels extensively, speaking and adjudicating regularly at a wide range of music events throughout the UK and overseas. His 2016 schedule includes visits to festivals in London, Birmingham, Edinburgh and Hong Kong.</p>
+<p><a href="http://www.alanmaclean.co.uk" target="_">www.alanmaclean.co.uk</a></p>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Friends and Benefactors
+redirect_from: "/about-the-festival/friends-benefactors-register/"
 ---
 
 Our Festival affords opportunities for hundreds of young people from our local area to enjoy the Performing Arts and to develop their skills. The Friends and Benefactors Scheme provides essential support for the Festival’s activities, not least in financial terms.

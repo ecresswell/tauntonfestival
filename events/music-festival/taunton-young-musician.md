@@ -1,7 +1,9 @@
 ---
 layout: music
 title: Taunton Young Musician
-redirect_from: "/music-festival/taunton-young-musician/"
+redirect_from: 
+  - "/music-festival/taunton-young-musician/"
+  - "/events/music-festival/taunton-young-musician/competition-rules/"
 ---
 
 The Trustees of the Festival have established a fund, designed to provide prizes for young musicians who demonstrate outstanding musical ability.  The Taunton Young Musician of the Year Competition, now in its 10th year, aims to assist and encourage musical excellence amongst students living in Somerset or within a 50 mile radius.  

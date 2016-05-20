@@ -1,6 +1,9 @@
 ---
 layout: music
 title: Music Festival
+redirect_from:
+  - "/about-the-festival/music-rules/"
+  - "/about-the-festival/marking-system/"
 ---
 
 Welcome to the Music Festival page of the Taunton Festival of the Arts. Please see the Events Calendar for details.

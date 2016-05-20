@@ -1,6 +1,8 @@
 ---
 title: Welcome to the Taunton Festival of the Arts
 layout: page
+redirect_from:
+  - "/welcome-to-the-taunton-festival-of-the-arts-beta/"
 ---
 
 **(formerly Taunton & Somerset Music, Drama & Dance Festival)**

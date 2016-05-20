@@ -1,6 +1,8 @@
 ---
 layout: drama
 title: Drama Festival
+redirect_from:
+  - "/about-the-festival/drama-rules/"
 ---
 
 <p>Welcome to the Drama Festival page of the Taunton Festival of the Arts. </p>
