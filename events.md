@@ -3,7 +3,7 @@ layout: page
 title: Events
 ---
 
-The Festival hosts a number of events throughout the year. Please click on any event below for more information, or [click here to see the event calendar]({{ '/events/event-calendar/' | prepend: site.github.url }}.
+The Festival hosts a number of events throughout the year. Please click on any event below for more information, or [click here to see the event calendar]({{ '/events/event-calendar/' | prepend: site.github.url }}).
 
 Below you can find links to each of the Festivals we host. Not all links are active yet, but should be soon!
 
