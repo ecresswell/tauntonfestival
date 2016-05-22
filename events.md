@@ -3,9 +3,9 @@ layout: page
 title: Events
 ---
 
-The Festival hosts a number of events throughout the year. Please click on any event below for more information, or [click here to see the event calendar]({{ '/events/event-calendar/' | prepend: site.github.url }}.
+The Festival hosts a number of events throughout the year. Please click on any event below for more information, or [click here to see the event calendar]({{ '/events/event-calendar/' | prepend: site.github.url }}).
 
-Below you can find links to each of the Festivals we host. Not all links are active yet, but should be soon!
+Below you can find links to each of the Festivals we host.
 
 <a href="{{ '/events/taunton-live-2015/' | prepend: site.github.url }}"><img src="{{ '/wp-content/uploads/2015/05/Taunton-Live-Logo_2C_web_sized.png' | prepend: site.github.url }}" alt="Taunton Live 2015" class="alignleft size-full wp-image-1152" /></a>
 <a href="{{ '/events/music-festival' | prepend: site.github.url }}"><img src="{{ '/wp-content/uploads/2014/02/title-music-festival.png' | prepend: site.github.url }}" alt="title - music festival" class="alignleft size-full wp-image-607" /></a>
