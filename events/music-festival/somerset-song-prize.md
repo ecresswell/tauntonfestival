@@ -4,8 +4,8 @@ title: Somerset Song Prize
 redirect_from: "/music-festival/somerset-song-prize/"
 ---
 
-<p>Promoted and organised by Taunton Festival of the Arts, Somerset Opera and the Ronald Tickner Educational Trust, the Somerset Song Prize (SSP) is a biannual singing competition that is becoming part of the national landscape.<br />
-</p>
+Promoted and organised by Taunton Festival of the Arts, Somerset Opera and the Ronald Tickner Educational Trust, the Somerset Song Prize (SSP) is a biannual singing competition that is becoming part of the national landscape. This page was set up for the 2015 competition. Further announcements will be made here on future plans for the competition.
+
 <h2>Somerset Song Prize 2015</h2>
 <p><a href="{{ '/news/2015/05/singer-instructions-for-the-somerset-song-prize-regional-rounds-this-sunday/' | prepend: site.github.url }}"><strong>Region round update:</strong> instructions for singers are now available, click here to view.</a></p>
 <p><a href="{{ '/news/2015/05/somerset-song-prize-latest-news/' | prepend: site.github.url }}"><strong>Semi-final round update:</strong> semi final timings now available.</a></p>
