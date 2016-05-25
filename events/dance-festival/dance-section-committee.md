@@ -4,67 +4,23 @@ title: Dance Section Committee
 redirect_from: "/dance-festival/dance-section-committee/"
 ---
 
-<h4>This year&#8217;s Dance Section Committee are:</h4>
-<div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
-<tbody>
-<tr><td >President</td>
-<td >Diana Rees</td>
-</tr>
+#### This year&#8217;s Dance Section Committee are:
 
-<tr><td >Chairman</td>
-<td >Brian Cresswell</td>
-</tr>
+{:.easy-table easy-table-default}
 
-<tr><td >Hon. Treasurer</td>
-<td >Michael Chapman</td>
-</tr>
+| President                 | Diana Rees                |
+| Chairman                  | Brian Cresswell           |
+| Hon. Treasurer            | Michael Chapman           |
+| Secretary to the Trustees | Anne Cleves               |
+| Dance Patron              | Terence Etheridge         |
+| Dance Co-ordinator        | Natasha Ballardie         |
+| Dance Secretary           | Claire Marks/Nicky Jenks  |
 
-<tr><td >Secretary to the Trustees</td>
-<td >Anne Cleves</td>
-</tr>
+#### Co-opted Members:
 
-<tr><td >Dance Patron</td>
-<td >Terence Etheridge</td>
-</tr>
-
-<tr><td >Dance Co-ordinator</td>
-<td >Natasha Ballardie</td>
-</tr>
-
-<tr><td >Dance Secretary</td>
-<td >Claire Marks/Nicky Jenks</td>
-</tr>
-</tbody></table></div>
-<h4>Co-opted Members:</h4>
-<div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
-<tbody>
-<tr><td >Lin Kingston</td>
-<td >Claire Marks</td>
-<td >Nicky Jenks</td>
-</tr>
-
-<tr><td >Helen Pitman</td>
-<td >Paul Marks</td>
-<td >Naomi Porter</td>
-</tr>
-
-<tr><td >Louise Wady</td>
-<td >Ali Porter</td>
-<td >Lisa Byrne</td>
-</tr>
-
-<tr><td >Caroline Barnes</td>
-<td >Jennifer Pape</td>
-<td >Audrey Sheppard Mansfield</td>
-</tr>
-
-<tr><td >Lucy Catlow</td>
-<td ></td>
-<td ></td>
-</tr>
-
-<tr><td ></td>
-<td ></td>
-<td ></td>
-</tr>
-</tbody></table></div>
+{:.easy-table easy-table-default}
+| Lin Kingston              | Claire Marks              | Nicky Jenks               |
+| Helen Pitman              | Paul Marks                | Naomi Porter              |
+| Louise Wady               | Ali Porter                | Lisa Byrne                |
+| Caroline Barnes           | Jennifer Pape             | Audrey Sheppard Mansfield |
+| Lucy Catlow               |                           |                           |
