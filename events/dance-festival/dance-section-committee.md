@@ -21,6 +21,5 @@ redirect_from: "/dance-festival/dance-section-committee/"
 {:.easy-table easy-table-default}
 | Lin Kingston              | Claire Marks              | Nicky Jenks               |
 | Helen Pitman              | Paul Marks                | Naomi Porter              |
-| Louise Wady               | Ali Porter                | Lisa Byrne                |
-| Caroline Barnes           | Jennifer Pape             | Audrey Sheppard Mansfield |
-| Lucy Catlow               |                           |                           |
+| Louise Wady               | Ali Porter                | Caroline Barnes           |
+| Jennifer Pape             | Audrey Sheppard Mansfield | Lucy Catlow               |
