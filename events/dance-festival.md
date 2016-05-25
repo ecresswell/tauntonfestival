@@ -30,17 +30,13 @@ You will notice that on Sunday 12th June the festival finishes around 5pm. This 
 ### Dance Section Trophies
 
 {:.easy-table easy-table-default}
+| Destination Dance Cup         | for the most promising senior     |
+| IDS Cup                       | for most effective costume        |
 | Jacqui Taylor Memorial Award  | for highest mark in a tap solo    |
 | Janice Blake Award            | for artistry and performance      |
 | Nicky Jenks Cup               | for the most promising junior     |
-| Destination Dance Cup         | for the most promising senior     |
 | Taunton Festival Cup          | for the highest group mark        |
-
-### New trophies for 2015:
-
-{:.easy-table easy-table-default}
-| Highest Mark in Ballet        |                                   |
-| Most Effective Costume        | Sponsored by IDS                  |
+| The Dance Summer School Shield| for highest mark in ballet        |
 
 The Festival will now award medals to all 1st, 2nd and 3rd place winners. There will be the opportunity to buy medals and lanyards for the group sections.
 
