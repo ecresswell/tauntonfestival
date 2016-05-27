@@ -15,15 +15,21 @@ There will also be a Gala evening on the 12th June, to end the festival with som
 
 We&#8217;re very pleased to have <a title="Dance Festival Patron" href="/events/dance-festival/dance-festival-patron/">Terry Etheridge as our Dance Festival Patron</a>.
 
-### 2016 Syllabus and Entry Forms
+### 2016 Syllabus and Child Protection Information
 
 <a href="{{ '/wp-content/uploads/2014/03/Dance-Festival-2016-Syllabus.docx' | prepend: site.github.url }}">Please click here to view our Syllabus for the list of dance sections</a>, as well as our regulations and other information.
+
+[Our updated child protection policy can be found here]({{ '/wp-content/uploads/2016/05/Child_Protection_Policy_2016.pdf' | prepend: site.github.url}})
+
+**[Please also find the child protection form that should be signed for each child under 18 years of age]({{ '/wp-content/uploads/2016/05/Child_Protection_Policy_Letter_2016.pdf' | prepend: site.github.url}})**
 
 ### Dance Class Timings
 
 Many thanks for your support this year, we anticipated a rise in entries for 2016, but couldn&#8217;t have predicted such an overwhelming number of entries that the Festival has attracted.  Because of this, you will notice from the programme that we have had to split the larger classes according to age &#8211; this has made the timing of the Festival quite a tricky task.  We have tried to fulfil individual requirements where necessary, however, we are aware that the timings won&#8217;t suit everyone.  With this in mind, please let me know by the 18th April if you are unable to dance in your class and I shall amend the programme accordingly (<a href="mailto:tfadancesection@gmail.com">tfadancesection@gmail.com</a>).
 
 <a href="{{ '/wp-content/uploads/2014/03/Order-of-Classes-Dance-Festival-2016.docx' | prepend: site.github.url }}">Please click here for the Class Timings</a>
+
+[**The programme is now available, please click here to view!**]({{ '/events/dance-festival/dance-programme-2016/' | prepend: site.github.url }})
 
 You will notice that on Sunday 12th June the festival finishes around 5pm. This is due to the Taunton Festival of the Arts Gala Performance that will commence at 6.30pm. If you like to attend the performance, tickets are available via Queens Collage box office.
 
