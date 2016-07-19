@@ -14,9 +14,9 @@
                     <section id="event_list_widget-2" class="widget widget_event_list_widget"><h4>Upcoming events</h4>
                         <div class="event-list">
                             <ul class="event-list-view">
-{% assign sorted_pages = site.events | sort: "date" | reverse %}
+{% assign sorted_pages = site.events | sort: "date" %}
 {% assign counter = 0 %}
-{% for page in sorted_pages limit: 5 %}
+{% for page in sorted_pages %}
     {% capture now_unix %}{{ 'now' | date: '%s' }}{% endcapture %}
     {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
     {% if event_time > now_unix  %}
@@ -34,6 +34,9 @@
                                         <div class="event-title"><h3>{{ page.title }}</h3></div>
                                     </div>
                                 </li>
+    {% endif %}
+    {% if counter == 5 %}
+        {% break %}
     {% endif %}
 {% endfor %}
 {% if counter == 0 %}
