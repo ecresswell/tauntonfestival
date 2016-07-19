@@ -5,17 +5,16 @@ redirect_from:
   - "/events/event-calendar-2014-15/"
 ---
 
-<p>Please see below for information on events in 2016. For an overview of the different events hosted by the Festival, please <a href="{{ '/events/' | prepend: site.github.url }}">visit our Events page</a>.</p>
+<p>Please see below for information on events in 2016 and 2017. For an overview of the different events hosted by the Festival, please <a href="{{ '/events/' | prepend: site.github.url }}">visit our Events page</a>.</p>
 
 <h2>Upcoming Events in 2016</h2>
 <div class="event-list">
     <ul class="event-list-view">
-{% assign sorted_events = site.events | sort: "date" | reverse %}
+{% assign sorted_events = site.events | sort: "date" %}
 {% assign counter = 0 %}
 {% for page in sorted_events %}
-    {% capture year_2016 %}{{ site.time | date: '%Y' }}{% endcapture %}
     {% capture event_year %}{{ page.date | date: '%Y' }}{% endcapture %}
-    {% if event_year == year_2016 %}
+    {% if event_year == '2016' %}
         {% capture now_unix %}{{ 'now' | date: '%s' }}{% endcapture %}
         {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
         {% if event_time > now_unix %}
@@ -66,22 +65,22 @@ redirect_from:
 {% endfor %}
     </ul>
 {% if counter == 0 %}
-    <p>No events are currently scheduled</p>
+    <p>No events are scheduled</p>
 {% endif %}
 </div>
 <br />
-<br />
-<h2>Past Events in 2016</h2>
+<h2>Upcoming Events in 2017</h2>
 <div class="event-list">
     <ul class="event-list-view">
-{% assign sorted_events = site.events | sort: "date" | reverse %}
+{% assign sorted_events = site.events | sort: "date" %}
+{% assign counter = 0 %}
 {% for page in sorted_events %}
-    {% capture year_2016 %}{{ site.time | date: '%Y' }}{% endcapture %}
     {% capture event_year %}{{ page.date | date: '%Y' }}{% endcapture %}
-    {% if event_year == year_2016 %}
+    {% if event_year == '2017' %}
         {% capture now_unix %}{{ 'now' | date: '%s' }}{% endcapture %}
         {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
-        {% if event_time < now_unix %}
+        {% if event_time > now_unix %}
+            {% assign counter = counter | plus: 1 %}
             {% if page.end_date %}
         <li class="event ">
             <div class="event-date multi-date">
@@ -127,4 +126,7 @@ redirect_from:
     {% endif %}
 {% endfor %}
     </ul>
+{% if counter == 0 %}
+    <p>No events are scheduled</p>
+{% endif %}
 </div>
