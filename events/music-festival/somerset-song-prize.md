@@ -4,81 +4,18 @@ title: Somerset Song Prize
 redirect_from: "/music-festival/somerset-song-prize/"
 ---
 
-Promoted and organised by Taunton Festival of the Arts, Somerset Opera and the Ronald Tickner Educational Trust, the Somerset Song Prize (SSP) is a biannual singing competition that is becoming part of the national landscape. This page was set up for the 2015 competition. Further announcements will be made here on future plans for the competition.
+The Somerset Song Prize is a biennial national singing competition for young people aged 18 to 26.  With a First Prize of £1000 the competition is organised through a series of regional rounds followed by semi-finals and a final over one weekend in Taunton.  The finals for next competition will be on 13-14 May 2017.  Regional rounds will take place in Somerset, Cardiff, Birmingham and London in March/April 2017. 
 
-<h2>Somerset Song Prize 2015</h2>
-<p><a href="{{ '/news/2015/05/singer-instructions-for-the-somerset-song-prize-regional-rounds-this-sunday' | prepend: site.github.url }}"><strong>Region round update:</strong> instructions for singers are now available, click here to view.</a></p>
-<p><a href="{{ '/news/2015/05/somerset-song-prize-latest-news' | prepend: site.github.url }}"><strong>Semi-final round update:</strong> semi final timings now available.</a></p>
-<p>The SSP 2015 competition will be organised across three days, beginning with regional rounds on 10 May 2015 in the following locations:</p>
-<ul>
-<li>Birmingham Conservatoire, Birmingham</li>
-<li>Royal College of Music, London</li>
-<li>Taunton School, Taunton</li>
-</ul>
-<p>The competition is open to any singer who is aged 18-26 years old on 17 May 2015 and who presents an initial programme of 8-10 minutes including no extracts from opera or oratorio, and at least one song that is not in the singer&#8217;s native language. The cost of entering the competition is £35.00 which is non-refundable. Your payment will be returned if there are no spaces left.</p>
-<p><strong><a href="{{ '/events/music-festival/somerset-song-prize/somerset-song-prize-applications/' | prepend: site.github.url }}" title="Somerset Song Prize Applications">For more details or to apply to the competition, please view our application page.</a></strong> Completed applications forms must be returned by <strong>22nd April, 2015</strong> &#8211; get your application in soon!</p>
-<h3>Competition Dates</h3>
-<div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
-<tbody>
-<tr><td >Sunday 10 May 2015</td>
-<td >Regional Rounds</td>
-</tr>
+The Somerset Song Prize is a competition for art song and it places a special importance on the collaborative relationship between the singer and their pianist.  Arias from oratorios and operas are not permitted.  The definition of art song is reasonably wide although competitors must include in their programme a song which is not in their native language.   
 
-<tr><td >Saturday 16 May 2015</td>
-<td >Semi-finals</td>
-</tr>
+More information for competitors will be posted on this website from November 2016.  Information for those wishing to attend the finals including how to acquire tickets will posted here in January 2017.
 
-<tr><td >Sunday 17 May 2015</td>
-<td >Final</td>
-</tr>
-</tbody></table></div>
-<h3>Awards</h3>
-<p><div class="table-responsive"><table  style="width:100%; "  class="easy-table easy-table-default " border="0">
-<tbody>
-<tr><td >1st Prize</td>
-<td >Lentells Trophy and £1,000</td>
-</tr>
+The Somerset Song Prize was inaugurated in 2013 under the aegis of the Taunton Festival of the Arts.  The competition has quickly developed an excellent reputation in part due to some great adjudicators - including Iain Burnside, Neal Davies, Lorna Anderson and Malcolm Martineau.  The celebrated soprano Elizabeth Watts is the competition’s Patron.     
 
-<tr><td >2nd Prize</td>
-<td >£500</td>
-</tr>
+To contact the competition organisers e-mail <a href="mailto:info@somersetsongprize.org.uk">info@somersetsongprize.org.uk</a>
 
-<tr><td >3rd Prize</td>
-<td >£250</td>
-</tr>
+### Past Somerset Song Prize Winners
 
-<tr><td >Accompanist’s Prize</td>
-<td >£200</td>
-</tr>
+The 2013 winner was counter-tenor James Hall.  Other prize winners were Helen Stanley, Claire Lees and pianist Julianne Gallant.  
 
-<tr><td >Most Promising Young Singer Award</td>
-<td >£200</td>
-</tr>
-</tbody></table></div><br />
-The Most Promising Young Singer Award is supported by the Friends of the Somerset Song Prize and is to be given to the most promising young singer aged 21 years or under on 17 May 2015.</p>
-<h3>Tickets</h3>
-<p>Semi-final tickets will be available for £5 on the door</p>
-<p>Tickets to the Final are £35 and only 100 tickets are available, so early booking is advised. A ticket for the Final includes:</p>
-<ul>
-<li>The Final</li>
-<li>Refreshments</li>
-<li>Interview with soprano Elizabeth Watts</li>
-<li>A recital from the winner of the SSP 2013</li>
-<li>A finger buffet supper at the Castle Hotel</li>
-</ul>
-<p>Tickets are available from:</p>
-<ul>
-<li>Tourist Information Centre 01823 336344</li>
-<li>Gillian Greig Music 01823 333317</li>
-<li>Festival Office, 15 Peile Drive, Taunton, TA2 7SZ (please enclose Self Addressed Envelope)</li>
-</ul>
-<p>Cheques payable to &#8220;Taunton Festival of the Arts&#8221;</p>
-<p>For more information and for an itinerary of the Final, <a href="{{ '/wp-content/uploads/2014/02/Song-Prize-Promotional-Leaflet.pdf' | prepend: site.github.url }}" >please view our latest leaflet (click to download).</a></p>
-<h4>Somerset Song Prize 2013</h4>
-<p>We&#8217;re pleased to announce the results of the Somerset Song Prize!<br />
-1st Prize &#8211; James Hall<br />
-2nd Prize &#8211; Helen Stanley<br />
-3rd Prize &#8211; Claire Lees<br />
-Accompanists Prize &#8211; Juliane Gallant</p>
-<p>Please <a href="{{ '/wp-content/uploads/2014/02/Somerset_Song_Prize_2013_report.pdf' | prepend: site.github.url }}" >click here for a full review</a> of the weekend from Harold Mead.  </p>
-<p>The preliminary round was on Saturday, 25 May 2013, and the final on 26 May.</p>
+The 2015 winner was soprano Ellie Parsons (formerly known as Eleanor Hodkinson).  Other prize winners were Tom Scott-Cowell, Harry Thatcher, Josephine Cresswell and pianist Lucy Colquhoun.  
