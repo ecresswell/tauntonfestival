@@ -10,4 +10,4 @@ The Somerset Song Prize is a competition for art song and it places a special im
 
 ## For more information on the Somerset Song Prize, <a href="http://somersetsongprize.org.uk/" target="_blank">please see the Somerset Song Prize website</a>
 
-<img src="{{ '/images/song_prize_logo.png' | prepend: site.github.url }}" alt="Somerset Song Prize" width="100%" />
+<a href="http://somersetsongprize.org.uk/" target="_blank"><img src="{{ '/images/song_prize_logo.png' | prepend: site.github.url }}" alt="Somerset Song Prize" width="100%" /></a>
