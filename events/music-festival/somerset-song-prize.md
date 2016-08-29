@@ -9,3 +9,5 @@ The Somerset Song Prize is a biennial national singing competition for young peo
 The Somerset Song Prize is a competition for art song and it places a special importance on the collaborative relationship between the singer and their pianist. Arias from oratorios and operas are not permitted. The definition of art song is reasonably wide although competitors must include in their programme a song which is not in their native language.
 
 ## For more information on the Somerset Song Prize, <a href="http://somersetsongprize.org.uk/" target="_blank">please see the Somerset Song Prize website</a>
+
+<img src="{{ '/images/song_prize_logo.png' | prepend: site.github.url }}" alt="Somerset Song Prize" width="100%" />
