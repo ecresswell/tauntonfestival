@@ -9,7 +9,7 @@ redirect_from:
 
 Formed in 1913, the Taunton & Somerset Music, Drama & Dance Festival has undergone a name change – Taunton Festival of the Arts – to reflect more closely its activities and to allow for additional events. The festival is affiliated to the British and International Federation of Festivals (<http://www.federationoffestivals.org.uk>) and the Taunton Association of Performing Arts (<http://www.tapa.org.uk>).
 
-Click here if you wish to see information about registering as a Friend or Benefactor of the Festival.
+[Click here if you wish to see information about registering as a Friend or Benefactor of the Festival.]({{ '/about-the-festival/register/' | prepend: site.github.url }})
 
 The festival exists to encourage and promote the performance and enjoyment of arts. Aiming particularly, but not exclusively, at young people it provides a challenge and a unique opportunity to perform in a competitive and non-competitive situation in front of adjudicators, all experienced professionals, offering teaching at the highest level.
 
