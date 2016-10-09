@@ -33,7 +33,7 @@ Paying your subscription:
 |Diana Rees||
 | | | |
 
-###Friends
+### Friends
 
 {:.easy-table easy-table-default}
 |Mrs D Bradley|Mr and Mrs Foster|Mrs A Hague|
