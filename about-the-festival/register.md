@@ -39,5 +39,5 @@ Paying your subscription:
 |Mrs D Bradley|Mr and Mrs Foster|Mrs A Hague|
 |Rosemary Lea|Linda Marshall Cole|Ron Roberts|
 |Roger Wells|Gill Williamson|David Greig|
-|Mr & Mrs J Penston||
+|Mr & Mrs J Penston|Music on the Quantocks|
 | |
