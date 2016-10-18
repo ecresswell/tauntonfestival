@@ -5,6 +5,8 @@ title: Dance Festival Competition Results
 
 ### Dance Festival 2016
 
+[Photo Gallery for 2016]({{ '/events/dance-festival/photo-gallery-2016/' | prepend: site.github.url }})
+
 {:.easy-table easy-table-default}
 | Jacqui Taylor Memorial Award  | Highest mark in Tap           | Bethany Pearce (88)           |
 | Janice Blake Award            | For artistry and performance  | Classical Duet, Amelia Corrick and Allana Kingston |
