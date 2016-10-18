@@ -1,6 +1,6 @@
 ---
 layout: dance
-title: Dance Festival Photo Gallery 2015
+title: Dance Festival Photo Gallery 2016
 ---
 
 <style type='text/css'>
@@ -21,6 +21,8 @@ title: Dance Festival Photo Gallery 2015
     }
     /* see gallery_shortcode() in wp-includes/media.php */
 </style>
+        
+# Please note these are pictures from 2015 - will be updated with 2016 pictures soon
         
 <div id='gallery-1' class='gallery galleryid-1507 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
