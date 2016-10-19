@@ -11,7 +11,7 @@ redirect_from:
 **Dates**:  30th May to the 4th June 2017  
 **Venue**: Queen's College, Trull Road, Taunton, TA1 4QP
 
-There will also be a Gala evening on the 4th June 2017 to end the festival with some thrilling performances from the Music, Drama and Dance competitors of 2016/17.
+There will also be a Gala evening on the 4th June 2017 to celebrate the year with some thrilling performances from the Music, Drama and Dance competitors of 2016/17.
 
 We&#8217;re very pleased to have <a title="Dance Festival Patron" href="/events/dance-festival/dance-festival-patron/">Terry Etheridge as our Dance Festival Patron</a>.
 
