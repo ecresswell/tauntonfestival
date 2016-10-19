@@ -1,7 +1,16 @@
 ---
 layout: dance
-title: Geoff Lucas, Dance Adjudicator
+title: Danielle Drayton, Dance Adjudicator
 ---
 
-<p>We are delighted to welcome Geoff Lucas ALCM, FBATD to adjudicate the dance section of the festival this year. </p>
-<p>Over the past 30 years Geoff has had a varied career with <img display="float:left" src="{{ '/wp-content/uploads/2014/03/Geoff_Lucas.png' | prepend: site.github.url }}" alt="geoff_lucas" class="alignleft size-full wp-image-553" />highlights being in the musicals 'Cats', 'Heathcliff',' A Chorus Line', 'Godspell', 'Divorce me Darling' and many more! As a singer he was a member of Stutz Bear Cats the international harmony group for several years and he regularly guest lectures for major dance associations. Geoff also runs the school Elwick Academy started by his mother 62 years ago. As an adjudicator, he works for both British Federation and All England Dance. He is based in London but also in the north east on a weekly basis.</p>
+<img display="float:left" src="{{ '/wp-content/uploads/2016/10/Danielle_Drayton.png' | prepend: site.github.url }}" alt="Danielle Drayton" class="alignleft size-full wp-image-553" />Danielle trained at The Sandra Needham School of Dance and went on to study and graduate from Leeds Dance College gaining a diploma in dance and musical theatre as well as her teaching qualifications.
+
+She has worked professionally in musical theatre, TV and Film, cruise ships and dance tours in the UK, Europe, America, the United Arab Emirates and the Far East.
+
+Danielle is an established choreographer in theatre, TV and the commercial sector as well as a guest teacher for various schools and colleges in the UK.
+
+She runs her own production company – Blue Fish Entertainments which produces entertainment for large scale events, TV, Film and theatre productions both in the UK and internationally.
+
+She also enjoys being on the audition board for various companies helping to recruit entertainers and assist with their on-going training and performance.
+
+Danielle is honoured to be a dance adjudicator for The British and International Federation of Festivals. **BC,M,J,CO,T,S+D,MT,N,G,CD**

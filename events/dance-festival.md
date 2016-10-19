@@ -15,6 +15,8 @@ There will also be a Gala evening on the 4th June 2017 to celebrate the year wit
 
 We&#8217;re very pleased to have <a title="Dance Festival Patron" href="/events/dance-festival/dance-festival-patron/">Terry Etheridge as our Dance Festival Patron</a>.
 
+[The Adjudicator for 2017 is Danielle Drayton.]({{ '/events/dance-festival/dance-adjudicator/' | prepend: site.github.url }})
+
 **The 2017 Syllabus will be available towards the end of November 2016**
 
 ### Child Protection Information
