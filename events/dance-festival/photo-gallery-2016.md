@@ -1,6 +1,131 @@
 ---
 layout: dance
 title: Dance Festival Photo Gallery 2016
+pictures:
+  - url: "/wp-content/uploads/2016/10/dance-festival/Alice_Groves.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Alice_Groves__Amelia_Smith.JPG"
+    width: 1536
+    height: 2048
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Alice_Groves__Amelia_Smith__Ella_Stracey.JPG"
+    width: 2048
+    height: 1536
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Alice_Groves__Ella_Stracey__Amelia_Smith.JPG"
+    width: 2048
+    height: 1536
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Amelia_Smith.JPG"
+    width: 1536
+    height: 2048
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Beth_Larkman.JPG"
+    width: 2364
+    height: 1331
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Bethany_Pearce.PNG"
+    width: 640
+    height: 960
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Gala_Evening.JPG"
+    width: 3264
+    height: 2448
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0872.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0873.JPG"
+    width: 416
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0876.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0983.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0986.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0990.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_0991.JPG"
+    width: 480
+    height: 640
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2597.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2603.JPG"
+    width: 320
+    height: 240
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2606.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2607.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2608.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2609.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2610.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2611.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/IMG_2612.JPG"
+    width: 240
+    height: 320
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Jasmine_Larkman.JPG"
+    width: 2364
+    height: 1331
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/Jasmine_Larkman_2.JPG"
+    width: 2364
+    height: 1331
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/TDC_photo_1.JPG"
+    width: 2448
+    height: 3264
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/TDC_photo_2.JPG"
+    width: 2448
+    height: 3264
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/TDC_photo_3.JPG"
+    width: 2448
+    height: 3264
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/TDC_photo_4.JPG"
+    width: 2448
+    height: 3264
+    caption: ""
+  - url: "/wp-content/uploads/2016/10/dance-festival/TDC_photo_5.JPG"
+    width: 2448
+    height: 3264
+    caption: ""
 ---
 
 <style type='text/css'>
@@ -22,83 +147,25 @@ title: Dance Festival Photo Gallery 2016
     /* see gallery_shortcode() in wp-includes/media.php */
 </style>
         
-# Please note these are pictures from 2015 - will be updated with 2016 pictures soon
-        
-<div id='gallery-1' class='gallery galleryid-1507 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/1.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="169" height="300" src="{{ '/wp-content/uploads/2015/09/1-169x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Well done to Ava from our dance school, The Weymouth School of Ballet and Theatre Arts for coming 3rd place for 6 years and under ballet solo. We are very proud so thank you Taunton festival xx" aria-describedby="gallery-1-1508" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1508'>
-        Well done to Ava from our dance school, The Weymouth School of Ballet and Theatre Arts for coming 3rd place for 6 years and under ballet solo. We are very proud so thank you Taunton festival xx
-        </dd></dl><dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-        <a href="{{ '/wp-content/uploads/2015/09/2.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="300" height="225" src="{{ '/wp-content/uploads/2015/09/2-300x225.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="2" /></a>
-    </dt></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/3.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/3-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Photographers hard at work!" aria-describedby="gallery-1-1510" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1510'>
-        Photographers hard at work!
-        </dd></dl><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/4.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="169" height="300" src="{{ '/wp-content/uploads/2015/09/4-169x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="4" /></a>
-    </dt></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/5.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="169" height="300" src="{{ '/wp-content/uploads/2015/09/5-169x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="5" /></a>
-    </dt></dl><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/6.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="169" height="300" src="{{ '/wp-content/uploads/2015/09/6-169x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="6" /></a>
-    </dt></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-        <a href="{{ '/wp-content/uploads/2015/09/7.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="300" height="225" src="{{ '/wp-content/uploads/2015/09/7-300x225.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Medals for these young dancers from Weymouth Dance School &amp; Christina Whitmore School of Dance. Well done girls!" aria-describedby="gallery-1-1514" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1514'>
-        Medals for these young dancers from Weymouth Dance School &#038; Christina Whitmore School of Dance. Well done girls!
-        </dd></dl><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/8.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/8-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Well done to young dancer from @AS_DanceSchool, winning a Gold for Character and a Bronze for Lyrical." aria-describedby="gallery-1-1515" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1515'>
-        Well done to young dancer from @AS_DanceSchool, winning a Gold for Character and a Bronze for Lyrical. 
-        </dd></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/9.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/9-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Classical solo under 7 winner of Bronze medal from the @LisaJaneDance School - well done to you!!" aria-describedby="gallery-1-1516"  /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1516'>
-        Classical solo under 7 winner of Bronze medal from the @LisaJaneDance School &#8211; well done to you!! 
-        </dd></dl><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/10.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/10-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Lyrical competitor awarded Bronze Medal from the Nicky Jenks School of Dance - well done!" aria-describedby="gallery-1-1517"  /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1517'>
-        Lyrical competitor awarded Bronze Medal from the Nicky Jenks School of Dance &#8211; well done! 
-        </dd></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/11.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/11-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Happy dancers, Olivia and Ellie, ready to compete from Maria Saldana Dance Academy." aria-describedby="gallery-1-1518" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1518'>
-        Happy dancers, Olivia and Ellie, ready to compete from Maria Saldana Dance Academy. 
-        </dd></dl><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/12.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/12-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Silver medalist competing from Fox King Dance Academy - beautiful tutu, well done!" aria-describedby="gallery-1-1519" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1519'>
-        Silver medalist competing from Fox King Dance Academy &#8211; beautiful tutu, well done! 
-        </dd></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/13.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/13-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Gold medal winner from 344 Dance in Bristol. 9-10 years Ballet Solo - well done!" aria-describedby="gallery-1-1520" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1520'>
-        Gold medal winner from 344 Dance in Bristol. 9-10 years Ballet Solo &#8211; well done!
-        </dd></dl><dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-        <a href="{{ '/wp-content/uploads/2015/09/14.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="225" height="300" src="{{ '/wp-content/uploads/2015/09/14-225x300.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="Festival in full swing! Hearing some lovely musical choices." aria-describedby="gallery-1-1521" /></a>
-    </dt>
-        <dd class='wp-caption-text gallery-caption' id='gallery-1-1521'>
-        Festival in full swing! Hearing some lovely musical choices. 
-        </dd></dl><br style="clear: both" /><dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-        <a href="{{ '/wp-content/uploads/2015/09/15.jpg' | prepend: site.github.url }}" data-rel="lightbox-gallery-1"><img width="300" height="157" src="{{ '/wp-content/uploads/2015/09/15-300x157.jpg' | prepend: site.github.url }}" class="attachment-medium size-medium" alt="15" /></a>
-    </dt></dl>
+<div id='gallery-1' class='gallery gallery-columns-2 gallery-size-medium'>
+    {% for picture in page.pictures %}
+        {% if picture.width > picture.height %}
+            {% assign width = 300 %}
+            {% capture height %}{{ picture.height | times: 300 | divided_by: picture.width }}{% endcapture %}
+        {% else %}
+            {% assign height = 300 %}
+            {% capture width %}{{ picture.width | times: 300 | divided_by: picture.height }}{% endcapture %}
+        {% endif %}
+        <dl class='gallery-item'>
+            <dt class='gallery-icon'>
+                <a href="{{ picture.url | prepend: site.github.url }}" data-rel="lightbox-gallery-1">
+                    <img width="{{ width }}" height="{{ height }}" src="{{ picture.url | prepend: site.github.url }}" class="attachment-medium size-medium" alt="{{ picture.caption }}"/>
+                </a>
+            </dt>
+            <dd class='wp-caption-text gallery-caption'>
+                {{ picture.caption }}
+            </dd>
+        </dl>
+    {% endfor %}
     <br style='clear: both' />
 </div>
