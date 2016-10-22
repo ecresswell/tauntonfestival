@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus and Handbook
+title: Syllabus
 ---
 
 The Music and Drama Festival Syllabus for 2017 is now available, along with the joint entry form.
