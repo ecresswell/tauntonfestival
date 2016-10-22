@@ -21,7 +21,28 @@
     {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
     {% if event_time > now_unix  %}
         {% assign counter = counter | plus: 1 %}
-                                <li class="event 2016">
+            {% if page.end_date %}
+                                <li class="event">
+                                    <div class="event-date multi-date">
+                                        <div class="start-date">
+                                            <div class="event-weekday">{{ page.date | date: '%a' }}</div>
+                                            <div class="event-day">{{ page.date | date: '%d' }}</div>
+                                            <div class="event-month">{{ page.date | date: '%b' }}</div>
+                                            <div class="event-year">{{ page.date | date: '%Y' }}</div>
+                                        </div>
+                                        <div class="end-date">
+                                            <div class="event-weekday">{{ page.end_date | date: '%a' }}</div>
+                                            <div class="event-day">{{ page.end_date | date: '%d' }}</div>
+                                            <div class="event-month">{{ page.end_date | date: '%b' }}</div>
+                                            <div class="event-year">{{ page.end_date | date: '%Y' }}</div>
+                                        </div>
+                                    </div>
+                                    <div class="event-info multi-day">
+                                        <div class="event-title"><h3>{{ page.title }}</h3></div>
+                                    </div>
+                                </li>
+            {% else %}
+                                <li class="event">
                                     <div class="event-date">
                                         <div class="start-date">
                                             <div class="event-weekday">{{ page.date | date: '%a' }}</div>
@@ -34,6 +55,7 @@
                                         <div class="event-title"><h3>{{ page.title }}</h3></div>
                                     </div>
                                 </li>
+            {% endif %}
     {% endif %}
     {% if counter == 5 %}
         {% break %}
