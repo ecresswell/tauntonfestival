@@ -1,7 +1,9 @@
 ---
 layout: music
 title: Taunton Junior Young Musician
-redirect_from: "/music-festival/taunton-junior-young-musician/"
+redirect_from: 
+  - "/music-festival/taunton-junior-young-musician/"
+  - "/events/music-festival/taunton-junior-young-musician/tjym-adjudicator/"
 ---
 
 TJYM began as an addition to TYM, but it was felt it should have its own identity as a separate competition with a prize of £100 and the Jefferson Horsley trophy to keep for one year.
@@ -12,6 +14,8 @@ Our adjudicator will be Richard Deering, who has wide experience as an adjudicat
 
 ### Applications
 [To apply, please download this application form and post or email it to us.]({{ '/wp-content/uploads/2016/10/TJYM-Application-2017.doc' | prepend: site.github.url }})
+
+**Closing date for entries is Monday 16th January 2017.**
 
 ### Competition Rules
 - Entrants to be under the age of 14 on 1st Sept. 2016<br />
