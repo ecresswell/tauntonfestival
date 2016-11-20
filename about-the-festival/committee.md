@@ -12,11 +12,10 @@ The current committee of trustees can be found below. Please use [the contact us
 |Secretary|Anne Cleves|
 |Section Secretary (Piano and Keyboard)|Gwyn Flitters|
 |Section Secretary (Vocal)|Linda Marshall Cole|
-|Section Secretary (Wind)|Hilary Daniel|
+|Section Secretary (Wind)|Christine Rose|
 |Section Secretary (Film)|Nigel Cousins|
 |Section Secretary (Drama)|Matthew Kirby|
 |Music Stewards Secretary|Anne Cleves|
-|Drama Stewards Secretary|Sylvia Fellgett|
+|Drama Stewards Secretary|Matthew Kirby|
 |Dance Secretary|Natasha Ballardie|
-|Members|Kate Walden|
 | | |
