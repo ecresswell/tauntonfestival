@@ -15,4 +15,8 @@ Please note that a printed copy of the syllabus is also available at:
 
 To enter, please download and fill in the below entry form and send it to the relevant Festival Secretary. The closing date for Music entries is 18th November 2016, and 23rd January 2017 for Drama entries.
 
-<a href="{{ '/wp-content/uploads/2016/10/Taunton-Festival-Entry-Form.pdf' | prepend: site.github.url }}" ><strong>Entry Form</strong></a>
+[<strong>Entry Form</strong>]({{ '/wp-content/uploads/2016/10/Taunton-Festival-Entry-Form.pdf' | prepend: site.github.url }})
+
+**Music Composition Classes**;  the entry form should be sent to the piano secretary.  
+Gwynneth Flitters, 18 Park Close, Staplehay, Taunton TA3 7HL  
+If you have already sent your form to a different secretary, **do not worry, it will be passed on!**
