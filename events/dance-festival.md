@@ -17,7 +17,11 @@ We&#8217;re very pleased to have <a title="Dance Festival Patron" href="/events/
 
 [The Adjudicator for 2017 is Danielle Drayton.]({{ '/events/dance-festival/dance-adjudicator/' | prepend: site.github.url }})
 
-**The 2017 Syllabus will be available towards the end of November 2016**
+### Dance Syllabus and Entry Form
+
+[The Dance Syllabus for 2017 is now available, please click here to download and view it.]({{ '/wp-content/uploads/2017/01/dance_syllabus_2017.pdf' | prepend: site.github.url }})
+
+[The Entry form can be downloaded by clicking here.]({{ '/wp-content/uploads/2017/01/dance_entry_form_2017.xls' | prepend: site.github.url }}) Please return your entries by 28th February 2017 to the email/address provided on the form.
 
 ### Child Protection Information
 
