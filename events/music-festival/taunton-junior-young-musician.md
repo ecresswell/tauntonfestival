@@ -8,7 +8,9 @@ redirect_from:
 
 TJYM began as an addition to TYM, but it was felt it should have its own identity as a separate competition with a prize of £100 and the Jefferson Horsley trophy to keep for one year.
 
-The competition will be held on Sat 25th February 2017 at 10 a.m. (to be confirmed) at Temple Methodist Church, Taunton. The competition is open to solo instrumentalists aged under 14 years on 1st Sept 2016. They must have attained Grade 5 standard or above, and should offer two or three contrasting pieces for adjudication, with a total time limit of 10 minutes.
+**The competition will be held on Sat 25th February 2017 at 9:30 am at Temple Methodist Church, Taunton, please be here at least 15 minutes before this if you are performing. The competition will finish at approx 1:20 pm, and there will be a 15 minute interval.** 
+
+The competition is open to solo instrumentalists aged under 14 years on 1st Sept 2016. They must have attained Grade 5 standard or above, and should offer two or three contrasting pieces for adjudication, with a total time limit of 10 minutes.
 
 [Our adjudicator will be Richard Deering]({{ '/events/music-festival/taunton-junior-young-musician/adjudicator' | prepend: site.github.url }}), who has wide experience as an adjudicator and examiner both nationally and internationally.
 
