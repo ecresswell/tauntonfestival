@@ -8,7 +8,7 @@ redirect_from:
 
 Taunton Junior Young Singer is open to any singer (except previous winners) resident, or attending school, within a 50-mile radius of Taunton and aged between nine and 13 on 1st September 2016. Entrants should be grade four standard or above – teacher’s recommendation is sufficient if no exams have been taken.
 
-The competition will take place on <strong>Saturday 25th February 2017</strong>
+The competition will take place on <strong>Saturday 25th February 2017 at 5.30pm</strong>
 
 Venue: <strong>Temple Methodist Church Hall</strong>  
 Adjudicator: <strong>Amy Carson</strong>  
@@ -35,7 +35,7 @@ ncridley@outlook.com
 
 ### Awards
 
-The winner will receive a prize of £100 and the Cleeve Cup. There will be a second prize of £50 and a third prize of £25. In addition, the adjudicator will have the chance to award ‘highly commended’ status to additional singers at her discretion.
+The winner will receive a prize of £100 and the Cleves Cup. There will be a second prize of £50 and a third prize of £25. In addition, the adjudicator will have the chance to award ‘highly commended’ status to additional singers at her discretion.
 
 
 THE ORGANISERS RESERVE THE RIGHT TO ADJUST THE RULES, SHOULD THIS BE IN THE BEST INTERESTS OF THE COMPETITION.
