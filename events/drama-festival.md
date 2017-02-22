@@ -5,14 +5,20 @@ redirect_from:
   - "/about-the-festival/drama-rules/"
 ---
 
-<p>Welcome to the Drama Festival page of the Taunton Festival of the Arts. </p>
-<p>The Drama Festival took place in early March 2016, and was hosted at the Temple Methodist Church in Taunton.</p>
-<p><a href="{{ '/events/drama-festival/drama-adjudicator/' | prepend: site.github.url }}">We are delighted to be welcoming Rebecca Vines and Thalia Squire as our Speech &#038; Drama adjudicators.</a></p>
-<p><a href="{{ '/events/drama-festival/acting-audition-workshop-with-jeremy-james-taylor-obe/' | prepend: site.github.url }}">We are also thrilled to be welcoming Jeremy James Taylor OBE to our Festival. Jeremy will be running an Audition/Acting workshop on Tuesday 8th March 2016.</a></p>
-<p>He will also be judging our <a href="{{ '/events/drama-festival/taunton-young-theatre-performer-of-the-year-competition/' | prepend: site.github.url }}">brand new Taunton Young Theatre Performer of the Year Competitio</a>n. </p>
-<p><a href="{{ '/about-the-festival/syllabus/' | prepend: site.github.url }}">The syllabus/entry form is available here.</a></p>
-<p>Please contact Matthew Kirby if you have any questions or queries (<a href="mailto:mattakirby@aol.com">mattakirby@aol.com</a> or <a href="mailto:matthew.kirby@tauntonschool.co.uk">matthew.kirby@tauntonschool.co.uk</a>)</p>
-<p>If you are interested in becoming part of the drama committee, or helping out as a steward at the Festival, please contact Matthew Kirby: <a href="mailto:mattakirby@aol.com">mattakirby@aol.com</a> or <a href="mailto:matthew.kirby@tauntonschool.co.uk">matthew.kirby@tauntonschool.co.uk</a>.</p>
+Welcome to the Drama Festival page of the Taunton Festival of the Arts. 
+
+The next Drama Festival is due to take place in March 2017 (Sunday 5th March - Friday 10th March 2017), at the Temple Methodist Church in Taunton.
+
+We are delighted to be welcoming [John Eastman]({{ '/events/drama-festival/john-eastman/' | prepend: site.github.url }}) and [Eleanor McLeod]({{ '/events/drama-festival/eleanor-mcleod/' | prepend: site.github.url }}) as our Speech & Drama adjudicators.
+
+[John]({{ '/events/drama-festival/john-eastman/' | prepend: site.github.url }}) will be adjudicating our [Taunton Young Theatre Performer Competition]({{ '/events/drama-festival/taunton-young-theatre-performer-of-the-year-competition/' | prepend: site.github.url }}) on Sunday 5th March, as well as running at Acting Audition Workshop
+
+[Eleanor]({{ '/events/drama-festival/eleanor-mcleod/' | prepend: site.github.url }}) will be adjudicating the Speech & Drama classes from Monday 6th - Friday 10th March 2017.
+
+Please contact Matthew Kirby if you have any questions or queries (<a href="mailto:mattakirby@aol.com">mattakirby@aol.com</a> or <a href="mailto:matthew.kirby@tauntonschool.co.uk">matthew.kirby@tauntonschool.co.uk</a>)
+
+If you are interested in becoming part of the drama committee, or helping out as a steward at the Festival, please contact Matthew Kirby: <a href="mailto:mattakirby@aol.com">mattakirby@aol.com</a> or <a href="mailto:matthew.kirby@tauntonschool.co.uk">matthew.kirby@tauntonschool.co.uk</a>.
+
 <h3>Drama Festival 2016</h3>
 <p>Congratulations to all those participated in this year&#8217;s festival. <a href="{{ '/2016/04/drama-festival-results-2016/' | prepend: site.github.url }}">The full results are available here.</a></p>
 <h4>TAUNTON YOUNG THEATRE PERFORMER OF THE YEAR</h4>
