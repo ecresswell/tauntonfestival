@@ -25,19 +25,18 @@ Paying your subscription:
 ### Benefactors
 
 {:.easy-table easy-table-default}
-|Michael Chapman|Devage Eriyagola|Gwynneth Flitters|
+|Andrew Carter|Michael Chapman|Gwynneth Flitters|
+|Gillian Greig|Jefferson Horsley|Keith Jones|
 |Harold Mead|Gill Parker|Martin Parker|
-|Alan Reeve|Mr C Cutting|Rhona Gillmore|
-|Jefferson Horsley|Hestercombe Centre for Young Musicians|Mr K J Burge|
-|Keith Jones|Gillian Greig|Chris Ball|
-|Diana Rees||
+|Diana Rees|Alan Reeve|Elisabeth Walters|
 | | | |
 
 ### Friends
 
 {:.easy-table easy-table-default}
-|Mrs D Bradley|Mr and Mrs Foster|Mrs A Hague|
-|Rosemary Lea|Linda Marshall Cole|Ron Roberts|
-|Roger Wells|David Greig|Mr & Mrs J Penston|
-|Music on the Quantocks|Audrey Axford|Eilleen Tipper|
-| |
+|Audrey Axford|Chris Ball|Mrs D Bradley|
+|Linda Marshall Cole|Mr C Cutting|Mr & Mrs R Foster|
+|David Greig|Mrs A Hague|Rosemary Lea|
+|Music on the Quantocks|Ron Roberts|Eilleen Tipper|
+|Ann Vosper| | |
+| | | |
