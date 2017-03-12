@@ -38,5 +38,5 @@ Paying your subscription:
 |Linda Marshall Cole|Mr C Cutting|Mr & Mrs R Foster|
 |David Greig|Mrs A Hague|Rosemary Lea|
 |Music on the Quantocks|Ron Roberts|Eilleen Tipper|
-|Ann Vosper| | |
+|Ann Vosper|Katy Davies| |
 | | | |
