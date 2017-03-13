@@ -15,6 +15,4 @@ The festival exists to encourage and promote the performance and enjoyment of ar
 
 Music classes are held in piano, strings, woodwind, brass, recorders, composition and vocal. Drama classes include verse speaking, prepared reading, public speaking, mime, and acting. Dance classes include Classical, Cabaret, Ballet, Character, Modern, Tap, Song & Dance, Lyrical and Choreography.
 
-A Film Festival has also been introduced.
-
 Competitors receive verbal and written adjudication scripts and certificates. Cups, trophies and medals are awarded in some classes.
