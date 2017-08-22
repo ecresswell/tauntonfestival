@@ -6,7 +6,17 @@ redirect_from:
   - "/events/dance-festival/dance-regulations/"
 ---
 
-**We are pleased to announce the dates and venue for the 2017 Dance Festival.**
+### Taunton Young Dancer - Register your interest today
+<a href="{{ '/wp-content/uploads/2017/08/Taunton-Young-Dancer-of-the-Year.jpg' | prepend: site.github.url }}" target="_blank"><img display="float: left" src="{{ '/wp-content/uploads/2017/08/Taunton-Young-Dancer-of-the-Year_thumbnail.jpg' | prepend: site.github.url }}" alt="Taunton Young Dancer of the Year" class="alignleft" /></a>
+Candidates will take part in class, learning a specially commissioned piece of contemporary choreography and then perform to an audience along with their own prepared solo piece, both dances will be adjudicated.
+
+1st prize £500, 2nd prize £250, 3rd prize £75
+
+Please register your interest by filling out this survey - <https://www.surveymonkey.co.uk/r/CQCVPTX>
+
+<br />
+
+### Dance Festival 2017
 
 **Dates**:  30th May to the 4th June 2017  
 **Venue**: Queen's College, Trull Road, Taunton, TA1 4QP
