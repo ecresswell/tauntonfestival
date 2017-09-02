@@ -5,16 +5,16 @@ redirect_from:
   - "/events/event-calendar-2014-15/"
 ---
 
-<p>Please see below for information on events in 2017. For an overview of the different events hosted by the Festival, please <a href="{{ '/events/' | prepend: site.github.url }}">visit our Events page</a>.</p>
+<p>Please see below for information on events in 2018. For an overview of the different events hosted by the Festival, please <a href="{{ '/events/' | prepend: site.github.url }}">visit our Events page</a>.</p>
 
-<h2>Upcoming Events in 2017</h2>
+<h2>Upcoming Events in 2018</h2>
 <div class="event-list">
     <ul class="event-list-view">
 {% assign sorted_events = site.events | sort: "date" %}
 {% assign counter = 0 %}
 {% for page in sorted_events %}
     {% capture event_year %}{{ page.date | date: '%Y' }}{% endcapture %}
-    {% if event_year == '2017' %}
+    {% if event_year == '2018' %}
         {% capture now_unix %}{{ 'now' | date: '%s' }}{% endcapture %}
         {% capture event_time %}{{ page.date | date: '%s' }}{% endcapture %}
         {% if event_time > now_unix %}

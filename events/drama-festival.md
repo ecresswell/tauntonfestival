@@ -7,14 +7,6 @@ redirect_from:
 
 Welcome to the Drama Festival page of the Taunton Festival of the Arts. 
 
-The next Drama Festival is due to take place in March 2017 (Sunday 5th March - Friday 10th March 2017), at the Temple Methodist Church in Taunton.
-
-We are delighted to be welcoming [John Eastman]({{ '/events/drama-festival/john-eastman/' | prepend: site.github.url }}) and [Eleanor McLeod]({{ '/events/drama-festival/eleanor-mcleod/' | prepend: site.github.url }}) as our Speech & Drama adjudicators.
-
-[John]({{ '/events/drama-festival/john-eastman/' | prepend: site.github.url }}) will be adjudicating our [Taunton Young Theatre Performer Competition]({{ '/events/drama-festival/taunton-young-theatre-performer-of-the-year-competition/' | prepend: site.github.url }}) on Sunday 5th March, as well as running at Acting Audition Workshop
-
-[Eleanor]({{ '/events/drama-festival/eleanor-mcleod/' | prepend: site.github.url }}) will be adjudicating the Speech & Drama classes from Monday 6th - Friday 10th March 2017.
-
 Please contact Matthew Kirby if you have any questions or queries (<a href="mailto:mattakirby@aol.com">mattakirby@aol.com</a> or <a href="mailto:matthew.kirby@tauntonschool.co.uk">matthew.kirby@tauntonschool.co.uk</a>)
 
 If you are interested in becoming part of the drama committee, or helping out as a steward at the Festival, please contact Matthew Kirby: <a href="mailto:mattakirby@aol.com">mattakirby@aol.com</a> or <a href="mailto:matthew.kirby@tauntonschool.co.uk">matthew.kirby@tauntonschool.co.uk</a>.

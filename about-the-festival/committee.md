@@ -7,11 +7,12 @@ The current committee of trustees can be found below. Please use [the contact us
 
 {:.easy-table easy-table-default}
 |President|Diana Rees|
-|Chairman|Brian Cresswell|
-|Hon Treasurer|Michael Chapman|
+|Chairman|Martin Parker|
+|Hon Treasurer|Douglas Huckle|
+|Assistant Treasurer|Michael Chapman|
 |Secretary|Anne Cleves|
 |Section Secretary (Piano and Keyboard)|Gwyn Flitters|
-|Section Secretary (Vocal)|Linda Marshall Cole|
+|Section Secretary (Vocal)|Gareth Dayus-Jones|
 |Section Secretary (Wind)|Christine Rose|
 |Section Secretary (Drama)|Matthew Kirby|
 |Music Stewards Secretary|Anne Cleves|

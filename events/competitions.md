@@ -3,6 +3,12 @@ layout: page
 title: Competitions
 ---
 
+# Dance Festival Competitions
+
+### [Taunton Young Dancer]({{ '/events/dance-festival/taunton-young-dancer/' | prepend: site.github.url }})
+
+Taunton Young Dancer of the Year competition - more information to follow soon!
+
 # Drama Festival Competitions
 
 ### [Taunton Young Theatre Performer]({{ '/events/drama-festival/taunton-young-theatre-performer-of-the-year-competition/' | prepend: site.github.url }})
