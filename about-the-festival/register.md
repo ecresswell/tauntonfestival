@@ -29,7 +29,8 @@ Paying your subscription:
 |Gillian Greig|Jefferson Horsley|Keith Jones|
 |Harold Mead|Gill Parker|Martin Parker|
 |Diana Rees|Alan Reeve|Elisabeth Walters|
-| | | |
+|Ian Shattock|Helen Shattock| |
+| | |
 
 ### Friends
 
