@@ -6,36 +6,37 @@ redirect_from:
   - "/taunton-junior-young-singer/"
 ---
 
-Taunton Junior Young Singer is open to any singer (except previous winners) resident, or attending school, within a 50-mile radius of Taunton and aged between nine and 13 on 1st September 2016. Entrants should be grade four standard or above – teacher’s recommendation is sufficient if no exams have been taken.
+Taunton Junior Young Singer is open to any singer (except previous winners) resident, or attending school, within a 50-mile radius of Taunton and aged between nine and 13 on 1st September 2017. Entrants should be grade four standard or above – teacher’s recommendation is sufficient if no exams have been taken.
 
-The competition will take place on <strong>Saturday 25th February 2017 at 5.30pm</strong>
+The competition will take place on **Saturday 24th February 2018**
 
-Venue: <strong>Temple Methodist Church Hall</strong>  
-Adjudicator: <strong>Amy Carson</strong>  
+Venue: <strong>Temple Methodist Church</strong>  
+Adjudicator: <strong>Joseph Wicks</strong>  
 Programme: A recital of 7 – 10 minutes duration  
-Closing date for applications: <strong>5th February 2017</strong>  
-Entry Fee: £12
+Closing date for applications: <strong>2th February 2018</strong>  
+Entry Fee: £15
 
-To apply, please [download this application form and sent it to:]({{ '/wp-content/uploads/2016/10/TJYS-Application-2017.docx' | prepend: site.github.url }})  
+To apply, please [download this application form and sent it to:]({{ '/wp-content/uploads/2017/11/2018_Taunton_Junior_Young_Singer.pdf' | prepend: site.github.url }})  
 Mrs Nicola Ridley  
 27 Church Street  
 Taunton  
 TA1 3JF  
 ncridley@outlook.com
 
-### Competition Rules 2017
+### Competition Rules 2018
 
-- Singers need to be between nine and 13 on 1st September 2016
+- Singers need to be between nine and 13 on 1st September 2017
 - Singers should be grade four standard or above.
 - Singers should present a contrasting programme lasting between 7 and 10 minutes. Only one item of musical theatre repertoire should be included.
 - Copies of the chosen music must be provided for the adjudicator.
 - Photocopies will be retained and destroyed immediately after the event, in accordance with copyright regulations. (See festival rules)
-- Singers should provide their own accompanists, although we may be able to put you in touch with someone.
+- Singers should provide their own accompanists, please Nikki Ridley if you need a recommendation.
 - Competitors are encouraged to enter other festival classes (not mandatory).
+
 
 ### Awards
 
-The winner will receive a prize of £100 and the Cleves Cup. There will be a second prize of £50 and a third prize of £25. In addition, the adjudicator will have the chance to award ‘highly commended’ status to additional singers at her discretion.
+The winner will receive a prize of £100 and the Cleves Cup. There will be a second prize of £50 and a third prize of £25. In addition, the adjudicator will have the chance to award ‘highly commended’ status to additional singers at his discretion.
 
 
 THE ORGANISERS RESERVE THE RIGHT TO ADJUST THE RULES, SHOULD THIS BE IN THE BEST INTERESTS OF THE COMPETITION.

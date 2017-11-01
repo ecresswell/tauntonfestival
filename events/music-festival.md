@@ -26,7 +26,7 @@ The Taunton Junior Young Singer of the Year competition has been created followi
 
 ### [Taunton Young Music Theatre Singer]({{ '/events/music-festival/taunton-young-music-theatre-singer/' | prepend: site.github.url }})
 
-Competitors are invited to perform a programme from different periods and genres, up to a maximum of ten minutes. Movement will be permitted, if appropriate, but not costume or props. 
+Competitors are invited to perform a programme from different periods and genres, up to a maximum of twelve minutes. Movement will be permitted, if appropriate, but not costume or props. 
 
 ### [Somerset Song Prize (18-26)]({{ '/events/music-festival/somerset-song-prize/' | prepend: site.github.url }})
 

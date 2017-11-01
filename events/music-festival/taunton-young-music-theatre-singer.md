@@ -6,30 +6,32 @@ redirect_from: "/music-festival/taunton-young-music-theatre-singer/"
 
 This competition for young singers was set up by the festival in response to the ever-growing interest in the demanding sphere of musical theatre performance.
 
-**THE COMPETITION** is open to any voice. No previous winner is allowed to compete.
+**THE COMPETITION** is open to any voice. No previous winner is allowed to compete.   Entrants should be resident or attending any school within a 50 mile radius of Taunton.
 
-Age range: **14 to 18** on 1 September 2016
+Age range: **14 to 18** on 1 September 2017
 
-A programme of **8 to 10 minutes maximum** should be prepared, preferably incorporating different periods and genres or other diversities of style and presentation.
+A programme of **10 to 12 minutes maximum** should be prepared, preferably incorporating different periods and genres or other diversities of style and presentation.
 
 Movement is permitted but not the use of costume or props.
 
-**[Please click here to download an application form]({{ '/wp-content/uploads/2016/09/Taunton_Young_Music_Theatre_Singer_2017.pdf' | prepend: site.github.url }})**
+**[Please click here to download an application form]({{ '/wp-content/uploads/2017/11/2018_TAUNTON_YOUNG_MUSIC_THEATRE_SINGER.pdf' | prepend: site.github.url }})**
 
 {:.easy-table easy-table-default}
-|**DATE**|The Competition takes place on Sunday, 12 March 2017|
+|**DATE**|The Competition takes place on Saturday, 24 February 2018|
+|**TIME**|Afternoon competition, 2:00 p.m. (time to be confirmed)|
 |**AWARDS**|The winning performer will receive a cheque for £200 while the two runners up will receive £100 and £50 respectively.|
-|**ENTRY FEE**|The entry fee of £20 should be made out to Taunton Festival of the Arts and included with the completed form of application|
-|**ENTRIES**|The application form should be returned by Friday 4 March 2017|
-|**ADJUDICATOR**|The adjudicator will be Bryan Husband, who was Head of Singing at the Guildford School of Acting, and is currently teaching at Trinity Laban on the Music Theatre BA course.|
-|**OFFICIAL ACCOMPANIST**|An official accompanist will be available for an additional charge of £12.00|
+|**ENTRY FEE**|The entry fee of £20 should be made out to Taunton Festival of the Arts and included with the completed form of application, or transferred by internet banking|
+|**ENTRIES**|The application form should be returned by Friday 2nd February 2018|
+|**ADJUDICATOR**|The adjudicator will be Sarah Jefferies|
+|**OFFICIAL ACCOMPANIST**|An official accompanist will be available for an additional charge of £14.00, which includes a 15 minute rehearsal and the competition performance|
 | | |
 
 **VENUE**  
-The Gwyn Williams Music Room, 2.30 p.m.   
+The Gwyn Williams Music Room  
 Taunton School  
 Staplegrove Road  
 Taunton  
+Somerset  
 TA2 6AD
 
-**MUSIC THEATRE WORKSHOP**, for those interested, will follow the competition.
+**N.B.** In addition competitors are welcome to enter for Taunton Young Singer which will be held on the morning of the same day.
