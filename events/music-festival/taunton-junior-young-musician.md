@@ -6,21 +6,17 @@ redirect_from:
   - "/events/music-festival/taunton-junior-young-musician/tjym-adjudicator/"
 ---
 
-TJYM began as an addition to TYM, but it was felt it should have its own identity as a separate competition with a prize of £100 and the Jefferson Horsley trophy to keep for one year.
+TJYM began as an addition to TYM, but it was felt it should have its own identity as a separate competition with a prize of £100 and the Jefferson Horsley trophy to keep for one year, there is also a 2nd prize of £50.
 
-**The competition will be held on Sat 25th February 2017 at 9:30 am at Temple Methodist Church, Taunton, please be here at least 15 minutes before this if you are performing. The competition will finish at approx 1:20 pm, and there will be a 15 minute interval.** 
-
-The competition is open to solo instrumentalists aged under 14 years on 1st Sept 2016. They must have attained Grade 5 standard or above, and should offer two or three contrasting pieces for adjudication, with a total time limit of 10 minutes.
-
-[Our adjudicator will be Richard Deering]({{ '/events/music-festival/taunton-junior-young-musician/adjudicator' | prepend: site.github.url }}), who has wide experience as an adjudicator and examiner both nationally and internationally.
+The competition will be held on the morning of Sunday 4th March in the Queen's Hall, Queen's College, Taunton. Times tba.
 
 ### Applications
-[To apply, please download this application form and post or email it to us.]({{ '/wp-content/uploads/2016/10/TJYM-Application-2017.doc' | prepend: site.github.url }})
+[To apply, please download this application form and post or email it to us.]({{ '/wp-content/uploads/2017/12/TJYM-Application-2018.doc' | prepend: site.github.url }})
 
-**Closing date for entries is Monday 16th January 2017.**
+**Closing date for entries is Monday 26th January 2018.**
 
 ### Competition Rules
-- Entrants to be under the age of 14 on 1st Sept. 2016<br />
+- Entrants to be under the age of 14 on 1st Sept. 2017<br />
 - To have attained Grade 5 standard or above.<br />
 - To offer 2 or 3 contrasting pieces for adjudication.<br />
 - Time limit up to 10 minutes<br />
@@ -31,4 +27,4 @@ The competition is open to solo instrumentalists aged under 14 years on 1st Sept
 - Previous winners may enter on one more occasion, provided they play a different instrument.
 
 ### Awards
-The winner will receive a prize of £100 and the Jefferson Horsley Trophy to be retained for one year. He/she will also be invited to give a short recital prior to the final round of TYM / TYS on 26th Feb 2017. There will be a second prize of £50.
+The winner will receive a prize of £100 and the Jefferson Horsley Trophy to be retained for one year. There will be a second prize of £50.
