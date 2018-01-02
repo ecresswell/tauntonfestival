@@ -11,7 +11,7 @@ Taunton Junior Young Singer is open to any singer (except previous winners) resi
 The competition will take place on **Saturday 24th February 2018**
 
 Venue: <strong>Temple Methodist Church</strong>  
-Adjudicator: <strong>Joseph Wicks</strong>  
+Adjudicator: <strong>Madeleine Shaw</strong>  
 Programme: A recital of 7 – 10 minutes duration  
 Closing date for applications: <strong>2th February 2018</strong>  
 Entry Fee: £15
