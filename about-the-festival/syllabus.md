@@ -10,3 +10,5 @@ The Music and Drama Festival Syllabus for 2018 is available for download below:
 [Please register and use this RunMyFestival link to enter.](https://www.runmyfestival.co.uk/runMyFestival/security/welcome.jsf?oi=TFOA)
 
 If you require the official accompanist please contact the relevant section secretary.
+
+The Taunton Festival Music Programme for also available - [please click here to download]({{ '/wp-content/uploads/2018/01/2018_Taunton_Festival_Music_Programme.pdf' | prepend: site.github.url }}).
