@@ -3,6 +3,19 @@ layout: dance
 title: Dance Festival Competition Results
 ---
 
+## Dance Festival 2017
+
+{:.easy-table easy-table-default}
+| Jacqui Taylor Memorial Award      | Kerra Fox |
+| Janice Blake Award 			    | Jade McKinley |
+| Nicky Jenks Cup   			    | Millie Gubby |
+| Destination Dance Cup 		    | Holly Cooper |
+| Festival Centenary Cup 		    | Allana Kingston |
+| Taunton Festival Cup   		    | Nicky Jenks School of Dance |
+| IDS Cup				            | Somerset Dance Umbrella |
+| The Dance Summer School Shield    | Holly Cooper |
+| | |
+
 ### Dance Festival 2016
 
 [Photo Gallery for 2016]({{ '/events/dance-festival/photo-gallery-2016/' | prepend: site.github.url }})

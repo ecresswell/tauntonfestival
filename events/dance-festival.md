@@ -3,7 +3,6 @@ layout: dance
 title: Dance Festival
 redirect_from: 
   - "/events/dance-festival/dance-sections/"
-  - "/events/dance-festival/dance-regulations/"
 ---
 
 ### Taunton Young Dancer - Register your interest today
@@ -16,65 +15,59 @@ Please register your interest by filling out this survey - <https://www.surveymo
 
 <br />
 
-### Dance Festival 2017
+### Dance Festival 2018
 
-**Dates**:  30th May to the 4th June 2017  
+**Dates**:  30th May to the 2nd June 2018  
 **Venue**: Queen's College, Trull Road, Taunton, TA1 4QP
-
-There will also be a Gala evening on the 4th June 2017 to celebrate the year with some thrilling performances from the Music, Drama and Dance competitors of 2016/17.
 
 We&#8217;re very pleased to have <a title="Dance Festival Patron" href="/events/dance-festival/dance-festival-patron/">Terry Etheridge as our Dance Festival Patron</a>.
 
-[The Adjudicator for 2017 is Danielle Drayton.]({{ '/events/dance-festival/dance-adjudicator/' | prepend: site.github.url }})
+[The Adjudicator for 2018 is Yasmin Tayler-Hazzard.]({{ '/events/dance-festival/dance-adjudicator/' | prepend: site.github.url }})
 
-### Dance Syllabus and Entry Form
+Please take a moment to read through the [Dance Regulations]({{ '/events/dance-festival/dance-regulations/' | prepend: site.github.url }}), [Child Protection Policy]({{ '/wp-content/uploads/2018/01/Child_Protection_Policy_2018.pdf' | prepend: site.github.url }}), and the Health and Safety Policy. We are not able to confirm which sections will be on what day at this stage.
 
-[The Dance Syllabus for 2017 is now available, please click here to download and view it.]({{ '/wp-content/uploads/2017/01/dance_syllabus_2017.pdf' | prepend: site.github.url }})
+You can now follow us on:
 
-[The Entry form can be downloaded by clicking here.]({{ '/wp-content/uploads/2017/01/dance_entry_form_2017.xls' | prepend: site.github.url }}) Please return your entries by 28th February 2017 to the email/address provided on the form.
+- Facebook – [Taunton Festival of the Arts – Dance Section](https://www.facebook.com/Taunton-Festival-of-the-Arts-Dance-775972242521819/)
+- Twitter – [@TFADance](https://twitter.com/TFADance)
 
-### Child Protection Information
 
-[Our updated child protection policy can be found here]({{ '/wp-content/uploads/2016/05/Child_Protection_Policy_2016.pdf' | prepend: site.github.url}})
+### Dance Classes and Entry Form
 
-**[Please also find the child protection form that should be signed for each child under 18 years of age]({{ '/wp-content/uploads/2016/05/Child_Protection_Policy_Letter_2016.pdf' | prepend: site.github.url}})**
+[The Dance Classes for 2018 are now available, please click here to download.]({{ '/wp-content/uploads/2018/01/Dance_Classes_2018.pdf' | prepend: site.github.url }})
+
+The entry form is available as an Excel document or as a Word document to print.
+
+- [E-Entry form (Excel)]({{ '/wp-content/uploads/2018/01/Dance_2018_Entry_Form.xls' | prepend: site.github.url }})
+- [Standard Entry form (Word))]({{ '/wp-content/uploads/2018/01/Dance_2018_Entry_Form.docx' | prepend: site.github.url }})
+
+Please return your entries by 28th February 2018 by email to <a href="mailto:tfadancesection@gmail.com">tfadancesection@gmail.com</a> or post to: Bridgit Hepworth-Kybert, 2 Burge Meadow, Cotford St Luke, Taunton, TA4 1QN
+
+Cheques payable to: Taunton Festival of the Arts.
+
+**New for 2018**: You can book your entries through Run My Festival and pay via BACS. Please visit [the Run My Festival website](https://www.runmyfestival.co.uk/runMyFestival/security/welcome.jsf?oi=TFOA)
+
 
 ### Dance Section Trophies
 
 {:.easy-table easy-table-default}
-| Destination Dance Cup         | for the most promising senior     |
-| IDS Cup                       | for most effective costume        |
-| Jacqui Taylor Memorial Award  | for highest mark in a tap solo    |
-| Janice Blake Award            | for artistry and performance      |
-| Nicky Jenks Cup               | for the most promising junior     |
-| Taunton Festival Cup          | for the highest group mark        |
-| The Dance Summer School Shield| for highest mark in ballet        |
-| | |
+| Jacqui Taylor Memorial Award    | For highest mark in a tap solo  |
+| Janice Blake Award              | For artistry and performance    |
+| Nicky Jenks Cup                 | For the most promising junior   |
+| Destination Dance Cup           | For the most promising senior   |
+| Festival Centenary Cup          | For the highest solo mark       |
+| Taunton Festival Cup            | For the highest group mark      |
+| IDS Cup                         | Most effective costume          |
+| The Dance Summer School Shield  | Highest Mark in Ballet          |
+
 
 The Festival will now award medals to all 1st, 2nd and 3rd place winners. There will be the opportunity to buy medals and lanyards for the group sections.
 
 If you are interested in becoming part of the <a title="Dance Section Committee" href="/events/dance-festival/dance-section-committee/">dance committee</a>, or have any further questions, please contact Natasha Ballardie using the new Dance Festival email address <a href="mailto:tfadancesection@gmail.com">tfadancesection@gmail.com</a>
 
-## Dance Festival 2016
+### Sponsor and Advertisement
 
-[**A gallery of pictures from the event is available here.**]({{ '/events/dance-festival/photo-gallery-2016/' | prepend: site.github.url }}) The Festival enjoyed seeing dancers from all over the South West compete in a friendly dance competition.
-
-We would like to congratulate everyone that participated and to our trophy winners listed below.
-
-[**As well as this page, you can follow us on our Facebook for up to information**](https://www.facebook.com/Taunton-Festival-of-the-Arts-Dance-775972242521819/)
-
-#### TROPHY WINNERS 2016 DANCE SECTION
-
-{:.easy-table easy-table-default}
-| Jacqui Taylor Memorial Award  | Highest mark in Tap           | Bethany Pearce (88)           |
-| Janice Blake Award            | For artistry and performance  | Classical Duet, Amelia Corrick and Allana Kingston |
-| Nicky Jenks Cup               | For most promising junior     | Katie Alford                  |
-| Destination Dance Cup         | For most promising senior     | George Hawkins                |
-| Festival Centenary Cup        | Highest solo mark             | Jessica Boulter Choreography (90) |
-| Taunton Festival Cup          | Highest group mark            | First Steps/Carly Hall (89)   |
-| The Dance Summer School Shield| Highest mark in Ballet        | Rhian Streeter (88)           |
-| IDS Cup                       | Most effective costume        | Cabaret Group Zebras Somerset Dance Umbrella |
-| | | |
+If you would like to place an advertisement in the 2018 Dance Festival Programme or Sponsor us in 2018, please contact Natasha Ballardie for more details on: <a href="mailto:tfadancesection@gmail.com">tfadancesection@gmail.com</a>  
 
 ## Previous Dance Festival Results
 

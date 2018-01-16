@@ -1,16 +1,10 @@
 ---
 layout: dance
-title: Danielle Drayton, Dance Adjudicator
+title: Yasmin Tayler-Hazzard, Dance Adjudicator
 ---
 
-<img display="float:left" src="{{ '/wp-content/uploads/2016/10/Danielle_Drayton.png' | prepend: site.github.url }}" alt="Danielle Drayton" class="alignleft size-full wp-image-553" />Danielle trained at The Sandra Needham School of Dance and went on to study and graduate from Leeds Dance College gaining a diploma in dance and musical theatre as well as her teaching qualifications.
+<img display="float:left" src="{{ '/wp-content/uploads/2018/01/Yasmin_Tayler-Hazzard.png' | prepend: site.github.url }}" alt="Danielle Drayton" class="alignleft size-full wp-image-553" />Yasmin trained at the Royal Ballet School, graduating with a special prize from Dame Ninette de Valois, and went on to study with Ballet Rambert. She worked with the National Youth Ballet as an assistant choreographer in their production of the Dolls House at Sadlers Wells Theatre. She then went on to dance with the Dutch National Ballet in their tour of Romeo and Juliet. 
 
-She has worked professionally in musical theatre, TV and Film, cruise ships and dance tours in the UK, Europe, America, the United Arab Emirates and the Far East.
+Yasmin is now the Principal of a successful dance school in Hampshire and many of her ex-pupils are currently pursuing professional careers in dance. She is also an adjudicator for the British and International Federation of Festivals. 
 
-Danielle is an established choreographer in theatre, TV and the commercial sector as well as a guest teacher for various schools and colleges in the UK.
-
-She runs her own production company – Blue Fish Entertainments which produces entertainment for large scale events, TV, Film and theatre productions both in the UK and internationally.
-
-She also enjoys being on the audition board for various companies helping to recruit entertainers and assist with their on-going training and performance.
-
-Danielle is honoured to be a dance adjudicator for The British and International Federation of Festivals. **BC,M,J,CO,T,S+D,MT,N,G,CD**
+**BC,M,J,CO,T,S+D,MT,N,G,CD**
