@@ -8,7 +8,7 @@ redirect_from:
 
 TJYM began as an addition to TYM, but it was felt it should have its own identity as a separate competition with a prize of £100 and the Jefferson Horsley trophy to keep for one year, there is also a 2nd prize of £50.
 
-The competition will be held on the morning of Sunday 4th March in the Queen's Hall, Queen's College, Taunton. Times tba.
+The competition will be held from 9:30 am on Sunday 6th May at Wellington School's Music Centre.
 
 ### Applications
 [To apply, please download this application form and post or email it to us.]({{ '/wp-content/uploads/2017/12/TJYM-Application-2018.doc' | prepend: site.github.url }})

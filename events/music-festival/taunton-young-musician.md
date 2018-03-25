@@ -8,7 +8,7 @@ redirect_from:
 
 ## Taunton Young Musician Competition 2018
 
-Taunton Young Musician competition, to be adjudicated by Melanie Ragge, will take place at 2pm on Sunday, 4th March 2018 at Queen's College, Taunton.
+Taunton Young Musician competition, to be adjudicated by Melanie Ragge, will take place at 2pm on Sunday, 6th May 2018 at Wellington School's Music Centre.
 
 THE COMPETITION is open to any instrumentalist (apart from a previous winner). The following conditions apply:-  
 
