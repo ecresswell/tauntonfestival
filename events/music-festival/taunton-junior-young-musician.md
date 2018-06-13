@@ -28,3 +28,11 @@ The competition will be held from 9:30 am on Sunday 6th May at Wellington School
 
 ### Awards
 The winner will receive a prize of £100 and the Jefferson Horsley Trophy to be retained for one year. There will be a second prize of £50.
+
+## Taunton Junior Young Musician Competition 2018
+
+The winner was Daisy Hickson (Clarinet) who received the Jefferson Horsley Cup and a prize of £100
+
+Second was Anthony Knight (Violin) and a prize of £50
+
+Third was Esme Daniell-Greenhalgh (Violin) and a prize of £25

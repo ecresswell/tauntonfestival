@@ -53,11 +53,12 @@ The winner will also:
 
 [**Please click here to download an application form**]({{ '/wp-content/uploads/2018/01/TYM_2018_Entry_Form.docx' | prepend: site.github.url }}). Completed entries can be returned by email or by post, please see the form for more details.
 
-#### Venue
+## Taunton Young Musician Competition 2018
 
-Queen’s Hall  
-Queen’s College  
-Trull Road  
-Taunton  
-TA1 4QS  
+The winner was Alexander Heather (Double Bass) with a prize of £300
 
+Second equal were Cristina Dimitrova (Violin)  and Poppy McGhee (Violin) who each received a prize of £150
+
+Third place went to Becky Farthing (Violincello) with a priize of £75
+
+The Ron Tickner Educational Trust Prize of £75, for an outstanding performance on the Pianoforte went to Nina Leonard-Savicevic
