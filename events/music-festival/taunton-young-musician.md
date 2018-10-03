@@ -51,7 +51,7 @@ The winner will also:
 
 #### Entries
 
-[**Please click here to download an application form**]({{ '/wp-content/uploads/2018/10/TYM_2019_Entry_Form.docx' | prepend: site.github.url }}). Completed entries can be returned by email or by post, please see the form for more details.
+[**Please click here to download an application form**]({{ '/wp-content/uploads/2018/10/TYM_2019_Entry_Form.docx' | prepend: site.github.url }}). Completed entries can be returned by email or by post; please see the form for more details.
 
 ## Taunton Young Musician Competition 2018
 
