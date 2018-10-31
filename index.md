@@ -5,7 +5,7 @@ redirect_from:
   - "/welcome-to-the-taunton-festival-of-the-arts-beta/"
 ---
 
-<h1 class="main-title">The Taunton Festival 2018 online Festival entry is now available - <a href="{{ '/about-the-festival/syllabus/' | prepend: site.github.url }}">please see the syllabus page for more information</a></h1>
+<h1 class="main-title"><a href="{{ '/about-the-festival/syllabus/' | prepend: site.github.url }}">The Taunton Festival 2019 Syllabus is now available</a></h1>
 
 Formed in 1913, the Taunton & Somerset Music, Drama & Dance Festival has undergone a name change – Taunton Festival of the Arts – to reflect more closely its activities and to allow for additional events. The festival is affiliated to the British and International Federation of Festivals (<http://www.federationoffestivals.org.uk>) and the Taunton Association of Performing Arts (<http://www.tapa.org.uk>).
 
