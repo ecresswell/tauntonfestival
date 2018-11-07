@@ -8,7 +8,7 @@ redirect_from:
 
 ## Taunton Young Musician Competition 2019
 
-Taunton Young Musician competition 2019, the adjudicator for which is yet to be determined, will take place on Sunday, 17th March at Queen's College, Taunton, commencing at 2pm.
+Taunton Young Musician competition 2019, to be adjudicated by Rosanna Whitfield DipRcm, ARCM, PGCE, will take place on Sunday, 17th March at Queen's College, Taunton, commencing at 2pm.
 
 THE COMPETITION is open to any instrumentalist (apart from a previous winner unless performing on a different instrument). The following conditions apply:-  
 
