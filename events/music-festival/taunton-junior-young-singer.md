@@ -6,41 +6,35 @@ redirect_from:
   - "/taunton-junior-young-singer/"
 ---
 
-Taunton Junior Young Singer is open to any singer (except previous winners) resident, or attending school, within a 50-mile radius of Taunton and aged between nine and 13 on 1st September 2017. Entrants should be grade four standard or above – teacher’s recommendation is sufficient if no exams have been taken.
+Taunton Junior Young Singer is open to any singer (except previous winners) resident, or attending school, within a 50-mile radius of Taunton and aged between 9 and 13 on 1st September 2018. Entrants should be Grade 4 standard or above – teacher’s recommendation is sufficient if no exams have been taken.
 
-The competition will take place on **Saturday 24th February 2018**
-
-Venue: <strong>Temple Methodist Church</strong>  
-Adjudicator: <strong>Madeleine Shaw</strong>  
+Entry Fee: £15  
+Entries to be made by: **Friday 1st February 2019**  
+Adjudicator: **Charlotte Ashley**  
 Programme: A recital of 7 – 10 minutes duration  
-Closing date for applications: <strong>2th February 2018</strong>  
-Entry Fee: £15
 
-To apply, please [download this application form and sent it to:]({{ '/wp-content/uploads/2017/11/2018_Taunton_Junior_Young_Singer.pdf' | prepend: site.github.url }})  
-Mrs Nicola Ridley  
-27 Church Street  
-Taunton  
-TA1 3JF  
-ncridley@outlook.com
+Awards:
 
-### Competition Rules 2018
+{:.easy-table easy-table-default}
+|1st Prize|£100 and the Cleves Cup|
+|2nd Prize|£50|
+|3rd Prize|£25|
 
-- Singers need to be between nine and 13 on 1st September 2017
-- Singers should be grade four standard or above.
-- Singers should present a contrasting programme lasting between 7 and 10 minutes. Only one item of musical theatre repertoire should be included.
-- Copies of the chosen music must be provided for the adjudicator.
-- Photocopies will be retained and destroyed immediately after the event, in accordance with copyright regulations. (See festival rules)
-- Singers should provide their own accompanists, please Nikki Ridley if you need a recommendation.
-- Competitors are encouraged to enter other festival classes (not mandatory).
+In addition, the adjudicator will have the chance to award ‘highly commended’ status to additional singers at their discretion.
 
+Date: Saturday 23rd February 2019  
+Time: 2pm  
+Venue: Temple Methodist Church  
 
-### Awards
-
-The winner will receive a prize of £100 and the Cleves Cup. There will be a second prize of £50 and a third prize of £25. In addition, the adjudicator will have the chance to award ‘highly commended’ status to additional singers at his discretion.
-
+There is no official accompanist, but the secretary will be able to suggest possible accompanists if necessary.
 
 THE ORGANISERS RESERVE THE RIGHT TO ADJUST THE RULES, SHOULD THIS BE IN THE BEST INTERESTS OF THE COMPETITION.
 
+To apply, please [download this entry form]({{ '/wp-content/uploads/2018/11/TJYS_2019_entry_form.docx' | prepend: site.github.url }}). Entries should be sent to: Mrs Nicola Ridley  
+ncridley@outlook.com  
+27 Church Street,  
+Taunton  
+TA1 3JF  
 
 ### Competition Results 2015/16
 
