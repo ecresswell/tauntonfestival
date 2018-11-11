@@ -14,7 +14,7 @@ redirect_from: "/music-festival/taunton-young-singer/"
 
 A programme of contrasting songs, **10 to 12 minutes maximum** should be prepared.
 
-**[Please click here to download an application form]({{ '/wp-content/uploads/2018/11/TYS_2018_entry_form.pdf' | prepend: site.github.url }})**
+**[Please click here to download an application form]({{ '/wp-content/uploads/2018/11/TYS_2019_entry_form.pdf' | prepend: site.github.url }})**
 
 {:.easy-table easy-table-default}
 |**DATE**|The Competition takes place on Sunday, 24 February 2019|
