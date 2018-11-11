@@ -16,7 +16,7 @@ The Trustees of the Festival have established a fund, designated to provide priz
 
 TJYM began as an addition to TYM, but it was felt it should have its own identity as a separate competition. 
 
-### [Taunton Young Singer (Grade VI+)]({{ '/events/music-festival/taunton-young-singer/' | prepend: site.github.url }})
+### [Taunton Young Singer]({{ '/events/music-festival/taunton-young-singer/' | prepend: site.github.url }})
 
 This competition for young singers has been set up by the festival in response to the ever-growing number of entries in the Music Festival. It was also felt that singers should have their own competition and not be judged alongside their instrumental contemporaries as in past Taunton Young Musicians competitions.
 
